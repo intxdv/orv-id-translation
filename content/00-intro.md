@@ -7,8 +7,7 @@
 Proyek ini adalah alih bahasa penggemar (*fan translation*) dari web novel legendaris **Omniscient Reader's Viewpoint** ke dalam Bahasa Indonesia. Dibuat dengan dedikasi untuk memperkenalkan perjalanan Kim Dokja kepada pembaca Indonesia secara lebih luas dan mendalam.
 
 **Tim Proyek Indonesia:**
-- **Translator**: `slvgnt` dibantu oleh `Gemini Flash, dkk. (Antigravity)`
-- **GitHub**: [github.com/intxdv](https://github.com/intxdv)
+- **Translator**: **slvgnt—Taki** & **Antigravity** (Gemini AI Agent)
 - **Status**: *On-going Translation*
 
 **Kredit Karya Asli:**
