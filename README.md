@@ -40,7 +40,6 @@ Proyek ini dikelola dengan bantuan AI untuk memastikan efisiensi dan konsistensi
 ---
 
 <div align="center">
-  <br>
   <img src="assets/stigma.png" width="30%" alt="Stigma Icon" />
   <br>
   <br>
