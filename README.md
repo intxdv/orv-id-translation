@@ -21,21 +21,53 @@ Proyek ini menggunakan alur kerja modern berbasis Markdown untuk memastikan flek
 Proyek ini dikelola dengan bantuan AI untuk memastikan efisiensi dan konsistensi istilah:
 
 - **Lead Translator**: **slvgnt—Taki**
-- **AI Assistant**: **Antigravity** (Gemini AI Agent)
+- **AI Assistant**: **Antigravity** (Agent Driven IDE)
 
 ## 📁 Struktur Repositori
-- `assets/` — Berisi gambar, sampul, dan aset visual lainnya.
-- `content/` — Berkas utama translasi per-chapter dalam format Markdown.
-- `src/` & `tools/` — Utilitas untuk otomatisasi pembangunan EPUB.
-- `output/` — Hasil akhir translasi yang siap dibaca.
+
+```
+orv-id-translation/
+├── assets/                  # Gambar, sampul, dan aset visual
+│   ├── cover.jpg
+│   ├── cover-p1-v1.jpg
+│   ├── stigma.png
+│   └── style.css
+├── content/                 # Draft translasi per-chapter (Markdown)
+│   └── 00-intro.md
+├── src/                     # Berkas EPUB siap-pakai
+│   ├── META-INF/
+│   │   └── container.xml
+│   ├── OEBPS/
+│   │   ├── images/
+│   │   ├── intro.xhtml
+│   │   ├── ch_1.xhtml ~ ch_551.xhtml
+│   │   ├── afterword.xhtml
+│   │   ├── content.opf
+│   │   ├── toc.html
+│   │   └── toc.ncx
+│   ├── metadata.yaml
+│   └── mimetype
+├── tools/                   # Skrip bantu (Python)
+│   ├── repack_epub.py
+│   └── unzip_epub.py
+├── build/                   # Output build sementara
+├── output/                  # File EPUB final siap dibaca
+└── README.md
+```
 
 ## 📜 Kredit & Disklaimer
 - **Penulis**: Sing Shong (싱숑)
 - **Ilustrasi**: Black Box (검넴)
-- **Sumber Referensi**: Berdasarkan fan-translation komunitas internasional.
+- **Sumber Terjemahan EN**: Komunitas penggemar internasional — [orv.pages.dev](https://orv.pages.dev)
+- **Discord Komunitas EN**: [discord.gg/CZdNvKaNNr](https://discord.gg/CZdNvKaNNr)
 
 > [!IMPORTANT]
 > Proyek ini murni bersifat **non-profit** oleh penggemar untuk penggemar. Hak cipta sepenuhnya milik penulis asli. Harap dukung penulis melalui platform resmi jika memungkinkan.
+
+## 🐛 Laporan Kesalahan
+Menemukan typo, istilah yang kurang tepat, atau masalah lain? Silakan buat laporan di:
+
+👉 [github.com/intxdv/orv-id-translation/issues](https://github.com/intxdv/orv-id-translation/issues)
 
 ---
 
@@ -45,4 +77,3 @@ Proyek ini dikelola dengan bantuan AI untuk memastikan efisiensi dan konsistensi
   <br>
   <i>Dibuat dengan dedikasi untuk satu-satunya pembaca.</i>
 </div>
-
