@@ -71,6 +71,8 @@ Menemukan typo, istilah yang kurang tepat, atau masalah lain? Silakan buat lapor
 
 ---
 
+<!--
+
 <div align="center">
   <img src="assets/stigma.png" width="30%" alt="Stigma Icon" />
   <br> <br>
@@ -80,4 +82,6 @@ Menemukan typo, istilah yang kurang tepat, atau masalah lain? Silakan buat lapor
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhMjJhY2Vxb25lZ2t3N2pnenRtb2J0bTN2cHBocHpubjF3OWR0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhQzdP7FLELaHlQ5kl/giphy.gif"
     style="width: 250px;"
   />
+
+-->
 </div>
