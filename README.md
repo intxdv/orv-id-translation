@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="assets/cover.jpg" width="100%" alt="ORV Banner" />
-
+  <img src="ORV.png" width="100%" alt="ORV Banner" />
+  <br> <br>
+  
   # [ OMNISCIENT READER'S VIEWPOINT ]
   ### — Indonesian Fan-Translation —
 
