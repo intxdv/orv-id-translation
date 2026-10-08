@@ -1,0 +1,16 @@
+# EPUB Build outputs
+output/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
