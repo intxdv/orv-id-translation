@@ -7,42 +7,42 @@
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle><text> orv</text></docTitle><navMap>
-<navPoint id="0" playOrder="1"><navLabel><text>Ch 1: Prologue - Three Ways to Survive in a Ruined World.</text></navLabel><content src="ch_1.xhtml"/></navPoint>
-<navPoint id="1" playOrder="2"><navLabel><text>Ch 2: Ep. 1 – Starting the Paid Service, I</text></navLabel><content src="ch_2.xhtml"/></navPoint>
-<navPoint id="2" playOrder="3"><navLabel><text>Ch 3: Ep. 1 – Starting the Paid Service, II</text></navLabel><content src="ch_3.xhtml"/></navPoint>
-<navPoint id="3" playOrder="4"><navLabel><text>Ch 4: Ep. 1 – Starting the Paid Service, III</text></navLabel><content src="ch_4.xhtml"/></navPoint>
-<navPoint id="4" playOrder="5"><navLabel><text>Ch 5: Ep. 1 – Starting the Paid Service, IV</text></navLabel><content src="ch_5.xhtml"/></navPoint>
-<navPoint id="5" playOrder="6"><navLabel><text>Ch 6: Ep. 1 – Starting the Paid Service, V</text></navLabel><content src="ch_6.xhtml"/></navPoint>
-<navPoint id="6" playOrder="7"><navLabel><text>Ch 7: Ep. 2 – Protagonist, I</text></navLabel><content src="ch_7.xhtml"/></navPoint>
-<navPoint id="7" playOrder="8"><navLabel><text>Ch 8: Ep. 2 – Protagonist, II</text></navLabel><content src="ch_8.xhtml"/></navPoint>
-<navPoint id="8" playOrder="9"><navLabel><text>Ch 9: Ep. 2 – Protagonist, III</text></navLabel><content src="ch_9.xhtml"/></navPoint>
-<navPoint id="9" playOrder="10"><navLabel><text>Ch 10: Ep. 2 – Protagonist, IV</text></navLabel><content src="ch_10.xhtml"/></navPoint>
-<navPoint id="10" playOrder="11"><navLabel><text>Ch 11: Ep. 2 – Protagonist, V</text></navLabel><content src="ch_11.xhtml"/></navPoint>
-<navPoint id="11" playOrder="12"><navLabel><text>Ch 12: Ep. 3 – Contract, I</text></navLabel><content src="ch_12.xhtml"/></navPoint>
-<navPoint id="12" playOrder="13"><navLabel><text>Ch 13: Ep. 3 – Contract, II</text></navLabel><content src="ch_13.xhtml"/></navPoint>
-<navPoint id="13" playOrder="14"><navLabel><text>Ch 14: Ep. 3 – Contract, III</text></navLabel><content src="ch_14.xhtml"/></navPoint>
-<navPoint id="14" playOrder="15"><navLabel><text>Ch 15: Ep. 3 – Contract, IV</text></navLabel><content src="ch_15.xhtml"/></navPoint>
-<navPoint id="15" playOrder="16"><navLabel><text>Ch 16: Ep. 4 – Line of Hypocrisy, I</text></navLabel><content src="ch_16.xhtml"/></navPoint>
-<navPoint id="16" playOrder="17"><navLabel><text>Ch 17: Ep. 4 – Line of Hypocrisy, II</text></navLabel><content src="ch_17.xhtml"/></navPoint>
-<navPoint id="17" playOrder="18"><navLabel><text>Ch 18: Ep. 4 – Line of Hypocrisy, III</text></navLabel><content src="ch_18.xhtml"/></navPoint>
-<navPoint id="18" playOrder="19"><navLabel><text>Ch 19: Ep. 4 – Line of Hypocrisy, IV</text></navLabel><content src="ch_19.xhtml"/></navPoint>
+<navPoint id="0" playOrder="1"><navLabel><text>Ch 1: Prolog - Tiga Cara untuk Bertahan Hidup dalam Dunia yang Hancur.</text></navLabel><content src="ch_1.xhtml"/></navPoint>
+<navPoint id="1" playOrder="2"><navLabel><text>Ch 2: Ep. 1 – Layanan Berbayar Dimulai, I</text></navLabel><content src="ch_2.xhtml"/></navPoint>
+<navPoint id="2" playOrder="3"><navLabel><text>Ch 3: Ep. 1 – Layanan Berbayar Dimulai, II</text></navLabel><content src="ch_3.xhtml"/></navPoint>
+<navPoint id="3" playOrder="4"><navLabel><text>Ch 4: Ep. 1 – Layanan Berbayar Dimulai, III</text></navLabel><content src="ch_4.xhtml"/></navPoint>
+<navPoint id="4" playOrder="5"><navLabel><text>Ch 5: Ep. 1 – Layanan Berbayar Dimulai, IV</text></navLabel><content src="ch_5.xhtml"/></navPoint>
+<navPoint id="5" playOrder="6"><navLabel><text>Ch 6: Ep. 1 – Layanan Berbayar Dimulai, V</text></navLabel><content src="ch_6.xhtml"/></navPoint>
+<navPoint id="6" playOrder="7"><navLabel><text>Ch 7: Ep. 2 – Protagonis, I</text></navLabel><content src="ch_7.xhtml"/></navPoint>
+<navPoint id="7" playOrder="8"><navLabel><text>Ch 8: Ep. 2 – Protagonis, II</text></navLabel><content src="ch_8.xhtml"/></navPoint>
+<navPoint id="8" playOrder="9"><navLabel><text>Ch 9: Ep. 2 – Protagonis, III</text></navLabel><content src="ch_9.xhtml"/></navPoint>
+<navPoint id="9" playOrder="10"><navLabel><text>Ch 10: Ep. 2 – Protagonis, IV</text></navLabel><content src="ch_10.xhtml"/></navPoint>
+<navPoint id="10" playOrder="11"><navLabel><text>Ch 11: Ep. 2 – Protagonis, V</text></navLabel><content src="ch_11.xhtml"/></navPoint>
+<navPoint id="11" playOrder="12"><navLabel><text>Ch 12: Ep. 3 – Kontrak, I</text></navLabel><content src="ch_12.xhtml"/></navPoint>
+<navPoint id="12" playOrder="13"><navLabel><text>Ch 13: Ep. 3 – Kontrak, II</text></navLabel><content src="ch_13.xhtml"/></navPoint>
+<navPoint id="13" playOrder="14"><navLabel><text>Ch 14: Ep. 3 – Kontrak, III</text></navLabel><content src="ch_14.xhtml"/></navPoint>
+<navPoint id="14" playOrder="15"><navLabel><text>Ch 15: Ep. 3 – Kontrak, IV</text></navLabel><content src="ch_15.xhtml"/></navPoint>
+<navPoint id="15" playOrder="16"><navLabel><text>Ch 16: Ep. 4 – Garis Kemunafikan, I</text></navLabel><content src="ch_16.xhtml"/></navPoint>
+<navPoint id="16" playOrder="17"><navLabel><text>Ch 17: Ep. 4 – Garis Kemunafikan, II</text></navLabel><content src="ch_17.xhtml"/></navPoint>
+<navPoint id="17" playOrder="18"><navLabel><text>Ch 18: Ep. 4 – Garis Kemunafikan, III</text></navLabel><content src="ch_18.xhtml"/></navPoint>
+<navPoint id="18" playOrder="19"><navLabel><text>Ch 19: Ep. 4 – Garis Kemunafikan, IV</text></navLabel><content src="ch_19.xhtml"/></navPoint>
 <navPoint id="19" playOrder="20"><navLabel><text>Ch 20: Ep. 5 – Dark Keeper, I</text></navLabel><content src="ch_20.xhtml"/></navPoint>
 <navPoint id="20" playOrder="21"><navLabel><text>Ch 21: Ep. 5 – Dark Keeper, II</text></navLabel><content src="ch_21.xhtml"/></navPoint>
 <navPoint id="21" playOrder="22"><navLabel><text>Ch 22: Ep. 5 – Dark Keeper, III</text></navLabel><content src="ch_22.xhtml"/></navPoint>
 <navPoint id="22" playOrder="23"><navLabel><text>Ch 23: Ep. 5 – Dark Keeper, IV</text></navLabel><content src="ch_23.xhtml"/></navPoint>
-<navPoint id="23" playOrder="24"><navLabel><text>Ch 24: Ep. 6 – Judgment Time, I</text></navLabel><content src="ch_24.xhtml"/></navPoint>
-<navPoint id="24" playOrder="25"><navLabel><text>Ch 25: Ep. 6 – Judgment Time, II</text></navLabel><content src="ch_25.xhtml"/></navPoint>
-<navPoint id="25" playOrder="26"><navLabel><text>Ch 26: Ep. 6 – Judgment Time, III</text></navLabel><content src="ch_26.xhtml"/></navPoint>
-<navPoint id="26" playOrder="27"><navLabel><text>Ch 27: Ep. 6 – Judgment Time, IV</text></navLabel><content src="ch_27.xhtml"/></navPoint>
-<navPoint id="27" playOrder="28"><navLabel><text>Ch 28: Ep. 7 – Landlord, I</text></navLabel><content src="ch_28.xhtml"/></navPoint>
-<navPoint id="28" playOrder="29"><navLabel><text>Ch 29: Ep. 7 – Landlord, II</text></navLabel><content src="ch_29.xhtml"/></navPoint>
-<navPoint id="29" playOrder="30"><navLabel><text>Ch 30: Ep. 7 – Landlord, III</text></navLabel><content src="ch_30.xhtml"/></navPoint>
-<navPoint id="30" playOrder="31"><navLabel><text>Ch 31: Ep. 7 – Landlord, IV</text></navLabel><content src="ch_31.xhtml"/></navPoint>
-<navPoint id="31" playOrder="32"><navLabel><text>Ch 32: Ep. 7 – Landlord, V</text></navLabel><content src="ch_32.xhtml"/></navPoint>
-<navPoint id="32" playOrder="33"><navLabel><text>Ch 33: Ep. 8 – Emergency Defense, I</text></navLabel><content src="ch_33.xhtml"/></navPoint>
-<navPoint id="33" playOrder="34"><navLabel><text>Ch 34: Ep. 8 – Emergency Defense, II</text></navLabel><content src="ch_34.xhtml"/></navPoint>
-<navPoint id="34" playOrder="35"><navLabel><text>Ch 35: Ep. 8 – Emergency Defense, III</text></navLabel><content src="ch_35.xhtml"/></navPoint>
-<navPoint id="35" playOrder="36"><navLabel><text>Ch 36: Ep. 8 – Emergency Defense, IV</text></navLabel><content src="ch_36.xhtml"/></navPoint>
+<navPoint id="23" playOrder="24"><navLabel><text>Ch 24: Ep. 6 – Waktu Penghakiman, I</text></navLabel><content src="ch_24.xhtml"/></navPoint>
+<navPoint id="24" playOrder="25"><navLabel><text>Ch 25: Ep. 6 – Waktu Penghakiman, II</text></navLabel><content src="ch_25.xhtml"/></navPoint>
+<navPoint id="25" playOrder="26"><navLabel><text>Ch 26: Ep. 6 – Waktu Penghakiman, III</text></navLabel><content src="ch_26.xhtml"/></navPoint>
+<navPoint id="26" playOrder="27"><navLabel><text>Ch 27: Ep. 6 – Waktu Penghakiman, IV</text></navLabel><content src="ch_27.xhtml"/></navPoint>
+<navPoint id="27" playOrder="28"><navLabel><text>Ch 28: Ep. 7 – Tuan Tanah, I</text></navLabel><content src="ch_28.xhtml"/></navPoint>
+<navPoint id="28" playOrder="29"><navLabel><text>Ch 29: Ep. 7 – Tuan Tanah, II</text></navLabel><content src="ch_29.xhtml"/></navPoint>
+<navPoint id="29" playOrder="30"><navLabel><text>Ch 30: Ep. 7 – Tuan Tanah, III</text></navLabel><content src="ch_30.xhtml"/></navPoint>
+<navPoint id="30" playOrder="31"><navLabel><text>Ch 31: Ep. 7 – Tuan Tanah, IV</text></navLabel><content src="ch_31.xhtml"/></navPoint>
+<navPoint id="31" playOrder="32"><navLabel><text>Ch 32: Ep. 7 – Tuan Tanah, V</text></navLabel><content src="ch_32.xhtml"/></navPoint>
+<navPoint id="32" playOrder="33"><navLabel><text>Ch 33: Ep. 8 – Pertahanan Darurat, I</text></navLabel><content src="ch_33.xhtml"/></navPoint>
+<navPoint id="33" playOrder="34"><navLabel><text>Ch 34: Ep. 8 – Pertahanan Darurat, II</text></navLabel><content src="ch_34.xhtml"/></navPoint>
+<navPoint id="34" playOrder="35"><navLabel><text>Ch 35: Ep. 8 – Pertahanan Darurat, III</text></navLabel><content src="ch_35.xhtml"/></navPoint>
+<navPoint id="35" playOrder="36"><navLabel><text>Ch 36: Ep. 8 – Pertahanan Darurat, IV</text></navLabel><content src="ch_36.xhtml"/></navPoint>
 <navPoint id="36" playOrder="37"><navLabel><text>Ch 37: Ep. 9 – Omniscient Sunfish, I</text></navLabel><content src="ch_37.xhtml"/></navPoint>
 <navPoint id="37" playOrder="38"><navLabel><text>Ch 38: Ep. 9 – Omniscient Sunfish, II</text></navLabel><content src="ch_38.xhtml"/></navPoint>
 <navPoint id="38" playOrder="39"><navLabel><text>Ch 39: Ep. 9 – Omniscient Sunfish, III</text></navLabel><content src="ch_39.xhtml"/></navPoint>
