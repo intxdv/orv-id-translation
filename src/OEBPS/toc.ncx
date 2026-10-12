@@ -22,10 +22,10 @@
 <navPoint id="12" playOrder="13"><navLabel><text>Ch 13: Ep. 3 – Kontrak, II</text></navLabel><content src="ch_13.xhtml"/></navPoint>
 <navPoint id="13" playOrder="14"><navLabel><text>Ch 14: Ep. 3 – Kontrak, III</text></navLabel><content src="ch_14.xhtml"/></navPoint>
 <navPoint id="14" playOrder="15"><navLabel><text>Ch 15: Ep. 3 – Kontrak, IV</text></navLabel><content src="ch_15.xhtml"/></navPoint>
-<navPoint id="15" playOrder="16"><navLabel><text>Ch 16: Ep. 4 – Line of Hypocrisy, I</text></navLabel><content src="ch_16.xhtml"/></navPoint>
-<navPoint id="16" playOrder="17"><navLabel><text>Ch 17: Ep. 4 – Line of Hypocrisy, II</text></navLabel><content src="ch_17.xhtml"/></navPoint>
-<navPoint id="17" playOrder="18"><navLabel><text>Ch 18: Ep. 4 – Line of Hypocrisy, III</text></navLabel><content src="ch_18.xhtml"/></navPoint>
-<navPoint id="18" playOrder="19"><navLabel><text>Ch 19: Ep. 4 – Line of Hypocrisy, IV</text></navLabel><content src="ch_19.xhtml"/></navPoint>
+<navPoint id="15" playOrder="16"><navLabel><text>Ch 16: Ep. 4 – Garis Kemunafikan, I</text></navLabel><content src="ch_16.xhtml"/></navPoint>
+<navPoint id="16" playOrder="17"><navLabel><text>Ch 17: Ep. 4 – Garis Kemunafikan, II</text></navLabel><content src="ch_17.xhtml"/></navPoint>
+<navPoint id="17" playOrder="18"><navLabel><text>Ch 18: Ep. 4 – Garis Kemunafikan, III</text></navLabel><content src="ch_18.xhtml"/></navPoint>
+<navPoint id="18" playOrder="19"><navLabel><text>Ch 19: Ep. 4 – Garis Kemunafikan, IV</text></navLabel><content src="ch_19.xhtml"/></navPoint>
 <navPoint id="19" playOrder="20"><navLabel><text>Ch 20: Ep. 5 – Dark Keeper, I</text></navLabel><content src="ch_20.xhtml"/></navPoint>
 <navPoint id="20" playOrder="21"><navLabel><text>Ch 21: Ep. 5 – Dark Keeper, II</text></navLabel><content src="ch_21.xhtml"/></navPoint>
 <navPoint id="21" playOrder="22"><navLabel><text>Ch 22: Ep. 5 – Dark Keeper, III</text></navLabel><content src="ch_22.xhtml"/></navPoint>
