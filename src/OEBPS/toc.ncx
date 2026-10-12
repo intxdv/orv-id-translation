@@ -7,12 +7,12 @@
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle><text> orv</text></docTitle><navMap>
-<navPoint id="0" playOrder="1"><navLabel><text>Ch 1: Prologue - Three Ways to Survive in a Ruined World.</text></navLabel><content src="ch_1.xhtml"/></navPoint>
-<navPoint id="1" playOrder="2"><navLabel><text>Ch 2: Ep. 1 – Starting the Paid Service, I</text></navLabel><content src="ch_2.xhtml"/></navPoint>
-<navPoint id="2" playOrder="3"><navLabel><text>Ch 3: Ep. 1 – Starting the Paid Service, II</text></navLabel><content src="ch_3.xhtml"/></navPoint>
-<navPoint id="3" playOrder="4"><navLabel><text>Ch 4: Ep. 1 – Starting the Paid Service, III</text></navLabel><content src="ch_4.xhtml"/></navPoint>
-<navPoint id="4" playOrder="5"><navLabel><text>Ch 5: Ep. 1 – Starting the Paid Service, IV</text></navLabel><content src="ch_5.xhtml"/></navPoint>
-<navPoint id="5" playOrder="6"><navLabel><text>Ch 6: Ep. 1 – Starting the Paid Service, V</text></navLabel><content src="ch_6.xhtml"/></navPoint>
+<navPoint id="0" playOrder="1"><navLabel><text>Ch 1: Prolog - Tiga Cara untuk Bertahan Hidup dalam Dunia yang Hancur.</text></navLabel><content src="ch_1.xhtml"/></navPoint>
+<navPoint id="1" playOrder="2"><navLabel><text>Ch 2: Ep. 1 – Layanan Berbayar Dimulai, I</text></navLabel><content src="ch_2.xhtml"/></navPoint>
+<navPoint id="2" playOrder="3"><navLabel><text>Ch 3: Ep. 1 – Layanan Berbayar Dimulai, II</text></navLabel><content src="ch_3.xhtml"/></navPoint>
+<navPoint id="3" playOrder="4"><navLabel><text>Ch 4: Ep. 1 – Layanan Berbayar Dimulai, III</text></navLabel><content src="ch_4.xhtml"/></navPoint>
+<navPoint id="4" playOrder="5"><navLabel><text>Ch 5: Ep. 1 – Layanan Berbayar Dimulai, IV</text></navLabel><content src="ch_5.xhtml"/></navPoint>
+<navPoint id="5" playOrder="6"><navLabel><text>Ch 6: Ep. 1 – Layanan Berbayar Dimulai, V</text></navLabel><content src="ch_6.xhtml"/></navPoint>
 <navPoint id="6" playOrder="7"><navLabel><text>Ch 7: Ep. 2 – Protagonist, I</text></navLabel><content src="ch_7.xhtml"/></navPoint>
 <navPoint id="7" playOrder="8"><navLabel><text>Ch 8: Ep. 2 – Protagonist, II</text></navLabel><content src="ch_8.xhtml"/></navPoint>
 <navPoint id="8" playOrder="9"><navLabel><text>Ch 9: Ep. 2 – Protagonist, III</text></navLabel><content src="ch_9.xhtml"/></navPoint>

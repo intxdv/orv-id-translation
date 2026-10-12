@@ -7,10 +7,13 @@ Validates:
   2. Forbidden Terms ("Bab", "Rasi Bintang", "Dongeng", "Mas/Mbak")
   3. Untranslated English Leftovers
   4. Tag Integrity (unclosed <p>, <i>, <b>, <fieldset>)
+  5. [Recheck Mode]: Markdown asterisks, unicode superscripts, dangling <sup>, raw EN terms, old 3rd party links.
 
 Usage:
   python qc_batch.py 95
   python qc_batch.py --file ch_495.xhtml ch_496.xhtml
+  python qc_batch.py --recheck 1
+  python qc_batch.py --recheck --file ch_1.xhtml ch_2.xhtml
 """
 
 import sys
@@ -36,6 +39,15 @@ FORBIDDEN_PATTERNS = [
     (re.compile(r'\b(Mas|Mbak)\s+[A-Z]', re.IGNORECASE), "Penggunaan honorifik lokal 'Mas/Mbak' (Wajib honorifik Korea, e.g. -ssi)"),
 ]
 
+RECHECK_PATTERNS = [
+    (re.compile(r'\bWays\s+of\s+Survival\b', re.IGNORECASE), "Residu istilah EN 'Ways of Survival' (Wajib 'Cara Bertahan Hidup')"),
+    (re.compile(r'\bDemon\s+King\s+of\s+Salvation\b', re.IGNORECASE), "Residu istilah EN 'Demon King of Salvation' (Wajib 'Raja Iblis Keselamatan')"),
+    (re.compile(r'\bThe\s+Fourth\s+Wall\b', re.IGNORECASE), "Residu istilah EN 'The Fourth Wall' (Wajib 'Dinding Keempat')"),
+    (re.compile(r'orv\.pages\.dev', re.IGNORECASE), "Tautan domain pihak ketiga 'orv.pages.dev' (Wajib diganti ke GitHub Discussions)"),
+    (re.compile(r'[¹²³⁴⁵⁶⁷⁸⁹⁰]'), "Penggunaan karakter unicode superscript (Wajib gunakan tag <sup>)"),
+    (re.compile(r'(?<!\w)\*(?!\s)([^*<>\n]+)(?<!\s)\*(?!\w)'), "Penggunaan tanda bintang markdown '*teks*' (Wajib gunakan tag HTML <i>teks</i>)"),
+]
+
 def get_chapters_for_batch(batch_num):
     chapters = []
     if not os.path.exists(MANIFEST_PATH):
@@ -59,7 +71,7 @@ def get_chapters_for_batch(batch_num):
                         chapters.append(m.group(0))
     return sorted(list(set(chapters)))
 
-def validate_file(fpath):
+def validate_file(fpath, is_recheck=False):
     fname = os.path.basename(fpath)
     issues = []
 
@@ -94,6 +106,19 @@ def validate_file(fpath):
                     continue
                 issues.append(f"Baris {idx}: {desc} -> '{line.strip()[:80]}'")
 
+        # Recheck Extra Checks
+        if is_recheck:
+            # Check dangling <sup>
+            if re.search(r'^\s*<sup\b', line):
+                issues.append(f"Baris {idx}: Tag <sup> mengambang di luar paragraf (Dangling <sup>) -> '{line.strip()[:60]}'")
+
+            for pattern, desc in RECHECK_PATTERNS:
+                if pattern.search(line):
+                    # Ignore original English references inside Catatan footnotes
+                    if "Catatan [" in line and any(k in line for k in ["Ways of Survival", "Demon King of Salvation", "The Fourth Wall"]):
+                        continue
+                    issues.append(f"Baris {idx} [Recheck]: {desc} -> '{line.strip()[:80]}'")
+
         # 3. Detect raw English leftovers in paragraphs
         if line.strip().startswith("<p>") and line.strip().endswith("</p>"):
             clean_text = re.sub(r'<[^>]+>', '', line).strip()
@@ -112,7 +137,7 @@ def validate_file(fpath):
 
     return issues
 
-def run_qc_batch(batch_num=None, explicit_files=None):
+def run_qc_batch(batch_num=None, explicit_files=None, is_recheck=False):
     if explicit_files:
         target_files = [os.path.join(SRC_DIR, f) if not os.path.isabs(f) else f for f in explicit_files]
         batch_label = "Custom File Selection"
@@ -124,8 +149,9 @@ def run_qc_batch(batch_num=None, explicit_files=None):
         target_files = [os.path.join(SRC_DIR, ch) for ch in chapters]
         batch_label = f"Batch {batch_num} ({', '.join(chapters)})"
 
+    mode_label = " [RECHECK 6-PILLAR MODE]" if is_recheck else ""
     print(f"\n=======================================================")
-    print(f"🛡️ Running Automated QC for: {batch_label}")
+    print(f"🛡️ Running Automated QC for: {batch_label}{mode_label}")
     print(f"=======================================================")
 
     total_issues = 0
@@ -136,7 +162,7 @@ def run_qc_batch(batch_num=None, explicit_files=None):
             total_issues += 1
             continue
 
-        issues = validate_file(fpath)
+        issues = validate_file(fpath, is_recheck=is_recheck)
         if issues:
             print(f"\n❌ [{fname}] DITEMUKAN {len(issues)} ISU:")
             for issue in issues:
@@ -160,10 +186,22 @@ if __name__ == "__main__":
         print("Penggunaan:")
         print("  python qc_batch.py <batch_number>")
         print("  python qc_batch.py --file ch_XXX.xhtml ...")
+        print("  python qc_batch.py --recheck <batch_number>")
+        print("  python qc_batch.py --recheck --file ch_XXX.xhtml ...")
         sys.exit(1)
 
-    if sys.argv[1] == "--file":
-        run_qc_batch(explicit_files=sys.argv[2:])
+    args = sys.argv[1:]
+    is_recheck = False
+    if "--recheck" in args:
+        is_recheck = True
+        args.remove("--recheck")
+
+    if not args:
+        print("❌ Error: Argumen batch atau file diperlukan setelah --recheck")
+        sys.exit(1)
+
+    if args[0] == "--file":
+        run_qc_batch(explicit_files=args[1:], is_recheck=is_recheck)
     else:
-        batch_arg = sys.argv[1].replace("B", "").replace("b", "")
-        run_qc_batch(batch_num=batch_arg)
+        batch_arg = args[0].replace("B", "").replace("b", "")
+        run_qc_batch(batch_num=batch_arg, is_recheck=is_recheck)
