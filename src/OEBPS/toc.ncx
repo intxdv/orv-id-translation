@@ -18,10 +18,10 @@
 <navPoint id="8" playOrder="9"><navLabel><text>Ch 9: Ep. 2 – Protagonis, III</text></navLabel><content src="ch_9.xhtml"/></navPoint>
 <navPoint id="9" playOrder="10"><navLabel><text>Ch 10: Ep. 2 – Protagonis, IV</text></navLabel><content src="ch_10.xhtml"/></navPoint>
 <navPoint id="10" playOrder="11"><navLabel><text>Ch 11: Ep. 2 – Protagonis, V</text></navLabel><content src="ch_11.xhtml"/></navPoint>
-<navPoint id="11" playOrder="12"><navLabel><text>Ch 12: Ep. 3 – Contract, I</text></navLabel><content src="ch_12.xhtml"/></navPoint>
-<navPoint id="12" playOrder="13"><navLabel><text>Ch 13: Ep. 3 – Contract, II</text></navLabel><content src="ch_13.xhtml"/></navPoint>
-<navPoint id="13" playOrder="14"><navLabel><text>Ch 14: Ep. 3 – Contract, III</text></navLabel><content src="ch_14.xhtml"/></navPoint>
-<navPoint id="14" playOrder="15"><navLabel><text>Ch 15: Ep. 3 – Contract, IV</text></navLabel><content src="ch_15.xhtml"/></navPoint>
+<navPoint id="11" playOrder="12"><navLabel><text>Ch 12: Ep. 3 – Kontrak, I</text></navLabel><content src="ch_12.xhtml"/></navPoint>
+<navPoint id="12" playOrder="13"><navLabel><text>Ch 13: Ep. 3 – Kontrak, II</text></navLabel><content src="ch_13.xhtml"/></navPoint>
+<navPoint id="13" playOrder="14"><navLabel><text>Ch 14: Ep. 3 – Kontrak, III</text></navLabel><content src="ch_14.xhtml"/></navPoint>
+<navPoint id="14" playOrder="15"><navLabel><text>Ch 15: Ep. 3 – Kontrak, IV</text></navLabel><content src="ch_15.xhtml"/></navPoint>
 <navPoint id="15" playOrder="16"><navLabel><text>Ch 16: Ep. 4 – Line of Hypocrisy, I</text></navLabel><content src="ch_16.xhtml"/></navPoint>
 <navPoint id="16" playOrder="17"><navLabel><text>Ch 17: Ep. 4 – Line of Hypocrisy, II</text></navLabel><content src="ch_17.xhtml"/></navPoint>
 <navPoint id="17" playOrder="18"><navLabel><text>Ch 18: Ep. 4 – Line of Hypocrisy, III</text></navLabel><content src="ch_18.xhtml"/></navPoint>
