@@ -30,19 +30,19 @@
 <navPoint id="20" playOrder="21"><navLabel><text>Ch 21: Ep. 5 – Dark Keeper, II</text></navLabel><content src="ch_21.xhtml"/></navPoint>
 <navPoint id="21" playOrder="22"><navLabel><text>Ch 22: Ep. 5 – Dark Keeper, III</text></navLabel><content src="ch_22.xhtml"/></navPoint>
 <navPoint id="22" playOrder="23"><navLabel><text>Ch 23: Ep. 5 – Dark Keeper, IV</text></navLabel><content src="ch_23.xhtml"/></navPoint>
-<navPoint id="23" playOrder="24"><navLabel><text>Ch 24: Ep. 6 – Judgment Time, I</text></navLabel><content src="ch_24.xhtml"/></navPoint>
-<navPoint id="24" playOrder="25"><navLabel><text>Ch 25: Ep. 6 – Judgment Time, II</text></navLabel><content src="ch_25.xhtml"/></navPoint>
-<navPoint id="25" playOrder="26"><navLabel><text>Ch 26: Ep. 6 – Judgment Time, III</text></navLabel><content src="ch_26.xhtml"/></navPoint>
-<navPoint id="26" playOrder="27"><navLabel><text>Ch 27: Ep. 6 – Judgment Time, IV</text></navLabel><content src="ch_27.xhtml"/></navPoint>
-<navPoint id="27" playOrder="28"><navLabel><text>Ch 28: Ep. 7 – Landlord, I</text></navLabel><content src="ch_28.xhtml"/></navPoint>
-<navPoint id="28" playOrder="29"><navLabel><text>Ch 29: Ep. 7 – Landlord, II</text></navLabel><content src="ch_29.xhtml"/></navPoint>
-<navPoint id="29" playOrder="30"><navLabel><text>Ch 30: Ep. 7 – Landlord, III</text></navLabel><content src="ch_30.xhtml"/></navPoint>
-<navPoint id="30" playOrder="31"><navLabel><text>Ch 31: Ep. 7 – Landlord, IV</text></navLabel><content src="ch_31.xhtml"/></navPoint>
-<navPoint id="31" playOrder="32"><navLabel><text>Ch 32: Ep. 7 – Landlord, V</text></navLabel><content src="ch_32.xhtml"/></navPoint>
-<navPoint id="32" playOrder="33"><navLabel><text>Ch 33: Ep. 8 – Emergency Defense, I</text></navLabel><content src="ch_33.xhtml"/></navPoint>
-<navPoint id="33" playOrder="34"><navLabel><text>Ch 34: Ep. 8 – Emergency Defense, II</text></navLabel><content src="ch_34.xhtml"/></navPoint>
-<navPoint id="34" playOrder="35"><navLabel><text>Ch 35: Ep. 8 – Emergency Defense, III</text></navLabel><content src="ch_35.xhtml"/></navPoint>
-<navPoint id="35" playOrder="36"><navLabel><text>Ch 36: Ep. 8 – Emergency Defense, IV</text></navLabel><content src="ch_36.xhtml"/></navPoint>
+<navPoint id="23" playOrder="24"><navLabel><text>Ch 24: Ep. 6 – Waktu Penghakiman, I</text></navLabel><content src="ch_24.xhtml"/></navPoint>
+<navPoint id="24" playOrder="25"><navLabel><text>Ch 25: Ep. 6 – Waktu Penghakiman, II</text></navLabel><content src="ch_25.xhtml"/></navPoint>
+<navPoint id="25" playOrder="26"><navLabel><text>Ch 26: Ep. 6 – Waktu Penghakiman, III</text></navLabel><content src="ch_26.xhtml"/></navPoint>
+<navPoint id="26" playOrder="27"><navLabel><text>Ch 27: Ep. 6 – Waktu Penghakiman, IV</text></navLabel><content src="ch_27.xhtml"/></navPoint>
+<navPoint id="27" playOrder="28"><navLabel><text>Ch 28: Ep. 7 – Tuan Tanah, I</text></navLabel><content src="ch_28.xhtml"/></navPoint>
+<navPoint id="28" playOrder="29"><navLabel><text>Ch 29: Ep. 7 – Tuan Tanah, II</text></navLabel><content src="ch_29.xhtml"/></navPoint>
+<navPoint id="29" playOrder="30"><navLabel><text>Ch 30: Ep. 7 – Tuan Tanah, III</text></navLabel><content src="ch_30.xhtml"/></navPoint>
+<navPoint id="30" playOrder="31"><navLabel><text>Ch 31: Ep. 7 – Tuan Tanah, IV</text></navLabel><content src="ch_31.xhtml"/></navPoint>
+<navPoint id="31" playOrder="32"><navLabel><text>Ch 32: Ep. 7 – Tuan Tanah, V</text></navLabel><content src="ch_32.xhtml"/></navPoint>
+<navPoint id="32" playOrder="33"><navLabel><text>Ch 33: Ep. 8 – Pertahanan Darurat, I</text></navLabel><content src="ch_33.xhtml"/></navPoint>
+<navPoint id="33" playOrder="34"><navLabel><text>Ch 34: Ep. 8 – Pertahanan Darurat, II</text></navLabel><content src="ch_34.xhtml"/></navPoint>
+<navPoint id="34" playOrder="35"><navLabel><text>Ch 35: Ep. 8 – Pertahanan Darurat, III</text></navLabel><content src="ch_35.xhtml"/></navPoint>
+<navPoint id="35" playOrder="36"><navLabel><text>Ch 36: Ep. 8 – Pertahanan Darurat, IV</text></navLabel><content src="ch_36.xhtml"/></navPoint>
 <navPoint id="36" playOrder="37"><navLabel><text>Ch 37: Ep. 9 – Omniscient Sunfish, I</text></navLabel><content src="ch_37.xhtml"/></navPoint>
 <navPoint id="37" playOrder="38"><navLabel><text>Ch 38: Ep. 9 – Omniscient Sunfish, II</text></navLabel><content src="ch_38.xhtml"/></navPoint>
 <navPoint id="38" playOrder="39"><navLabel><text>Ch 39: Ep. 9 – Omniscient Sunfish, III</text></navLabel><content src="ch_39.xhtml"/></navPoint>
