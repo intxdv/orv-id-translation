@@ -61,11 +61,11 @@
 <navPoint id="51" playOrder="52"><navLabel><text>Ch 52: Ep. 11 – Malam Para Nabi, III</text></navLabel><content src="ch_52.xhtml"/></navPoint>
 <navPoint id="52" playOrder="53"><navLabel><text>Ch 53: Ep. 11 – Malam Para Nabi, IV</text></navLabel><content src="ch_53.xhtml"/></navPoint>
 <navPoint id="53" playOrder="54"><navLabel><text>Ch 54: Ep. 11 – Malam Para Nabi, V</text></navLabel><content src="ch_54.xhtml"/></navPoint>
-<navPoint id="54" playOrder="55"><navLabel><text>Ch 55: Ep. 12 – First Person Protagonist's Point of View, I</text></navLabel><content src="ch_55.xhtml"/></navPoint>
-<navPoint id="55" playOrder="56"><navLabel><text>Ch 56: Ep. 12 – First Person Protagonist's Point of View, II</text></navLabel><content src="ch_56.xhtml"/></navPoint>
-<navPoint id="56" playOrder="57"><navLabel><text>Ch 57: Ep. 12 – First Person Protagonist's Point of View, III</text></navLabel><content src="ch_57.xhtml"/></navPoint>
-<navPoint id="57" playOrder="58"><navLabel><text>Ch 58: Ep. 12 – First Person Protagonist's Point of View, IV</text></navLabel><content src="ch_58.xhtml"/></navPoint>
-<navPoint id="58" playOrder="59"><navLabel><text>Ch 59: Ep. 12 – First Person Protagonist's Point of View, V</text></navLabel><content src="ch_59.xhtml"/></navPoint>
+<navPoint id="54" playOrder="55"><navLabel><text>Ch 55: Ep. 12 – Sudut Pandang Protagonis Orang Pertama, I</text></navLabel><content src="ch_55.xhtml"/></navPoint>
+<navPoint id="55" playOrder="56"><navLabel><text>Ch 56: Ep. 12 – Sudut Pandang Protagonis Orang Pertama, II</text></navLabel><content src="ch_56.xhtml"/></navPoint>
+<navPoint id="56" playOrder="57"><navLabel><text>Ch 57: Ep. 12 – Sudut Pandang Protagonis Orang Pertama, III</text></navLabel><content src="ch_57.xhtml"/></navPoint>
+<navPoint id="57" playOrder="58"><navLabel><text>Ch 58: Ep. 12 – Sudut Pandang Protagonis Orang Pertama, IV</text></navLabel><content src="ch_58.xhtml"/></navPoint>
+<navPoint id="58" playOrder="59"><navLabel><text>Ch 59: Ep. 12 – Sudut Pandang Protagonis Orang Pertama, V</text></navLabel><content src="ch_59.xhtml"/></navPoint>
 <navPoint id="59" playOrder="60"><navLabel><text>Ch 60: Ep. 13 – War of Kings, I</text></navLabel><content src="ch_60.xhtml"/></navPoint>
 <navPoint id="60" playOrder="61"><navLabel><text>Ch 61: Ep. 13 – War of Kings, II</text></navLabel><content src="ch_61.xhtml"/></navPoint>
 <navPoint id="61" playOrder="62"><navLabel><text>Ch 62: Ep. 13 – War of Kings, III</text></navLabel><content src="ch_62.xhtml"/></navPoint>
