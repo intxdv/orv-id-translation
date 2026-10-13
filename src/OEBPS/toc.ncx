@@ -74,9 +74,9 @@
 <navPoint id="64" playOrder="65"><navLabel><text>Ch 65: Ep. 14 – Penguasa Takhta, I</text></navLabel><content src="ch_65.xhtml"/></navPoint>
 <navPoint id="65" playOrder="66"><navLabel><text>Ch 66: Ep. 14 – Penguasa Takhta, II</text></navLabel><content src="ch_66.xhtml"/></navPoint>
 <navPoint id="66" playOrder="67"><navLabel><text>Ch 67: Ep. 14 – Penguasa Takhta, III</text></navLabel><content src="ch_67.xhtml"/></navPoint>
-<navPoint id="67" playOrder="68"><navLabel><text>Ch 68: Ep. 14 – Master of the Throne, IV</text></navLabel><content src="ch_68.xhtml"/></navPoint>
-<navPoint id="68" playOrder="69"><navLabel><text>Ch 69: Ep. 14 – Master of the Throne, V</text></navLabel><content src="ch_69.xhtml"/></navPoint>
-<navPoint id="69" playOrder="70"><navLabel><text>Ch 70: Ep. 14 – Master of the Throne, VI</text></navLabel><content src="ch_70.xhtml"/></navPoint>
+<navPoint id="67" playOrder="68"><navLabel><text>Ch 68: Ep. 14 – Penguasa Takhta, IV</text></navLabel><content src="ch_68.xhtml"/></navPoint>
+<navPoint id="68" playOrder="69"><navLabel><text>Ch 69: Ep. 14 – Penguasa Takhta, V</text></navLabel><content src="ch_69.xhtml"/></navPoint>
+<navPoint id="69" playOrder="70"><navLabel><text>Ch 70: Ep. 14 – Penguasa Takhta, VI</text></navLabel><content src="ch_70.xhtml"/></navPoint>
 <navPoint id="70" playOrder="71"><navLabel><text>Ch 71: Ep. 15 – A Kingless World, I</text></navLabel><content src="ch_71.xhtml"/></navPoint>
 <navPoint id="71" playOrder="72"><navLabel><text>Ch 72: Ep. 15 – A Kingless World, II</text></navLabel><content src="ch_72.xhtml"/></navPoint>
 <navPoint id="72" playOrder="73"><navLabel><text>Ch 73: Ep. 15 – A Kingless World, III</text></navLabel><content src="ch_73.xhtml"/></navPoint>
