@@ -49,18 +49,18 @@
 <navPoint id="39" playOrder="40"><navLabel><text>Ch 40: Ep. 9 – Mola-mola Mahatahu, IV</text></navLabel><content src="ch_40.xhtml"/></navPoint>
 <navPoint id="40" playOrder="41"><navLabel><text>Ch 41: Ep. 9 – Mola-mola Mahatahu, V</text></navLabel><content src="ch_41.xhtml"/></navPoint>
 <navPoint id="41" playOrder="42"><navLabel><text>Ch 42: Ep. 9 – Mola-mola Mahatahu, VI</text></navLabel><content src="ch_42.xhtml"/></navPoint>
-<navPoint id="42" playOrder="43"><navLabel><text>Ch 43: Ep. 10 – Future War, I</text></navLabel><content src="ch_43.xhtml"/></navPoint>
-<navPoint id="43" playOrder="44"><navLabel><text>Ch 44: Ep. 10 – Future War, II</text></navLabel><content src="ch_44.xhtml"/></navPoint>
-<navPoint id="44" playOrder="45"><navLabel><text>Ch 45: Ep. 10 – Future War, III</text></navLabel><content src="ch_45.xhtml"/></navPoint>
-<navPoint id="45" playOrder="46"><navLabel><text>Ch 46: Ep. 10 – Future War, IV</text></navLabel><content src="ch_46.xhtml"/></navPoint>
-<navPoint id="46" playOrder="47"><navLabel><text>Ch 47: Ep. 10 – Future War, V</text></navLabel><content src="ch_47.xhtml"/></navPoint>
-<navPoint id="47" playOrder="48"><navLabel><text>Ch 48: Ep. 10 – Future War, VI</text></navLabel><content src="ch_48.xhtml"/></navPoint>
-<navPoint id="48" playOrder="49"><navLabel><text>Ch 49: Ep. 10 – Future War, VII</text></navLabel><content src="ch_49.xhtml"/></navPoint>
-<navPoint id="49" playOrder="50"><navLabel><text>Ch 50: Ep. 11 – Night of the Prophets, I</text></navLabel><content src="ch_50.xhtml"/></navPoint>
-<navPoint id="50" playOrder="51"><navLabel><text>Ch 51: Ep. 11 – Night of the Prophets, II</text></navLabel><content src="ch_51.xhtml"/></navPoint>
-<navPoint id="51" playOrder="52"><navLabel><text>Ch 52: Ep. 11 – Night of the Prophets, III</text></navLabel><content src="ch_52.xhtml"/></navPoint>
-<navPoint id="52" playOrder="53"><navLabel><text>Ch 53: Ep. 11 – Night of the Prophets, IV</text></navLabel><content src="ch_53.xhtml"/></navPoint>
-<navPoint id="53" playOrder="54"><navLabel><text>Ch 54: Ep. 11 – Night of the Prophets, V</text></navLabel><content src="ch_54.xhtml"/></navPoint>
+<navPoint id="42" playOrder="43"><navLabel><text>Ch 43: Ep. 10 – Perang Masa Depan, I</text></navLabel><content src="ch_43.xhtml"/></navPoint>
+<navPoint id="43" playOrder="44"><navLabel><text>Ch 44: Ep. 10 – Perang Masa Depan, II</text></navLabel><content src="ch_44.xhtml"/></navPoint>
+<navPoint id="44" playOrder="45"><navLabel><text>Ch 45: Ep. 10 – Perang Masa Depan, III</text></navLabel><content src="ch_45.xhtml"/></navPoint>
+<navPoint id="45" playOrder="46"><navLabel><text>Ch 46: Ep. 10 – Perang Masa Depan, IV</text></navLabel><content src="ch_46.xhtml"/></navPoint>
+<navPoint id="46" playOrder="47"><navLabel><text>Ch 47: Ep. 10 – Perang Masa Depan, V</text></navLabel><content src="ch_47.xhtml"/></navPoint>
+<navPoint id="47" playOrder="48"><navLabel><text>Ch 48: Ep. 10 – Perang Masa Depan, VI</text></navLabel><content src="ch_48.xhtml"/></navPoint>
+<navPoint id="48" playOrder="49"><navLabel><text>Ch 49: Ep. 10 – Perang Masa Depan, VII</text></navLabel><content src="ch_49.xhtml"/></navPoint>
+<navPoint id="49" playOrder="50"><navLabel><text>Ch 50: Ep. 11 – Malam Para Nabi, I</text></navLabel><content src="ch_50.xhtml"/></navPoint>
+<navPoint id="50" playOrder="51"><navLabel><text>Ch 51: Ep. 11 – Malam Para Nabi, II</text></navLabel><content src="ch_51.xhtml"/></navPoint>
+<navPoint id="51" playOrder="52"><navLabel><text>Ch 52: Ep. 11 – Malam Para Nabi, III</text></navLabel><content src="ch_52.xhtml"/></navPoint>
+<navPoint id="52" playOrder="53"><navLabel><text>Ch 53: Ep. 11 – Malam Para Nabi, IV</text></navLabel><content src="ch_53.xhtml"/></navPoint>
+<navPoint id="53" playOrder="54"><navLabel><text>Ch 54: Ep. 11 – Malam Para Nabi, V</text></navLabel><content src="ch_54.xhtml"/></navPoint>
 <navPoint id="54" playOrder="55"><navLabel><text>Ch 55: Ep. 12 – First Person Protagonist's Point of View, I</text></navLabel><content src="ch_55.xhtml"/></navPoint>
 <navPoint id="55" playOrder="56"><navLabel><text>Ch 56: Ep. 12 – First Person Protagonist's Point of View, II</text></navLabel><content src="ch_56.xhtml"/></navPoint>
 <navPoint id="56" playOrder="57"><navLabel><text>Ch 57: Ep. 12 – First Person Protagonist's Point of View, III</text></navLabel><content src="ch_57.xhtml"/></navPoint>
