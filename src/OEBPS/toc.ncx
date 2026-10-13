@@ -102,10 +102,10 @@
 <navPoint id="92" playOrder="93"><navLabel><text>Ch 93: Ep. 19 – Singularitas, I</text></navLabel><content src="ch_93.xhtml"/></navPoint>
 <navPoint id="93" playOrder="94"><navLabel><text>Ch 94: Ep. 19 – Singularitas, II</text></navLabel><content src="ch_94.xhtml"/></navPoint>
 <navPoint id="94" playOrder="95"><navLabel><text>Ch 95: Ep. 19 – Singularitas, III</text></navLabel><content src="ch_95.xhtml"/></navPoint>
-<navPoint id="95" playOrder="96"><navLabel><text>Ch 96: Ep. 19 – Singularity, IV</text></navLabel><content src="ch_96.xhtml"/></navPoint>
-<navPoint id="96" playOrder="97"><navLabel><text>Ch 97: Ep. 19 – Singularity, V</text></navLabel><content src="ch_97.xhtml"/></navPoint>
-<navPoint id="97" playOrder="98"><navLabel><text>Ch 98: Ep. 20 – Disaster of Floods, I</text></navLabel><content src="ch_98.xhtml"/></navPoint>
-<navPoint id="98" playOrder="99"><navLabel><text>Ch 99: Ep. 20 – Disaster of Floods, II</text></navLabel><content src="ch_99.xhtml"/></navPoint>
+<navPoint id="95" playOrder="96"><navLabel><text>Ch 96: Ep. 19 – Singularitas, IV</text></navLabel><content src="ch_96.xhtml"/></navPoint>
+<navPoint id="96" playOrder="97"><navLabel><text>Ch 97: Ep. 19 – Singularitas, V</text></navLabel><content src="ch_97.xhtml"/></navPoint>
+<navPoint id="97" playOrder="98"><navLabel><text>Ch 98: Ep. 20 – Bencana Banjir, I</text></navLabel><content src="ch_98.xhtml"/></navPoint>
+<navPoint id="98" playOrder="99"><navLabel><text>Ch 99: Ep. 20 – Bencana Banjir, II</text></navLabel><content src="ch_99.xhtml"/></navPoint>
 <navPoint id="99" playOrder="100"><navLabel><text>Ch 100: Ep. 20 – Disaster of Floods, III</text></navLabel><content src="ch_100.xhtml"/></navPoint>
 <navPoint id="100" playOrder="101"><navLabel><text>Ch 101: Ep. 20 – Disaster of Floods, IV</text></navLabel><content src="ch_101.xhtml"/></navPoint>
 <navPoint id="101" playOrder="102"><navLabel><text>Ch 102: Ep. 20 – Disaster of Floods, V</text></navLabel><content src="ch_102.xhtml"/></navPoint>
