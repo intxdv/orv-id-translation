@@ -147,11 +147,11 @@
 <navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 – Tak Terbaca, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
 <navPoint id="138" playOrder="139"><navLabel><text>Ch 139: Ep. 27 – Tak Terbaca, III</text></navLabel><content src="ch_139.xhtml"/></navPoint>
 <navPoint id="139" playOrder="140"><navLabel><text>Ch 140: Ep. 27 – Tak Terbaca, IV</text></navLabel><content src="ch_140.xhtml"/></navPoint>
-<navPoint id="140" playOrder="141"><navLabel><text>Ch 141: Ep. 28 - The Ultimate Sacrifice, I</text></navLabel><content src="ch_141.xhtml"/></navPoint>
-<navPoint id="141" playOrder="142"><navLabel><text>Ch 142: Ep. 28 - The Ultimate Sacrifice, II</text></navLabel><content src="ch_142.xhtml"/></navPoint>
-<navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 - The Ultimate Sacrifice, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
-<navPoint id="143" playOrder="144"><navLabel><text>Ch 144: Ep. 28 - The Ultimate Sacrifice, IV</text></navLabel><content src="ch_144.xhtml"/></navPoint>
-<navPoint id="144" playOrder="145"><navLabel><text>Ch 145: Ep. 28 - The Ultimate Sacrifice, V</text></navLabel><content src="ch_145.xhtml"/></navPoint>
+<navPoint id="140" playOrder="141"><navLabel><text>Ch 141: Ep. 28 – Pengorbanan Terakhir, I</text></navLabel><content src="ch_141.xhtml"/></navPoint>
+<navPoint id="141" playOrder="142"><navLabel><text>Ch 142: Ep. 28 – Pengorbanan Terakhir, II</text></navLabel><content src="ch_142.xhtml"/></navPoint>
+<navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 – Pengorbanan Terakhir, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
+<navPoint id="143" playOrder="144"><navLabel><text>Ch 144: Ep. 28 – Pengorbanan Terakhir, IV</text></navLabel><content src="ch_144.xhtml"/></navPoint>
+<navPoint id="144" playOrder="145"><navLabel><text>Ch 145: Ep. 28 – Pengorbanan Terakhir, V</text></navLabel><content src="ch_145.xhtml"/></navPoint>
 <navPoint id="145" playOrder="146"><navLabel><text>Ch 146: Ep. 29 - Constellation Banquet, I</text></navLabel><content src="ch_146.xhtml"/></navPoint>
 <navPoint id="146" playOrder="147"><navLabel><text>Ch 147: Ep. 29 - Constellation Banquet, II</text></navLabel><content src="ch_147.xhtml"/></navPoint>
 <navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 - Constellation Banquet, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
