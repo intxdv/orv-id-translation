@@ -137,11 +137,11 @@
 <navPoint id="127" playOrder="128"><navLabel><text>Ch 128: Ep. 25 – Mereka yang Menghadapi Dewa, II</text></navLabel><content src="ch_128.xhtml"/></navPoint>
 <navPoint id="128" playOrder="129"><navLabel><text>Ch 129: Ep. 25 – Mereka yang Menghadapi Dewa, III</text></navLabel><content src="ch_129.xhtml"/></navPoint>
 <navPoint id="129" playOrder="130"><navLabel><text>Ch 130: Ep. 25 – Mereka yang Menghadapi Dewa, IV</text></navLabel><content src="ch_130.xhtml"/></navPoint>
-<navPoint id="130" playOrder="131"><navLabel><text>Ch 131: Ep. 26 - Scenario Destroyer, I</text></navLabel><content src="ch_131.xhtml"/></navPoint>
-<navPoint id="131" playOrder="132"><navLabel><text>Ch 132: Ep. 26 - Scenario Destroyer, II</text></navLabel><content src="ch_132.xhtml"/></navPoint>
-<navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 - Scenario Destroyer, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
-<navPoint id="133" playOrder="134"><navLabel><text>Ch 134: Ep. 26 - Scenario Destroyer, IV</text></navLabel><content src="ch_134.xhtml"/></navPoint>
-<navPoint id="134" playOrder="135"><navLabel><text>Ch 135: Ep. 26 - Scenario Destroyer, V</text></navLabel><content src="ch_135.xhtml"/></navPoint>
+<navPoint id="130" playOrder="131"><navLabel><text>Ch 131: Ep. 26 – Penghancur Skenario, I</text></navLabel><content src="ch_131.xhtml"/></navPoint>
+<navPoint id="131" playOrder="132"><navLabel><text>Ch 132: Ep. 26 – Penghancur Skenario, II</text></navLabel><content src="ch_132.xhtml"/></navPoint>
+<navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 – Penghancur Skenario, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
+<navPoint id="133" playOrder="134"><navLabel><text>Ch 134: Ep. 26 – Penghancur Skenario, IV</text></navLabel><content src="ch_134.xhtml"/></navPoint>
+<navPoint id="134" playOrder="135"><navLabel><text>Ch 135: Ep. 26 – Penghancur Skenario, V</text></navLabel><content src="ch_135.xhtml"/></navPoint>
 <navPoint id="135" playOrder="136"><navLabel><text>Ch 136: Ep. 26 - Scenario Destroyer, VI</text></navLabel><content src="ch_136.xhtml"/></navPoint>
 <navPoint id="136" playOrder="137"><navLabel><text>Ch 137: Ep. 27 - Unreadable, I</text></navLabel><content src="ch_137.xhtml"/></navPoint>
 <navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 - Unreadable, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
