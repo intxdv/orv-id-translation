@@ -152,11 +152,11 @@
 <navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 – Pengorbanan Terakhir, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
 <navPoint id="143" playOrder="144"><navLabel><text>Ch 144: Ep. 28 – Pengorbanan Terakhir, IV</text></navLabel><content src="ch_144.xhtml"/></navPoint>
 <navPoint id="144" playOrder="145"><navLabel><text>Ch 145: Ep. 28 – Pengorbanan Terakhir, V</text></navLabel><content src="ch_145.xhtml"/></navPoint>
-<navPoint id="145" playOrder="146"><navLabel><text>Ch 146: Ep. 29 - Constellation Banquet, I</text></navLabel><content src="ch_146.xhtml"/></navPoint>
-<navPoint id="146" playOrder="147"><navLabel><text>Ch 147: Ep. 29 - Constellation Banquet, II</text></navLabel><content src="ch_147.xhtml"/></navPoint>
-<navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 - Constellation Banquet, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
-<navPoint id="148" playOrder="149"><navLabel><text>Ch 149: Ep. 29 - Constellation Banquet, IV</text></navLabel><content src="ch_149.xhtml"/></navPoint>
-<navPoint id="149" playOrder="150"><navLabel><text>Ch 150: Ep. 29 - Constellation Banquet, V</text></navLabel><content src="ch_150.xhtml"/></navPoint>
+<navPoint id="145" playOrder="146"><navLabel><text>Ch 146: Ep. 29 – Perjamuan Konstelasi, I</text></navLabel><content src="ch_146.xhtml"/></navPoint>
+<navPoint id="146" playOrder="147"><navLabel><text>Ch 147: Ep. 29 – Perjamuan Konstelasi, II</text></navLabel><content src="ch_147.xhtml"/></navPoint>
+<navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 – Perjamuan Konstelasi, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
+<navPoint id="148" playOrder="149"><navLabel><text>Ch 149: Ep. 29 – Perjamuan Konstelasi, IV</text></navLabel><content src="ch_149.xhtml"/></navPoint>
+<navPoint id="149" playOrder="150"><navLabel><text>Ch 150: Ep. 29 – Perjamuan Konstelasi, V</text></navLabel><content src="ch_150.xhtml"/></navPoint>
 <navPoint id="150" playOrder="151"><navLabel><text>Ch 151: Ep. 30 - Dark Castle, I</text></navLabel><content src="ch_151.xhtml"/></navPoint>
 <navPoint id="151" playOrder="152"><navLabel><text>Ch 152: Ep. 30 - Dark Castle, II</text></navLabel><content src="ch_152.xhtml"/></navPoint>
 <navPoint id="152" playOrder="153"><navLabel><text>Ch 153: Ep. 30 - Dark Castle, III</text></navLabel><content src="ch_153.xhtml"/></navPoint>
