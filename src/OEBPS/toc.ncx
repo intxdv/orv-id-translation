@@ -111,12 +111,12 @@
 <navPoint id="101" playOrder="102"><navLabel><text>Ch 102: Ep. 20 – Bencana Banjir, V</text></navLabel><content src="ch_102.xhtml"/></navPoint>
 <navPoint id="102" playOrder="103"><navLabel><text>Ch 103: Ep. 21 – Hal-hal yang Tak Bisa Diubah, I</text></navLabel><content src="ch_103.xhtml"/></navPoint>
 <navPoint id="103" playOrder="104"><navLabel><text>Ch 104: Ep. 21 – Hal-hal yang Tak Bisa Diubah, II</text></navLabel><content src="ch_104.xhtml"/></navPoint>
-<navPoint id="104" playOrder="105"><navLabel><text>Ch 105: Ep. 21 – Things That Can't Be Changed, III</text></navLabel><content src="ch_105.xhtml"/></navPoint>
-<navPoint id="105" playOrder="106"><navLabel><text>Ch 106: Ep. 21 – Things That Can't Be Changed, IV</text></navLabel><content src="ch_106.xhtml"/></navPoint>
-<navPoint id="106" playOrder="107"><navLabel><text>Ch 107: Ep. 21 – Things That Can't Be Changed, V</text></navLabel><content src="ch_107.xhtml"/></navPoint>
-<navPoint id="107" playOrder="108"><navLabel><text>Ch 108: Ep. 21 – Things That Can't Be Changed, VI</text></navLabel><content src="ch_108.xhtml"/></navPoint>
-<navPoint id="108" playOrder="109"><navLabel><text>Ch 109: Ep. 22 – Three Promises, I</text></navLabel><content src="ch_109.xhtml"/></navPoint>
-<navPoint id="109" playOrder="110"><navLabel><text>Ch 110: Ep. 22 – Three Promises, II</text></navLabel><content src="ch_110.xhtml"/></navPoint>
+<navPoint id="104" playOrder="105"><navLabel><text>Ch 105: Ep. 21 – Hal-hal yang Tak Bisa Diubah, III</text></navLabel><content src="ch_105.xhtml"/></navPoint>
+<navPoint id="105" playOrder="106"><navLabel><text>Ch 106: Ep. 21 – Hal-hal yang Tak Bisa Diubah, IV</text></navLabel><content src="ch_106.xhtml"/></navPoint>
+<navPoint id="106" playOrder="107"><navLabel><text>Ch 107: Ep. 21 – Hal-hal yang Tak Bisa Diubah, V</text></navLabel><content src="ch_107.xhtml"/></navPoint>
+<navPoint id="107" playOrder="108"><navLabel><text>Ch 108: Ep. 21 – Hal-hal yang Tak Bisa Diubah, VI</text></navLabel><content src="ch_108.xhtml"/></navPoint>
+<navPoint id="108" playOrder="109"><navLabel><text>Ch 109: Ep. 22 – Tiga Janji, I</text></navLabel><content src="ch_109.xhtml"/></navPoint>
+<navPoint id="109" playOrder="110"><navLabel><text>Ch 110: Ep. 22 – Tiga Janji, II</text></navLabel><content src="ch_110.xhtml"/></navPoint>
 <navPoint id="110" playOrder="111"><navLabel><text>Ch 111: Ep. 22 – Three Promises, III</text></navLabel><content src="ch_111.xhtml"/></navPoint>
 <navPoint id="111" playOrder="112"><navLabel><text>Ch 112: Ep. 22 - Three Promises, IV</text></navLabel><content src="ch_112.xhtml"/></navPoint>
 <navPoint id="112" playOrder="113"><navLabel><text>Ch 113: Ep. 22 - Three Promises, V</text></navLabel><content src="ch_113.xhtml"/></navPoint>
