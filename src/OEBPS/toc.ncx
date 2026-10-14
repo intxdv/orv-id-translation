@@ -142,11 +142,11 @@
 <navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 – Penghancur Skenario, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
 <navPoint id="133" playOrder="134"><navLabel><text>Ch 134: Ep. 26 – Penghancur Skenario, IV</text></navLabel><content src="ch_134.xhtml"/></navPoint>
 <navPoint id="134" playOrder="135"><navLabel><text>Ch 135: Ep. 26 – Penghancur Skenario, V</text></navLabel><content src="ch_135.xhtml"/></navPoint>
-<navPoint id="135" playOrder="136"><navLabel><text>Ch 136: Ep. 26 - Scenario Destroyer, VI</text></navLabel><content src="ch_136.xhtml"/></navPoint>
-<navPoint id="136" playOrder="137"><navLabel><text>Ch 137: Ep. 27 - Unreadable, I</text></navLabel><content src="ch_137.xhtml"/></navPoint>
-<navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 - Unreadable, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
-<navPoint id="138" playOrder="139"><navLabel><text>Ch 139: Ep. 27 - Unreadable, III</text></navLabel><content src="ch_139.xhtml"/></navPoint>
-<navPoint id="139" playOrder="140"><navLabel><text>Ch 140: Ep. 27 - Unreadable, IV</text></navLabel><content src="ch_140.xhtml"/></navPoint>
+<navPoint id="135" playOrder="136"><navLabel><text>Ch 136: Ep. 26 – Penghancur Skenario, VI</text></navLabel><content src="ch_136.xhtml"/></navPoint>
+<navPoint id="136" playOrder="137"><navLabel><text>Ch 137: Ep. 27 – Tak Terbaca, I</text></navLabel><content src="ch_137.xhtml"/></navPoint>
+<navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 – Tak Terbaca, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
+<navPoint id="138" playOrder="139"><navLabel><text>Ch 139: Ep. 27 – Tak Terbaca, III</text></navLabel><content src="ch_139.xhtml"/></navPoint>
+<navPoint id="139" playOrder="140"><navLabel><text>Ch 140: Ep. 27 – Tak Terbaca, IV</text></navLabel><content src="ch_140.xhtml"/></navPoint>
 <navPoint id="140" playOrder="141"><navLabel><text>Ch 141: Ep. 28 - The Ultimate Sacrifice, I</text></navLabel><content src="ch_141.xhtml"/></navPoint>
 <navPoint id="141" playOrder="142"><navLabel><text>Ch 142: Ep. 28 - The Ultimate Sacrifice, II</text></navLabel><content src="ch_142.xhtml"/></navPoint>
 <navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 - The Ultimate Sacrifice, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
