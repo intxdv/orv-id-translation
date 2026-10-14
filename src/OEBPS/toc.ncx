@@ -106,11 +106,11 @@
 <navPoint id="96" playOrder="97"><navLabel><text>Ch 97: Ep. 19 – Singularitas, V</text></navLabel><content src="ch_97.xhtml"/></navPoint>
 <navPoint id="97" playOrder="98"><navLabel><text>Ch 98: Ep. 20 – Bencana Banjir, I</text></navLabel><content src="ch_98.xhtml"/></navPoint>
 <navPoint id="98" playOrder="99"><navLabel><text>Ch 99: Ep. 20 – Bencana Banjir, II</text></navLabel><content src="ch_99.xhtml"/></navPoint>
-<navPoint id="99" playOrder="100"><navLabel><text>Ch 100: Ep. 20 – Disaster of Floods, III</text></navLabel><content src="ch_100.xhtml"/></navPoint>
-<navPoint id="100" playOrder="101"><navLabel><text>Ch 101: Ep. 20 – Disaster of Floods, IV</text></navLabel><content src="ch_101.xhtml"/></navPoint>
-<navPoint id="101" playOrder="102"><navLabel><text>Ch 102: Ep. 20 – Disaster of Floods, V</text></navLabel><content src="ch_102.xhtml"/></navPoint>
-<navPoint id="102" playOrder="103"><navLabel><text>Ch 103: Ep. 21 – Things That Can't Be Changed, I</text></navLabel><content src="ch_103.xhtml"/></navPoint>
-<navPoint id="103" playOrder="104"><navLabel><text>Ch 104: Ep. 21 – Things That Can't Be Changed, II</text></navLabel><content src="ch_104.xhtml"/></navPoint>
+<navPoint id="99" playOrder="100"><navLabel><text>Ch 100: Ep. 20 – Bencana Banjir, III</text></navLabel><content src="ch_100.xhtml"/></navPoint>
+<navPoint id="100" playOrder="101"><navLabel><text>Ch 101: Ep. 20 – Bencana Banjir, IV</text></navLabel><content src="ch_101.xhtml"/></navPoint>
+<navPoint id="101" playOrder="102"><navLabel><text>Ch 102: Ep. 20 – Bencana Banjir, V</text></navLabel><content src="ch_102.xhtml"/></navPoint>
+<navPoint id="102" playOrder="103"><navLabel><text>Ch 103: Ep. 21 – Hal-hal yang Tak Bisa Diubah, I</text></navLabel><content src="ch_103.xhtml"/></navPoint>
+<navPoint id="103" playOrder="104"><navLabel><text>Ch 104: Ep. 21 – Hal-hal yang Tak Bisa Diubah, II</text></navLabel><content src="ch_104.xhtml"/></navPoint>
 <navPoint id="104" playOrder="105"><navLabel><text>Ch 105: Ep. 21 – Things That Can't Be Changed, III</text></navLabel><content src="ch_105.xhtml"/></navPoint>
 <navPoint id="105" playOrder="106"><navLabel><text>Ch 106: Ep. 21 – Things That Can't Be Changed, IV</text></navLabel><content src="ch_106.xhtml"/></navPoint>
 <navPoint id="106" playOrder="107"><navLabel><text>Ch 107: Ep. 21 – Things That Can't Be Changed, V</text></navLabel><content src="ch_107.xhtml"/></navPoint>
