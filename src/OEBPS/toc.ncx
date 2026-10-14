@@ -157,11 +157,11 @@
 <navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 – Perjamuan Konstelasi, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
 <navPoint id="148" playOrder="149"><navLabel><text>Ch 149: Ep. 29 – Perjamuan Konstelasi, IV</text></navLabel><content src="ch_149.xhtml"/></navPoint>
 <navPoint id="149" playOrder="150"><navLabel><text>Ch 150: Ep. 29 – Perjamuan Konstelasi, V</text></navLabel><content src="ch_150.xhtml"/></navPoint>
-<navPoint id="150" playOrder="151"><navLabel><text>Ch 151: Ep. 30 - Dark Castle, I</text></navLabel><content src="ch_151.xhtml"/></navPoint>
-<navPoint id="151" playOrder="152"><navLabel><text>Ch 152: Ep. 30 - Dark Castle, II</text></navLabel><content src="ch_152.xhtml"/></navPoint>
-<navPoint id="152" playOrder="153"><navLabel><text>Ch 153: Ep. 30 - Dark Castle, III</text></navLabel><content src="ch_153.xhtml"/></navPoint>
-<navPoint id="153" playOrder="154"><navLabel><text>Ch 154: Ep. 30 - Dark Castle, IV</text></navLabel><content src="ch_154.xhtml"/></navPoint>
-<navPoint id="154" playOrder="155"><navLabel><text>Ch 155: Ep. 30 - Dark Castle, V</text></navLabel><content src="ch_155.xhtml"/></navPoint>
+<navPoint id="150" playOrder="151"><navLabel><text>Ch 151: Ep. 30 – Kastel Kegelapan, I</text></navLabel><content src="ch_151.xhtml"/></navPoint>
+<navPoint id="151" playOrder="152"><navLabel><text>Ch 152: Ep. 30 – Kastel Kegelapan, II</text></navLabel><content src="ch_152.xhtml"/></navPoint>
+<navPoint id="152" playOrder="153"><navLabel><text>Ch 153: Ep. 30 – Kastel Kegelapan, III</text></navLabel><content src="ch_153.xhtml"/></navPoint>
+<navPoint id="153" playOrder="154"><navLabel><text>Ch 154: Ep. 30 – Kastel Kegelapan, IV</text></navLabel><content src="ch_154.xhtml"/></navPoint>
+<navPoint id="154" playOrder="155"><navLabel><text>Ch 155: Ep. 30 – Kastel Kegelapan, V</text></navLabel><content src="ch_155.xhtml"/></navPoint>
 <navPoint id="155" playOrder="156"><navLabel><text>Ch 156: Ep. 30 - Dark Castle, VI</text></navLabel><content src="ch_156.xhtml"/></navPoint>
 <navPoint id="156" playOrder="157"><navLabel><text>Ch 157: Ep. 31 - Tomb of the Scenario, I</text></navLabel><content src="ch_157.xhtml"/></navPoint>
 <navPoint id="157" playOrder="158"><navLabel><text>Ch 158: Ep. 31 - Tomb of the Scenario, II</text></navLabel><content src="ch_158.xhtml"/></navPoint>
