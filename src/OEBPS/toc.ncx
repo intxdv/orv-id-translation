@@ -122,11 +122,11 @@
 <navPoint id="112" playOrder="113"><navLabel><text>Ch 113: Ep. 22 – Tiga Janji, V</text></navLabel><content src="ch_113.xhtml"/></navPoint>
 <navPoint id="113" playOrder="114"><navLabel><text>Ch 114: Ep. 22 – Tiga Janji, VI</text></navLabel><content src="ch_114.xhtml"/></navPoint>
 <navPoint id="114" playOrder="115"><navLabel><text>Ch 115: Ep. 22 – Tiga Janji, VII</text></navLabel><content src="ch_115.xhtml"/></navPoint>
-<navPoint id="115" playOrder="116"><navLabel><text>Ch 116: Ep. 23 - Abandoned World, I</text></navLabel><content src="ch_116.xhtml"/></navPoint>
-<navPoint id="116" playOrder="117"><navLabel><text>Ch 117: Ep. 23 - Abandoned World, II</text></navLabel><content src="ch_117.xhtml"/></navPoint>
-<navPoint id="117" playOrder="118"><navLabel><text>Ch 118: Ep. 23 - Abandoned World, III</text></navLabel><content src="ch_118.xhtml"/></navPoint>
-<navPoint id="118" playOrder="119"><navLabel><text>Ch 119: Ep. 23 - Abandoned World, IV</text></navLabel><content src="ch_119.xhtml"/></navPoint>
-<navPoint id="119" playOrder="120"><navLabel><text>Ch 120: Ep. 23 - Abandoned World, V</text></navLabel><content src="ch_120.xhtml"/></navPoint>
+<navPoint id="115" playOrder="116"><navLabel><text>Ch 116: Ep. 23 – Dunia yang Ditinggalkan, I</text></navLabel><content src="ch_116.xhtml"/></navPoint>
+<navPoint id="116" playOrder="117"><navLabel><text>Ch 117: Ep. 23 – Dunia yang Ditinggalkan, II</text></navLabel><content src="ch_117.xhtml"/></navPoint>
+<navPoint id="117" playOrder="118"><navLabel><text>Ch 118: Ep. 23 – Dunia yang Ditinggalkan, III</text></navLabel><content src="ch_118.xhtml"/></navPoint>
+<navPoint id="118" playOrder="119"><navLabel><text>Ch 119: Ep. 23 – Dunia yang Ditinggalkan, IV</text></navLabel><content src="ch_119.xhtml"/></navPoint>
+<navPoint id="119" playOrder="120"><navLabel><text>Ch 120: Ep. 23 – Dunia yang Ditinggalkan, V</text></navLabel><content src="ch_120.xhtml"/></navPoint>
 <navPoint id="120" playOrder="121"><navLabel><text>Ch 121: Ep. 24 - Things that Can Be Changed, I</text></navLabel><content src="ch_121.xhtml"/></navPoint>
 <navPoint id="121" playOrder="122"><navLabel><text>Ch 122: Ep. 24 - Things that Can Be Changed, II</text></navLabel><content src="ch_122.xhtml"/></navPoint>
 <navPoint id="122" playOrder="123"><navLabel><text>Ch 123: Ep. 24 - Things that Can Be Changed, III</text></navLabel><content src="ch_123.xhtml"/></navPoint>
