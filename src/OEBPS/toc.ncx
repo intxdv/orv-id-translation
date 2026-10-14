@@ -132,11 +132,11 @@
 <navPoint id="122" playOrder="123"><navLabel><text>Ch 123: Ep. 24 – Hal-hal yang Bisa Diubah, III</text></navLabel><content src="ch_123.xhtml"/></navPoint>
 <navPoint id="123" playOrder="124"><navLabel><text>Ch 124: Ep. 24 – Hal-hal yang Bisa Diubah, IV</text></navLabel><content src="ch_124.xhtml"/></navPoint>
 <navPoint id="124" playOrder="125"><navLabel><text>Ch 125: Ep. 24 – Hal-hal yang Bisa Diubah, V</text></navLabel><content src="ch_125.xhtml"/></navPoint>
-<navPoint id="125" playOrder="126"><navLabel><text>Ch 126: Ep. 24 - Things that Can Be Changed, VI</text></navLabel><content src="ch_126.xhtml"/></navPoint>
-<navPoint id="126" playOrder="127"><navLabel><text>Ch 127: Ep. 25 - Those Who Face a God, I</text></navLabel><content src="ch_127.xhtml"/></navPoint>
-<navPoint id="127" playOrder="128"><navLabel><text>Ch 128: Ep. 25 - Those Who Face a God, II</text></navLabel><content src="ch_128.xhtml"/></navPoint>
-<navPoint id="128" playOrder="129"><navLabel><text>Ch 129: Ep. 25 - Those Who Face a God, III</text></navLabel><content src="ch_129.xhtml"/></navPoint>
-<navPoint id="129" playOrder="130"><navLabel><text>Ch 130: Ep. 25 - Those Who Face a God, IV</text></navLabel><content src="ch_130.xhtml"/></navPoint>
+<navPoint id="125" playOrder="126"><navLabel><text>Ch 126: Ep. 24 – Hal-hal yang Bisa Diubah, VI</text></navLabel><content src="ch_126.xhtml"/></navPoint>
+<navPoint id="126" playOrder="127"><navLabel><text>Ch 127: Ep. 25 – Mereka yang Menghadapi Dewa, I</text></navLabel><content src="ch_127.xhtml"/></navPoint>
+<navPoint id="127" playOrder="128"><navLabel><text>Ch 128: Ep. 25 – Mereka yang Menghadapi Dewa, II</text></navLabel><content src="ch_128.xhtml"/></navPoint>
+<navPoint id="128" playOrder="129"><navLabel><text>Ch 129: Ep. 25 – Mereka yang Menghadapi Dewa, III</text></navLabel><content src="ch_129.xhtml"/></navPoint>
+<navPoint id="129" playOrder="130"><navLabel><text>Ch 130: Ep. 25 – Mereka yang Menghadapi Dewa, IV</text></navLabel><content src="ch_130.xhtml"/></navPoint>
 <navPoint id="130" playOrder="131"><navLabel><text>Ch 131: Ep. 26 - Scenario Destroyer, I</text></navLabel><content src="ch_131.xhtml"/></navPoint>
 <navPoint id="131" playOrder="132"><navLabel><text>Ch 132: Ep. 26 - Scenario Destroyer, II</text></navLabel><content src="ch_132.xhtml"/></navPoint>
 <navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 - Scenario Destroyer, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
