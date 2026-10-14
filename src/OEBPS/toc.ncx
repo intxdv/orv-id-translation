@@ -117,46 +117,46 @@
 <navPoint id="107" playOrder="108"><navLabel><text>Ch 108: Ep. 21 – Hal-hal yang Tak Bisa Diubah, VI</text></navLabel><content src="ch_108.xhtml"/></navPoint>
 <navPoint id="108" playOrder="109"><navLabel><text>Ch 109: Ep. 22 – Tiga Janji, I</text></navLabel><content src="ch_109.xhtml"/></navPoint>
 <navPoint id="109" playOrder="110"><navLabel><text>Ch 110: Ep. 22 – Tiga Janji, II</text></navLabel><content src="ch_110.xhtml"/></navPoint>
-<navPoint id="110" playOrder="111"><navLabel><text>Ch 111: Ep. 22 – Three Promises, III</text></navLabel><content src="ch_111.xhtml"/></navPoint>
-<navPoint id="111" playOrder="112"><navLabel><text>Ch 112: Ep. 22 - Three Promises, IV</text></navLabel><content src="ch_112.xhtml"/></navPoint>
-<navPoint id="112" playOrder="113"><navLabel><text>Ch 113: Ep. 22 - Three Promises, V</text></navLabel><content src="ch_113.xhtml"/></navPoint>
-<navPoint id="113" playOrder="114"><navLabel><text>Ch 114: Ep. 22 - Three Promises, VI</text></navLabel><content src="ch_114.xhtml"/></navPoint>
-<navPoint id="114" playOrder="115"><navLabel><text>Ch 115: Ep. 22 - Three Promises, VII</text></navLabel><content src="ch_115.xhtml"/></navPoint>
-<navPoint id="115" playOrder="116"><navLabel><text>Ch 116: Ep. 23 - Abandoned World, I</text></navLabel><content src="ch_116.xhtml"/></navPoint>
-<navPoint id="116" playOrder="117"><navLabel><text>Ch 117: Ep. 23 - Abandoned World, II</text></navLabel><content src="ch_117.xhtml"/></navPoint>
-<navPoint id="117" playOrder="118"><navLabel><text>Ch 118: Ep. 23 - Abandoned World, III</text></navLabel><content src="ch_118.xhtml"/></navPoint>
-<navPoint id="118" playOrder="119"><navLabel><text>Ch 119: Ep. 23 - Abandoned World, IV</text></navLabel><content src="ch_119.xhtml"/></navPoint>
-<navPoint id="119" playOrder="120"><navLabel><text>Ch 120: Ep. 23 - Abandoned World, V</text></navLabel><content src="ch_120.xhtml"/></navPoint>
-<navPoint id="120" playOrder="121"><navLabel><text>Ch 121: Ep. 24 - Things that Can Be Changed, I</text></navLabel><content src="ch_121.xhtml"/></navPoint>
-<navPoint id="121" playOrder="122"><navLabel><text>Ch 122: Ep. 24 - Things that Can Be Changed, II</text></navLabel><content src="ch_122.xhtml"/></navPoint>
-<navPoint id="122" playOrder="123"><navLabel><text>Ch 123: Ep. 24 - Things that Can Be Changed, III</text></navLabel><content src="ch_123.xhtml"/></navPoint>
-<navPoint id="123" playOrder="124"><navLabel><text>Ch 124: Ep. 24 - Things that Can Be Changed, IV</text></navLabel><content src="ch_124.xhtml"/></navPoint>
-<navPoint id="124" playOrder="125"><navLabel><text>Ch 125: Ep. 24 - Things that Can Be Changed, V</text></navLabel><content src="ch_125.xhtml"/></navPoint>
-<navPoint id="125" playOrder="126"><navLabel><text>Ch 126: Ep. 24 - Things that Can Be Changed, VI</text></navLabel><content src="ch_126.xhtml"/></navPoint>
-<navPoint id="126" playOrder="127"><navLabel><text>Ch 127: Ep. 25 - Those Who Face a God, I</text></navLabel><content src="ch_127.xhtml"/></navPoint>
-<navPoint id="127" playOrder="128"><navLabel><text>Ch 128: Ep. 25 - Those Who Face a God, II</text></navLabel><content src="ch_128.xhtml"/></navPoint>
-<navPoint id="128" playOrder="129"><navLabel><text>Ch 129: Ep. 25 - Those Who Face a God, III</text></navLabel><content src="ch_129.xhtml"/></navPoint>
-<navPoint id="129" playOrder="130"><navLabel><text>Ch 130: Ep. 25 - Those Who Face a God, IV</text></navLabel><content src="ch_130.xhtml"/></navPoint>
-<navPoint id="130" playOrder="131"><navLabel><text>Ch 131: Ep. 26 - Scenario Destroyer, I</text></navLabel><content src="ch_131.xhtml"/></navPoint>
-<navPoint id="131" playOrder="132"><navLabel><text>Ch 132: Ep. 26 - Scenario Destroyer, II</text></navLabel><content src="ch_132.xhtml"/></navPoint>
-<navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 - Scenario Destroyer, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
-<navPoint id="133" playOrder="134"><navLabel><text>Ch 134: Ep. 26 - Scenario Destroyer, IV</text></navLabel><content src="ch_134.xhtml"/></navPoint>
-<navPoint id="134" playOrder="135"><navLabel><text>Ch 135: Ep. 26 - Scenario Destroyer, V</text></navLabel><content src="ch_135.xhtml"/></navPoint>
-<navPoint id="135" playOrder="136"><navLabel><text>Ch 136: Ep. 26 - Scenario Destroyer, VI</text></navLabel><content src="ch_136.xhtml"/></navPoint>
-<navPoint id="136" playOrder="137"><navLabel><text>Ch 137: Ep. 27 - Unreadable, I</text></navLabel><content src="ch_137.xhtml"/></navPoint>
-<navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 - Unreadable, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
-<navPoint id="138" playOrder="139"><navLabel><text>Ch 139: Ep. 27 - Unreadable, III</text></navLabel><content src="ch_139.xhtml"/></navPoint>
-<navPoint id="139" playOrder="140"><navLabel><text>Ch 140: Ep. 27 - Unreadable, IV</text></navLabel><content src="ch_140.xhtml"/></navPoint>
-<navPoint id="140" playOrder="141"><navLabel><text>Ch 141: Ep. 28 - The Ultimate Sacrifice, I</text></navLabel><content src="ch_141.xhtml"/></navPoint>
-<navPoint id="141" playOrder="142"><navLabel><text>Ch 142: Ep. 28 - The Ultimate Sacrifice, II</text></navLabel><content src="ch_142.xhtml"/></navPoint>
-<navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 - The Ultimate Sacrifice, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
-<navPoint id="143" playOrder="144"><navLabel><text>Ch 144: Ep. 28 - The Ultimate Sacrifice, IV</text></navLabel><content src="ch_144.xhtml"/></navPoint>
-<navPoint id="144" playOrder="145"><navLabel><text>Ch 145: Ep. 28 - The Ultimate Sacrifice, V</text></navLabel><content src="ch_145.xhtml"/></navPoint>
-<navPoint id="145" playOrder="146"><navLabel><text>Ch 146: Ep. 29 - Constellation Banquet, I</text></navLabel><content src="ch_146.xhtml"/></navPoint>
-<navPoint id="146" playOrder="147"><navLabel><text>Ch 147: Ep. 29 - Constellation Banquet, II</text></navLabel><content src="ch_147.xhtml"/></navPoint>
-<navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 - Constellation Banquet, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
-<navPoint id="148" playOrder="149"><navLabel><text>Ch 149: Ep. 29 - Constellation Banquet, IV</text></navLabel><content src="ch_149.xhtml"/></navPoint>
-<navPoint id="149" playOrder="150"><navLabel><text>Ch 150: Ep. 29 - Constellation Banquet, V</text></navLabel><content src="ch_150.xhtml"/></navPoint>
+<navPoint id="110" playOrder="111"><navLabel><text>Ch 111: Ep. 22 – Tiga Janji, III</text></navLabel><content src="ch_111.xhtml"/></navPoint>
+<navPoint id="111" playOrder="112"><navLabel><text>Ch 112: Ep. 22 – Tiga Janji, IV</text></navLabel><content src="ch_112.xhtml"/></navPoint>
+<navPoint id="112" playOrder="113"><navLabel><text>Ch 113: Ep. 22 – Tiga Janji, V</text></navLabel><content src="ch_113.xhtml"/></navPoint>
+<navPoint id="113" playOrder="114"><navLabel><text>Ch 114: Ep. 22 – Tiga Janji, VI</text></navLabel><content src="ch_114.xhtml"/></navPoint>
+<navPoint id="114" playOrder="115"><navLabel><text>Ch 115: Ep. 22 – Tiga Janji, VII</text></navLabel><content src="ch_115.xhtml"/></navPoint>
+<navPoint id="115" playOrder="116"><navLabel><text>Ch 116: Ep. 23 – Dunia yang Ditinggalkan, I</text></navLabel><content src="ch_116.xhtml"/></navPoint>
+<navPoint id="116" playOrder="117"><navLabel><text>Ch 117: Ep. 23 – Dunia yang Ditinggalkan, II</text></navLabel><content src="ch_117.xhtml"/></navPoint>
+<navPoint id="117" playOrder="118"><navLabel><text>Ch 118: Ep. 23 – Dunia yang Ditinggalkan, III</text></navLabel><content src="ch_118.xhtml"/></navPoint>
+<navPoint id="118" playOrder="119"><navLabel><text>Ch 119: Ep. 23 – Dunia yang Ditinggalkan, IV</text></navLabel><content src="ch_119.xhtml"/></navPoint>
+<navPoint id="119" playOrder="120"><navLabel><text>Ch 120: Ep. 23 – Dunia yang Ditinggalkan, V</text></navLabel><content src="ch_120.xhtml"/></navPoint>
+<navPoint id="120" playOrder="121"><navLabel><text>Ch 121: Ep. 24 – Hal-hal yang Bisa Diubah, I</text></navLabel><content src="ch_121.xhtml"/></navPoint>
+<navPoint id="121" playOrder="122"><navLabel><text>Ch 122: Ep. 24 – Hal-hal yang Bisa Diubah, II</text></navLabel><content src="ch_122.xhtml"/></navPoint>
+<navPoint id="122" playOrder="123"><navLabel><text>Ch 123: Ep. 24 – Hal-hal yang Bisa Diubah, III</text></navLabel><content src="ch_123.xhtml"/></navPoint>
+<navPoint id="123" playOrder="124"><navLabel><text>Ch 124: Ep. 24 – Hal-hal yang Bisa Diubah, IV</text></navLabel><content src="ch_124.xhtml"/></navPoint>
+<navPoint id="124" playOrder="125"><navLabel><text>Ch 125: Ep. 24 – Hal-hal yang Bisa Diubah, V</text></navLabel><content src="ch_125.xhtml"/></navPoint>
+<navPoint id="125" playOrder="126"><navLabel><text>Ch 126: Ep. 24 – Hal-hal yang Bisa Diubah, VI</text></navLabel><content src="ch_126.xhtml"/></navPoint>
+<navPoint id="126" playOrder="127"><navLabel><text>Ch 127: Ep. 25 – Mereka yang Menghadapi Dewa, I</text></navLabel><content src="ch_127.xhtml"/></navPoint>
+<navPoint id="127" playOrder="128"><navLabel><text>Ch 128: Ep. 25 – Mereka yang Menghadapi Dewa, II</text></navLabel><content src="ch_128.xhtml"/></navPoint>
+<navPoint id="128" playOrder="129"><navLabel><text>Ch 129: Ep. 25 – Mereka yang Menghadapi Dewa, III</text></navLabel><content src="ch_129.xhtml"/></navPoint>
+<navPoint id="129" playOrder="130"><navLabel><text>Ch 130: Ep. 25 – Mereka yang Menghadapi Dewa, IV</text></navLabel><content src="ch_130.xhtml"/></navPoint>
+<navPoint id="130" playOrder="131"><navLabel><text>Ch 131: Ep. 26 – Penghancur Skenario, I</text></navLabel><content src="ch_131.xhtml"/></navPoint>
+<navPoint id="131" playOrder="132"><navLabel><text>Ch 132: Ep. 26 – Penghancur Skenario, II</text></navLabel><content src="ch_132.xhtml"/></navPoint>
+<navPoint id="132" playOrder="133"><navLabel><text>Ch 133: Ep. 26 – Penghancur Skenario, III</text></navLabel><content src="ch_133.xhtml"/></navPoint>
+<navPoint id="133" playOrder="134"><navLabel><text>Ch 134: Ep. 26 – Penghancur Skenario, IV</text></navLabel><content src="ch_134.xhtml"/></navPoint>
+<navPoint id="134" playOrder="135"><navLabel><text>Ch 135: Ep. 26 – Penghancur Skenario, V</text></navLabel><content src="ch_135.xhtml"/></navPoint>
+<navPoint id="135" playOrder="136"><navLabel><text>Ch 136: Ep. 26 – Penghancur Skenario, VI</text></navLabel><content src="ch_136.xhtml"/></navPoint>
+<navPoint id="136" playOrder="137"><navLabel><text>Ch 137: Ep. 27 – Tak Terbaca, I</text></navLabel><content src="ch_137.xhtml"/></navPoint>
+<navPoint id="137" playOrder="138"><navLabel><text>Ch 138: Ep. 27 – Tak Terbaca, II</text></navLabel><content src="ch_138.xhtml"/></navPoint>
+<navPoint id="138" playOrder="139"><navLabel><text>Ch 139: Ep. 27 – Tak Terbaca, III</text></navLabel><content src="ch_139.xhtml"/></navPoint>
+<navPoint id="139" playOrder="140"><navLabel><text>Ch 140: Ep. 27 – Tak Terbaca, IV</text></navLabel><content src="ch_140.xhtml"/></navPoint>
+<navPoint id="140" playOrder="141"><navLabel><text>Ch 141: Ep. 28 – Pengorbanan Terakhir, I</text></navLabel><content src="ch_141.xhtml"/></navPoint>
+<navPoint id="141" playOrder="142"><navLabel><text>Ch 142: Ep. 28 – Pengorbanan Terakhir, II</text></navLabel><content src="ch_142.xhtml"/></navPoint>
+<navPoint id="142" playOrder="143"><navLabel><text>Ch 143: Ep. 28 – Pengorbanan Terakhir, III</text></navLabel><content src="ch_143.xhtml"/></navPoint>
+<navPoint id="143" playOrder="144"><navLabel><text>Ch 144: Ep. 28 – Pengorbanan Terakhir, IV</text></navLabel><content src="ch_144.xhtml"/></navPoint>
+<navPoint id="144" playOrder="145"><navLabel><text>Ch 145: Ep. 28 – Pengorbanan Terakhir, V</text></navLabel><content src="ch_145.xhtml"/></navPoint>
+<navPoint id="145" playOrder="146"><navLabel><text>Ch 146: Ep. 29 – Perjamuan Konstelasi, I</text></navLabel><content src="ch_146.xhtml"/></navPoint>
+<navPoint id="146" playOrder="147"><navLabel><text>Ch 147: Ep. 29 – Perjamuan Konstelasi, II</text></navLabel><content src="ch_147.xhtml"/></navPoint>
+<navPoint id="147" playOrder="148"><navLabel><text>Ch 148: Ep. 29 – Perjamuan Konstelasi, III</text></navLabel><content src="ch_148.xhtml"/></navPoint>
+<navPoint id="148" playOrder="149"><navLabel><text>Ch 149: Ep. 29 – Perjamuan Konstelasi, IV</text></navLabel><content src="ch_149.xhtml"/></navPoint>
+<navPoint id="149" playOrder="150"><navLabel><text>Ch 150: Ep. 29 – Perjamuan Konstelasi, V</text></navLabel><content src="ch_150.xhtml"/></navPoint>
 <navPoint id="150" playOrder="151"><navLabel><text>Ch 151: Ep. 30 - Dark Castle, I</text></navLabel><content src="ch_151.xhtml"/></navPoint>
 <navPoint id="151" playOrder="152"><navLabel><text>Ch 152: Ep. 30 - Dark Castle, II</text></navLabel><content src="ch_152.xhtml"/></navPoint>
 <navPoint id="152" playOrder="153"><navLabel><text>Ch 153: Ep. 30 - Dark Castle, III</text></navLabel><content src="ch_153.xhtml"/></navPoint>
