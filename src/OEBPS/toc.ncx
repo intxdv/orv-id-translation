@@ -202,11 +202,11 @@
 <navPoint id="192" playOrder="193"><navLabel><text>Ch 193: Ep. 36 – Cakrawala Kisah, V</text></navLabel><content src="ch_193.xhtml"/></navPoint>
 <navPoint id="193" playOrder="194"><navLabel><text>Ch 194: Ep. 37 – Lanskap Alam Iblis, I</text></navLabel><content src="ch_194.xhtml"/></navPoint>
 <navPoint id="194" playOrder="195"><navLabel><text>Ch 195: Ep. 37 – Lanskap Alam Iblis, II</text></navLabel><content src="ch_195.xhtml"/></navPoint>
-<navPoint id="195" playOrder="196"><navLabel><text>Ch 196: Ep. 37 - Landscape of the Demon Realm, III</text></navLabel><content src="ch_196.xhtml"/></navPoint>
-<navPoint id="196" playOrder="197"><navLabel><text>Ch 197: Ep. 37 - Landscape of the Demon Realm, IV</text></navLabel><content src="ch_197.xhtml"/></navPoint>
-<navPoint id="197" playOrder="198"><navLabel><text>Ch 198: Ep. 37 - Landscape of the Demon Realm, V</text></navLabel><content src="ch_198.xhtml"/></navPoint>
-<navPoint id="198" playOrder="199"><navLabel><text>Ch 199: Ep. 38 - Fake Revolutionary, I</text></navLabel><content src="ch_199.xhtml"/></navPoint>
-<navPoint id="199" playOrder="200"><navLabel><text>Ch 200: Ep. 38 - Fake Revolutionary, II</text></navLabel><content src="ch_200.xhtml"/></navPoint>
+<navPoint id="195" playOrder="196"><navLabel><text>Ch 196: Ep. 37 – Lanskap Alam Iblis, III</text></navLabel><content src="ch_196.xhtml"/></navPoint>
+<navPoint id="196" playOrder="197"><navLabel><text>Ch 197: Ep. 37 – Lanskap Alam Iblis, IV</text></navLabel><content src="ch_197.xhtml"/></navPoint>
+<navPoint id="197" playOrder="198"><navLabel><text>Ch 198: Ep. 37 – Lanskap Alam Iblis, V</text></navLabel><content src="ch_198.xhtml"/></navPoint>
+<navPoint id="198" playOrder="199"><navLabel><text>Ch 199: Ep. 38 – Revolusioner Palsu, I</text></navLabel><content src="ch_199.xhtml"/></navPoint>
+<navPoint id="199" playOrder="200"><navLabel><text>Ch 200: Ep. 38 – Revolusioner Palsu, II</text></navLabel><content src="ch_200.xhtml"/></navPoint>
 <navPoint id="200" playOrder="201"><navLabel><text>Ch 201: Ep. 38 - Fake Revolutionary, III</text></navLabel><content src="ch_201.xhtml"/></navPoint>
 <navPoint id="201" playOrder="202"><navLabel><text>Ch 202: Ep. 38 - Fake Revolutionary, IV</text></navLabel><content src="ch_202.xhtml"/></navPoint>
 <navPoint id="202" playOrder="203"><navLabel><text>Ch 203: Ep. 38 - Fake Revolutionary, V</text></navLabel><content src="ch_203.xhtml"/></navPoint>
