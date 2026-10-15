@@ -162,11 +162,11 @@
 <navPoint id="152" playOrder="153"><navLabel><text>Ch 153: Ep. 30 – Kastel Kegelapan, III</text></navLabel><content src="ch_153.xhtml"/></navPoint>
 <navPoint id="153" playOrder="154"><navLabel><text>Ch 154: Ep. 30 – Kastel Kegelapan, IV</text></navLabel><content src="ch_154.xhtml"/></navPoint>
 <navPoint id="154" playOrder="155"><navLabel><text>Ch 155: Ep. 30 – Kastel Kegelapan, V</text></navLabel><content src="ch_155.xhtml"/></navPoint>
-<navPoint id="155" playOrder="156"><navLabel><text>Ch 156: Ep. 30 - Dark Castle, VI</text></navLabel><content src="ch_156.xhtml"/></navPoint>
-<navPoint id="156" playOrder="157"><navLabel><text>Ch 157: Ep. 31 - Tomb of the Scenario, I</text></navLabel><content src="ch_157.xhtml"/></navPoint>
-<navPoint id="157" playOrder="158"><navLabel><text>Ch 158: Ep. 31 - Tomb of the Scenario, II</text></navLabel><content src="ch_158.xhtml"/></navPoint>
-<navPoint id="158" playOrder="159"><navLabel><text>Ch 159: Ep. 31 - Tomb of the Scenario, III</text></navLabel><content src="ch_159.xhtml"/></navPoint>
-<navPoint id="159" playOrder="160"><navLabel><text>Ch 160: Ep. 31 - Tomb of the Scenario, IV</text></navLabel><content src="ch_160.xhtml"/></navPoint>
+<navPoint id="155" playOrder="156"><navLabel><text>Ch 156: Ep. 30 – Kastel Kegelapan, VI</text></navLabel><content src="ch_156.xhtml"/></navPoint>
+<navPoint id="156" playOrder="157"><navLabel><text>Ch 157: Ep. 31 – Makam Skenario, I</text></navLabel><content src="ch_157.xhtml"/></navPoint>
+<navPoint id="157" playOrder="158"><navLabel><text>Ch 158: Ep. 31 – Makam Skenario, II</text></navLabel><content src="ch_158.xhtml"/></navPoint>
+<navPoint id="158" playOrder="159"><navLabel><text>Ch 159: Ep. 31 – Makam Skenario, III</text></navLabel><content src="ch_159.xhtml"/></navPoint>
+<navPoint id="159" playOrder="160"><navLabel><text>Ch 160: Ep. 31 – Makam Skenario, IV</text></navLabel><content src="ch_160.xhtml"/></navPoint>
 <navPoint id="160" playOrder="161"><navLabel><text>Ch 161: Ep. 31 - Tomb of the Scenario, V</text></navLabel><content src="ch_161.xhtml"/></navPoint>
 <navPoint id="161" playOrder="162"><navLabel><text>Ch 162: Ep. 32 - Kim Dokja's Love, I</text></navLabel><content src="ch_162.xhtml"/></navPoint>
 <navPoint id="162" playOrder="163"><navLabel><text>Ch 163: Ep. 32 - Kim Dokja's Love, II</text></navLabel><content src="ch_163.xhtml"/></navPoint>
