@@ -207,11 +207,11 @@
 <navPoint id="197" playOrder="198"><navLabel><text>Ch 198: Ep. 37 – Lanskap Alam Iblis, V</text></navLabel><content src="ch_198.xhtml"/></navPoint>
 <navPoint id="198" playOrder="199"><navLabel><text>Ch 199: Ep. 38 – Revolusioner Palsu, I</text></navLabel><content src="ch_199.xhtml"/></navPoint>
 <navPoint id="199" playOrder="200"><navLabel><text>Ch 200: Ep. 38 – Revolusioner Palsu, II</text></navLabel><content src="ch_200.xhtml"/></navPoint>
-<navPoint id="200" playOrder="201"><navLabel><text>Ch 201: Ep. 38 - Fake Revolutionary, III</text></navLabel><content src="ch_201.xhtml"/></navPoint>
-<navPoint id="201" playOrder="202"><navLabel><text>Ch 202: Ep. 38 - Fake Revolutionary, IV</text></navLabel><content src="ch_202.xhtml"/></navPoint>
-<navPoint id="202" playOrder="203"><navLabel><text>Ch 203: Ep. 38 - Fake Revolutionary, V</text></navLabel><content src="ch_203.xhtml"/></navPoint>
-<navPoint id="203" playOrder="204"><navLabel><text>Ch 204: Ep. 39 - Unidentified Wall, I</text></navLabel><content src="ch_204.xhtml"/></navPoint>
-<navPoint id="204" playOrder="205"><navLabel><text>Ch 205: Ep. 39 - Unidentified Wall, II</text></navLabel><content src="ch_205.xhtml"/></navPoint>
+<navPoint id="200" playOrder="201"><navLabel><text>Ch 201: Ep. 38 – Revolusioner Palsu, III</text></navLabel><content src="ch_201.xhtml"/></navPoint>
+<navPoint id="201" playOrder="202"><navLabel><text>Ch 202: Ep. 38 – Revolusioner Palsu, IV</text></navLabel><content src="ch_202.xhtml"/></navPoint>
+<navPoint id="202" playOrder="203"><navLabel><text>Ch 203: Ep. 38 – Revolusioner Palsu, V</text></navLabel><content src="ch_203.xhtml"/></navPoint>
+<navPoint id="203" playOrder="204"><navLabel><text>Ch 204: Ep. 39 – Dinding Tak Teridentifikasi, I</text></navLabel><content src="ch_204.xhtml"/></navPoint>
+<navPoint id="204" playOrder="205"><navLabel><text>Ch 205: Ep. 39 – Dinding Tak Teridentifikasi, II</text></navLabel><content src="ch_205.xhtml"/></navPoint>
 <navPoint id="205" playOrder="206"><navLabel><text>Ch 206: Ep. 39 - Unidentified Wall, III</text></navLabel><content src="ch_206.xhtml"/></navPoint>
 <navPoint id="206" playOrder="207"><navLabel><text>Ch 207: Ep. 39 - Unidentified Wall, IV</text></navLabel><content src="ch_207.xhtml"/></navPoint>
 <navPoint id="207" playOrder="208"><navLabel><text>Ch 208: Ep. 39 - Unidentified Wall, V</text></navLabel><content src="ch_208.xhtml"/></navPoint>
