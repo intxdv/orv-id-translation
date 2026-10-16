@@ -252,11 +252,11 @@
 <navPoint id="242" playOrder="243"><navLabel><text>Ch 243: Ep. 45 – Asosiasi Gourmet, VII</text></navLabel><content src="ch_243.xhtml"/></navPoint>
 <navPoint id="243" playOrder="244"><navLabel><text>Ch 244: Ep. 46 – Kisah Baru, I</text></navLabel><content src="ch_244.xhtml"/></navPoint>
 <navPoint id="244" playOrder="245"><navLabel><text>Ch 245: Ep. 46 – Kisah Baru, II</text></navLabel><content src="ch_245.xhtml"/></navPoint>
-<navPoint id="245" playOrder="246"><navLabel><text>Ch 246: Ep. 46 - New Story, III</text></navLabel><content src="ch_246.xhtml"/></navPoint>
-<navPoint id="246" playOrder="247"><navLabel><text>Ch 247: Ep. 47 - Demon King Selection, I</text></navLabel><content src="ch_247.xhtml"/></navPoint>
-<navPoint id="247" playOrder="248"><navLabel><text>Ch 248: Ep. 47 - Demon King Selection, II</text></navLabel><content src="ch_248.xhtml"/></navPoint>
-<navPoint id="248" playOrder="249"><navLabel><text>Ch 249: Ep. 47 - Demon King Selection, III</text></navLabel><content src="ch_249.xhtml"/></navPoint>
-<navPoint id="249" playOrder="250"><navLabel><text>Ch 250: Ep. 47 - Demon King Selection, IV</text></navLabel><content src="ch_250.xhtml"/></navPoint>
+<navPoint id="245" playOrder="246"><navLabel><text>Ch 246: Ep. 46 – Kisah Baru, III</text></navLabel><content src="ch_246.xhtml"/></navPoint>
+<navPoint id="246" playOrder="247"><navLabel><text>Ch 247: Ep. 47 – Pemilihan Raja Iblis, I</text></navLabel><content src="ch_247.xhtml"/></navPoint>
+<navPoint id="247" playOrder="248"><navLabel><text>Ch 248: Ep. 47 – Pemilihan Raja Iblis, II</text></navLabel><content src="ch_248.xhtml"/></navPoint>
+<navPoint id="248" playOrder="249"><navLabel><text>Ch 249: Ep. 47 – Pemilihan Raja Iblis, III</text></navLabel><content src="ch_249.xhtml"/></navPoint>
+<navPoint id="249" playOrder="250"><navLabel><text>Ch 250: Ep. 47 – Pemilihan Raja Iblis, IV</text></navLabel><content src="ch_250.xhtml"/></navPoint>
 <navPoint id="250" playOrder="251"><navLabel><text>Ch 251: Ep. 47 - Demon King Selection, V</text></navLabel><content src="ch_251.xhtml"/></navPoint>
 <navPoint id="251" playOrder="252"><navLabel><text>Ch 252: Ep. 47 - Demon King Selection, VI</text></navLabel><content src="ch_252.xhtml"/></navPoint>
 <navPoint id="252" playOrder="253"><navLabel><text>Ch 253: Ep. 47 - Demon King Selection, VII</text></navLabel><content src="ch_253.xhtml"/></navPoint>
