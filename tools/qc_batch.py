@@ -36,7 +36,7 @@ FORBIDDEN_PATTERNS = [
     (re.compile(r'\bBab\s+\d+', re.IGNORECASE), "Penggunaan kata 'Bab' (Wajib gunakan 'Chapter')"),
     (re.compile(r'\bRasi\s+Bintang\b', re.IGNORECASE), "Penggunaan 'Rasi Bintang' (Wajib 'Konstelasi')"),
     (re.compile(r'\bDongeng\b', re.IGNORECASE), "Penggunaan 'Dongeng' (Wajib 'Kisah')"),
-    (re.compile(r'\b(Mas|Mbak)\s+[A-Z]', re.IGNORECASE), "Penggunaan honorifik lokal 'Mas/Mbak' (Wajib honorifik Korea, e.g. -ssi)"),
+    (re.compile(r'\b(Mas|Mbak)\s+[A-Z]'), "Penggunaan honorifik lokal 'Mas/Mbak' (Wajib honorifik Korea, e.g. -ssi)"),
 ]
 
 RECHECK_PATTERNS = [
