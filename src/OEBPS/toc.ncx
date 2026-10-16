@@ -212,11 +212,11 @@
 <navPoint id="202" playOrder="203"><navLabel><text>Ch 203: Ep. 38 – Revolusioner Palsu, V</text></navLabel><content src="ch_203.xhtml"/></navPoint>
 <navPoint id="203" playOrder="204"><navLabel><text>Ch 204: Ep. 39 – Dinding Tak Teridentifikasi, I</text></navLabel><content src="ch_204.xhtml"/></navPoint>
 <navPoint id="204" playOrder="205"><navLabel><text>Ch 205: Ep. 39 – Dinding Tak Teridentifikasi, II</text></navLabel><content src="ch_205.xhtml"/></navPoint>
-<navPoint id="205" playOrder="206"><navLabel><text>Ch 206: Ep. 39 - Unidentified Wall, III</text></navLabel><content src="ch_206.xhtml"/></navPoint>
-<navPoint id="206" playOrder="207"><navLabel><text>Ch 207: Ep. 39 - Unidentified Wall, IV</text></navLabel><content src="ch_207.xhtml"/></navPoint>
-<navPoint id="207" playOrder="208"><navLabel><text>Ch 208: Ep. 39 - Unidentified Wall, V</text></navLabel><content src="ch_208.xhtml"/></navPoint>
-<navPoint id="208" playOrder="209"><navLabel><text>Ch 209: Ep. 39 - Unidentified Wall, VI</text></navLabel><content src="ch_209.xhtml"/></navPoint>
-<navPoint id="209" playOrder="210"><navLabel><text>Ch 210: Ep. 40 - Hatching, I</text></navLabel><content src="ch_210.xhtml"/></navPoint>
+<navPoint id="205" playOrder="206"><navLabel><text>Ch 206: Ep. 39 – Dinding Tak Teridentifikasi, III</text></navLabel><content src="ch_206.xhtml"/></navPoint>
+<navPoint id="206" playOrder="207"><navLabel><text>Ch 207: Ep. 39 – Dinding Tak Teridentifikasi, IV</text></navLabel><content src="ch_207.xhtml"/></navPoint>
+<navPoint id="207" playOrder="208"><navLabel><text>Ch 208: Ep. 39 – Dinding Tak Teridentifikasi, V</text></navLabel><content src="ch_208.xhtml"/></navPoint>
+<navPoint id="208" playOrder="209"><navLabel><text>Ch 209: Ep. 39 – Dinding Tak Teridentifikasi, VI</text></navLabel><content src="ch_209.xhtml"/></navPoint>
+<navPoint id="209" playOrder="210"><navLabel><text>Ch 210: Ep. 40 – Penetasan, I</text></navLabel><content src="ch_210.xhtml"/></navPoint>
 <navPoint id="210" playOrder="211"><navLabel><text>Ch 211: Ep. 40 - Hatching, II</text></navLabel><content src="ch_211.xhtml"/></navPoint>
 <navPoint id="211" playOrder="212"><navLabel><text>Ch 212: Ep. 40 - Hatching, III</text></navLabel><content src="ch_212.xhtml"/></navPoint>
 <navPoint id="212" playOrder="213"><navLabel><text>Ch 213: Ep. 40 - Hatching, IV</text></navLabel><content src="ch_213.xhtml"/></navPoint>
