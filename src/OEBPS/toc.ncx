@@ -242,11 +242,11 @@
 <navPoint id="232" playOrder="233"><navLabel><text>Ch 233: Ep. 44 – Sang Penipu, I</text></navLabel><content src="ch_233.xhtml"/></navPoint>
 <navPoint id="233" playOrder="234"><navLabel><text>Ch 234: Ep. 44 – Sang Penipu, II</text></navLabel><content src="ch_234.xhtml"/></navPoint>
 <navPoint id="234" playOrder="235"><navLabel><text>Ch 235: Ep. 44 – Sang Penipu, III</text></navLabel><content src="ch_235.xhtml"/></navPoint>
-<navPoint id="235" playOrder="236"><navLabel><text>Ch 236: Ep. 44 - Swindler, IV</text></navLabel><content src="ch_236.xhtml"/></navPoint>
-<navPoint id="236" playOrder="237"><navLabel><text>Ch 237: Ep. 45 - Gourmet Association, I</text></navLabel><content src="ch_237.xhtml"/></navPoint>
-<navPoint id="237" playOrder="238"><navLabel><text>Ch 238: Ep. 45 - Gourmet Association, II</text></navLabel><content src="ch_238.xhtml"/></navPoint>
-<navPoint id="238" playOrder="239"><navLabel><text>Ch 239: Ep. 45 - Gourmet Association, III</text></navLabel><content src="ch_239.xhtml"/></navPoint>
-<navPoint id="239" playOrder="240"><navLabel><text>Ch 240: Ep. 45 - Gourmet Association, IV</text></navLabel><content src="ch_240.xhtml"/></navPoint>
+<navPoint id="235" playOrder="236"><navLabel><text>Ch 236: Ep. 44 – Sang Penipu, IV</text></navLabel><content src="ch_236.xhtml"/></navPoint>
+<navPoint id="236" playOrder="237"><navLabel><text>Ch 237: Ep. 45 – Asosiasi Gourmet, I</text></navLabel><content src="ch_237.xhtml"/></navPoint>
+<navPoint id="237" playOrder="238"><navLabel><text>Ch 238: Ep. 45 – Asosiasi Gourmet, II</text></navLabel><content src="ch_238.xhtml"/></navPoint>
+<navPoint id="238" playOrder="239"><navLabel><text>Ch 239: Ep. 45 – Asosiasi Gourmet, III</text></navLabel><content src="ch_239.xhtml"/></navPoint>
+<navPoint id="239" playOrder="240"><navLabel><text>Ch 240: Ep. 45 – Asosiasi Gourmet, IV</text></navLabel><content src="ch_240.xhtml"/></navPoint>
 <navPoint id="240" playOrder="241"><navLabel><text>Ch 241: Ep. 45 - Gourmet Association, V</text></navLabel><content src="ch_241.xhtml"/></navPoint>
 <navPoint id="241" playOrder="242"><navLabel><text>Ch 242: Ep. 45 - Gourmet Association, VI</text></navLabel><content src="ch_242.xhtml"/></navPoint>
 <navPoint id="242" playOrder="243"><navLabel><text>Ch 243: Ep. 45 - Gourmet Association, VII</text></navLabel><content src="ch_243.xhtml"/></navPoint>
