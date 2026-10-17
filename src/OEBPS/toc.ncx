@@ -313,11 +313,11 @@
 <navPoint id="303" playOrder="304"><navLabel><text>Ch 304: Ep. 57 – Kepulangan yang Mulia, V</text></navLabel><content src="ch_304.xhtml"/></navPoint>
 <navPoint id="304" playOrder="305"><navLabel><text>Ch 305: Ep. 58 – Konteks Para Konstelasi, I</text></navLabel><content src="ch_305.xhtml"/></navPoint>
 <navPoint id="305" playOrder="306"><navLabel><text>Ch 306: Ep. 58 – Konteks Para Konstelasi, II</text></navLabel><content src="ch_306.xhtml"/></navPoint>
-<navPoint id="306" playOrder="307"><navLabel><text>Ch 307: Ep. 58 - Context of the Constellations, III</text></navLabel><content src="ch_307.xhtml"/></navPoint>
-<navPoint id="307" playOrder="308"><navLabel><text>Ch 308: Ep. 58 - Context of the Constellations, IV</text></navLabel><content src="ch_308.xhtml"/></navPoint>
-<navPoint id="308" playOrder="309"><navLabel><text>Ch 309: Ep. 58 - Context of the Constellations, V</text></navLabel><content src="ch_309.xhtml"/></navPoint>
-<navPoint id="309" playOrder="310"><navLabel><text>Ch 310: Ep. 59 - Kim Dokja's Company, I</text></navLabel><content src="ch_310.xhtml"/></navPoint>
-<navPoint id="310" playOrder="311"><navLabel><text>Ch 311: Ep. 59 - Kim Dokja's Company, II</text></navLabel><content src="ch_311.xhtml"/></navPoint>
+<navPoint id="306" playOrder="307"><navLabel><text>Ch 307: Ep. 58 — Konteks Para Konstelasi, III</text></navLabel><content src="ch_307.xhtml"/></navPoint>
+<navPoint id="307" playOrder="308"><navLabel><text>Ch 308: Ep. 58 — Konteks Para Konstelasi, IV</text></navLabel><content src="ch_308.xhtml"/></navPoint>
+<navPoint id="308" playOrder="309"><navLabel><text>Ch 309: Ep. 58 — Konteks Para Konstelasi, V</text></navLabel><content src="ch_309.xhtml"/></navPoint>
+<navPoint id="309" playOrder="310"><navLabel><text>Ch 310: Ep. 59 — Perusahaan Kim Dokja, I</text></navLabel><content src="ch_310.xhtml"/></navPoint>
+<navPoint id="310" playOrder="311"><navLabel><text>Ch 311: Ep. 59 — Perusahaan Kim Dokja, II</text></navLabel><content src="ch_311.xhtml"/></navPoint>
 <navPoint id="311" playOrder="312"><navLabel><text>Ch 312: Ep. 59 - Kim Dokja's Company, III</text></navLabel><content src="ch_312.xhtml"/></navPoint>
 <navPoint id="312" playOrder="313"><navLabel><text>Ch 313: Ep. 59 - Kim Dokja's Company, IV</text></navLabel><content src="ch_313.xhtml"/></navPoint>
 <navPoint id="313" playOrder="314"><navLabel><text>Ch 314: Ep. 59 - Kim Dokja's Company, V</text></navLabel><content src="ch_314.xhtml"/></navPoint>
