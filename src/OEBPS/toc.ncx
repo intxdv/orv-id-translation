@@ -302,11 +302,11 @@
 <navPoint id="292" playOrder="293"><navLabel><text>Ch 293: Ep. 55 – Kenangan Bahagia, III</text></navLabel><content src="ch_293.xhtml"/></navPoint>
 <navPoint id="293" playOrder="294"><navLabel><text>Ch 294: Ep. 55 – Kenangan Bahagia, IV</text></navLabel><content src="ch_294.xhtml"/></navPoint>
 <navPoint id="294" playOrder="295"><navLabel><text>Ch 295: Ep. 56 – Pembaca dan Penulis, I</text></navLabel><content src="ch_295.xhtml"/></navPoint>
-<navPoint id="295" playOrder="296"><navLabel><text>Ch 296: Ep. 56 - Reader and Writer, II</text></navLabel><content src="ch_296.xhtml"/></navPoint>
-<navPoint id="296" playOrder="297"><navLabel><text>Ch 297: Ep. 56 - Reader and Writer, III</text></navLabel><content src="ch_297.xhtml"/></navPoint>
-<navPoint id="297" playOrder="298"><navLabel><text>Ch 298: Ep. 56 - Reader and Writer, IV</text></navLabel><content src="ch_298.xhtml"/></navPoint>
-<navPoint id="298" playOrder="299"><navLabel><text>Ch 299: Ep. 56 - Reader and Writer, V</text></navLabel><content src="ch_299.xhtml"/></navPoint>
-<navPoint id="299" playOrder="300"><navLabel><text>Ch 300: Ep. 57 - Glorious Return, I</text></navLabel><content src="ch_300.xhtml"/></navPoint>
+<navPoint id="295" playOrder="296"><navLabel><text>Ch 296: Ep. 56 – Pembaca dan Penulis, II</text></navLabel><content src="ch_296.xhtml"/></navPoint>
+<navPoint id="296" playOrder="297"><navLabel><text>Ch 297: Ep. 56 – Pembaca dan Penulis, III</text></navLabel><content src="ch_297.xhtml"/></navPoint>
+<navPoint id="297" playOrder="298"><navLabel><text>Ch 298: Ep. 56 – Pembaca dan Penulis, IV</text></navLabel><content src="ch_298.xhtml"/></navPoint>
+<navPoint id="298" playOrder="299"><navLabel><text>Ch 299: Ep. 56 – Pembaca dan Penulis, V</text></navLabel><content src="ch_299.xhtml"/></navPoint>
+<navPoint id="299" playOrder="300"><navLabel><text>Ch 300: Ep. 57 – Kepulangan yang Mulia, I</text></navLabel><content src="ch_300.xhtml"/></navPoint>
 <navPoint id="300" playOrder="301"><navLabel><text>Ch 301: Ep. 57 - Glorious Return, II</text></navLabel><content src="ch_301.xhtml"/></navPoint>
 <navPoint id="301" playOrder="302"><navLabel><text>Ch 302: Ep. 57 - Glorious Return, III</text></navLabel><content src="ch_302.xhtml"/></navPoint>
 <navPoint id="302" playOrder="303"><navLabel><text>Ch 303: Ep. 57 - Glorious Return, IV</text></navLabel><content src="ch_303.xhtml"/></navPoint>
