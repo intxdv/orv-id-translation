@@ -472,11 +472,11 @@
 <navPoint id="462" playOrder="463"><navLabel><text>Ch 463: Ep. 88 - Konstelasi Tingkat Mitos, I</text></navLabel><content src="ch_463.xhtml"/></navPoint>
 <navPoint id="463" playOrder="464"><navLabel><text>Ch 464: Ep. 88 - Konstelasi Tingkat Mitos, II</text></navLabel><content src="ch_464.xhtml"/></navPoint>
 <navPoint id="464" playOrder="465"><navLabel><text>Ch 465: Ep. 88 - Konstelasi Tingkat Mitos, III</text></navLabel><content src="ch_465.xhtml"/></navPoint>
-<navPoint id="465" playOrder="466"><navLabel><text>Ch 466: Ep. 88 - Myth-grade Constellation, IV</text></navLabel><content src="ch_466.xhtml"/></navPoint>
-<navPoint id="466" playOrder="467"><navLabel><text>Ch 467: Ep. 89 - Great Apocalypse, I</text></navLabel><content src="ch_467.xhtml"/></navPoint>
-<navPoint id="467" playOrder="468"><navLabel><text>Ch 468: Ep. 89 - Great Apocalypse, II</text></navLabel><content src="ch_468.xhtml"/></navPoint>
-<navPoint id="468" playOrder="469"><navLabel><text>Ch 469: Ep. 89 - Great Apocalypse, III</text></navLabel><content src="ch_469.xhtml"/></navPoint>
-<navPoint id="469" playOrder="470"><navLabel><text>Ch 470: Ep. 89 - Great Apocalypse, IV</text></navLabel><content src="ch_470.xhtml"/></navPoint>
+<navPoint id="465" playOrder="466"><navLabel><text>Ch 466: Ep. 88 - Konstelasi Tingkat Mitos, IV</text></navLabel><content src="ch_466.xhtml"/></navPoint>
+<navPoint id="466" playOrder="467"><navLabel><text>Ch 467: Ep. 89 - Apokalips Besar, I</text></navLabel><content src="ch_467.xhtml"/></navPoint>
+<navPoint id="467" playOrder="468"><navLabel><text>Ch 468: Ep. 89 - Apokalips Besar, II</text></navLabel><content src="ch_468.xhtml"/></navPoint>
+<navPoint id="468" playOrder="469"><navLabel><text>Ch 469: Ep. 89 - Apokalips Besar, III</text></navLabel><content src="ch_469.xhtml"/></navPoint>
+<navPoint id="469" playOrder="470"><navLabel><text>Ch 470: Ep. 89 - Apokalips Besar, IV</text></navLabel><content src="ch_470.xhtml"/></navPoint>
 <navPoint id="470" playOrder="471"><navLabel><text>Ch 471: Ep. 89 - Great Apocalypse, V</text></navLabel><content src="ch_471.xhtml"/></navPoint>
 <navPoint id="471" playOrder="472"><navLabel><text>Ch 472: Ep. 90 - One Person, I</text></navLabel><content src="ch_472.xhtml"/></navPoint>
 <navPoint id="472" playOrder="473"><navLabel><text>Ch 473: Ep. 90 - One Person, II</text></navLabel><content src="ch_473.xhtml"/></navPoint>
