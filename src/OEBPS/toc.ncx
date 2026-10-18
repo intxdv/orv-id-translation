@@ -482,11 +482,11 @@
 <navPoint id="472" playOrder="473"><navLabel><text>Ch 473: Ep. 90 – Satu Orang, II</text></navLabel><content src="ch_473.xhtml"/></navPoint>
 <navPoint id="473" playOrder="474"><navLabel><text>Ch 474: Ep. 90 – Satu Orang, III</text></navLabel><content src="ch_474.xhtml"/></navPoint>
 <navPoint id="474" playOrder="475"><navLabel><text>Ch 475: Ep. 90 – Satu Orang, IV</text></navLabel><content src="ch_475.xhtml"/></navPoint>
-<navPoint id="475" playOrder="476"><navLabel><text>Ch 476: Ep. 90 - One Person, V</text></navLabel><content src="ch_476.xhtml"/></navPoint>
-<navPoint id="476" playOrder="477"><navLabel><text>Ch 477: Ep. 91 - One Single Story, I</text></navLabel><content src="ch_477.xhtml"/></navPoint>
-<navPoint id="477" playOrder="478"><navLabel><text>Ch 478: Ep. 91 - One Single Story, II</text></navLabel><content src="ch_478.xhtml"/></navPoint>
-<navPoint id="478" playOrder="479"><navLabel><text>Ch 479: Ep. 91 - One Single Story, III</text></navLabel><content src="ch_479.xhtml"/></navPoint>
-<navPoint id="479" playOrder="480"><navLabel><text>Ch 480: Ep. 91 - One Single Story, IV</text></navLabel><content src="ch_480.xhtml"/></navPoint>
+<navPoint id="475" playOrder="476"><navLabel><text>Ch 476: Ep. 90 – Satu Orang, V</text></navLabel><content src="ch_476.xhtml"/></navPoint>
+<navPoint id="476" playOrder="477"><navLabel><text>Ch 477: Ep. 91 – Satu Kisah Tunggal, I</text></navLabel><content src="ch_477.xhtml"/></navPoint>
+<navPoint id="477" playOrder="478"><navLabel><text>Ch 478: Ep. 91 – Satu Kisah Tunggal, II</text></navLabel><content src="ch_478.xhtml"/></navPoint>
+<navPoint id="478" playOrder="479"><navLabel><text>Ch 479: Ep. 91 – Satu Kisah Tunggal, III</text></navLabel><content src="ch_479.xhtml"/></navPoint>
+<navPoint id="479" playOrder="480"><navLabel><text>Ch 480: Ep. 91 – Satu Kisah Tunggal, IV</text></navLabel><content src="ch_480.xhtml"/></navPoint>
 <navPoint id="480" playOrder="481"><navLabel><text>Ch 481: Ep. 91 - One Single Story, V</text></navLabel><content src="ch_481.xhtml"/></navPoint>
 <navPoint id="481" playOrder="482"><navLabel><text>Ch 482: Ep. 92 - Final Scenario, I</text></navLabel><content src="ch_482.xhtml"/></navPoint>
 <navPoint id="482" playOrder="483"><navLabel><text>Ch 483: Ep. 92 - Final Scenario, II</text></navLabel><content src="ch_483.xhtml"/></navPoint>
