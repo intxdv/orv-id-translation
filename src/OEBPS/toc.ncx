@@ -455,8 +455,8 @@
 <navPoint id="445" playOrder="446"><navLabel><text>Ch 446: Ep. 84 - 1864, II</text></navLabel><content src="ch_446.xhtml"/></navPoint>
 <navPoint id="446" playOrder="447"><navLabel><text>Ch 447: Ep. 84 - 1864, III</text></navLabel><content src="ch_447.xhtml"/></navPoint>
 <navPoint id="447" playOrder="448"><navLabel><text>Ch 448: Ep. 84 - 1864, IV</text></navLabel><content src="ch_448.xhtml"/></navPoint>
-<navPoint id="448" playOrder="449"><navLabel><text>Ch 449: Ep. 85 - The Final Wall, I</text></navLabel><content src="ch_449.xhtml"/></navPoint>
-<navPoint id="449" playOrder="450"><navLabel><text>Ch 450: Ep. 85 - The Final Wall, II</text></navLabel><content src="ch_450.xhtml"/></navPoint>
+<navPoint id="448" playOrder="449"><navLabel><text>Ch 449: Ep. 85 - Dinding Terakhir, I</text></navLabel><content src="ch_449.xhtml"/></navPoint>
+<navPoint id="449" playOrder="450"><navLabel><text>Ch 450: Ep. 85 - Dinding Terakhir, II</text></navLabel><content src="ch_450.xhtml"/></navPoint>
 <navPoint id="450" playOrder="451"><navLabel><text>Ch 451: Ep. 85 - The Final Wall, III</text></navLabel><content src="ch_451.xhtml"/></navPoint>
 <navPoint id="451" playOrder="452"><navLabel><text>Ch 452: Ep. 85 - The Final Wall, IV</text></navLabel><content src="ch_452.xhtml"/></navPoint>
 <navPoint id="452" playOrder="453"><navLabel><text>Ch 453: Ep. 85 - The Final Wall, V</text></navLabel><content src="ch_453.xhtml"/></navPoint>
