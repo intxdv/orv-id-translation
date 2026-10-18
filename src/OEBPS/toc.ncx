@@ -422,11 +422,11 @@
 <navPoint id="412" playOrder="413"><navLabel><text>Ch 413: Ep. 78 — Twist, V</text></navLabel><content src="ch_413.xhtml"/></navPoint>
 <navPoint id="413" playOrder="414"><navLabel><text>Ch 414: Ep. 78 — Twist, VI</text></navLabel><content src="ch_414.xhtml"/></navPoint>
 <navPoint id="414" playOrder="415"><navLabel><text>Ch 415: Ep. 78 — Twist, VII</text></navLabel><content src="ch_415.xhtml"/></navPoint>
-<navPoint id="415" playOrder="416"><navLabel><text>Ch 416: Ep. 79 - The Secretive Plotter, I</text></navLabel><content src="ch_416.xhtml"/></navPoint>
-<navPoint id="416" playOrder="417"><navLabel><text>Ch 417: Ep. 79 - The Secretive Plotter, II</text></navLabel><content src="ch_417.xhtml"/></navPoint>
-<navPoint id="417" playOrder="418"><navLabel><text>Ch 418: Ep. 79 - The Secretive Plotter, III</text></navLabel><content src="ch_418.xhtml"/></navPoint>
-<navPoint id="418" playOrder="419"><navLabel><text>Ch 419: Ep. 79 - The Secretive Plotter, IV</text></navLabel><content src="ch_419.xhtml"/></navPoint>
-<navPoint id="419" playOrder="420"><navLabel><text>Ch 420: Ep. 79 - The Secretive Plotter, V</text></navLabel><content src="ch_420.xhtml"/></navPoint>
+<navPoint id="415" playOrder="416"><navLabel><text>Ch 416: Ep. 79 — Secretive Plotter, I</text></navLabel><content src="ch_416.xhtml"/></navPoint>
+<navPoint id="416" playOrder="417"><navLabel><text>Ch 417: Ep. 79 — Secretive Plotter, II</text></navLabel><content src="ch_417.xhtml"/></navPoint>
+<navPoint id="417" playOrder="418"><navLabel><text>Ch 418: Ep. 79 — Secretive Plotter, III</text></navLabel><content src="ch_418.xhtml"/></navPoint>
+<navPoint id="418" playOrder="419"><navLabel><text>Ch 419: Ep. 79 — Secretive Plotter, IV</text></navLabel><content src="ch_419.xhtml"/></navPoint>
+<navPoint id="419" playOrder="420"><navLabel><text>Ch 420: Ep. 79 — Secretive Plotter, V</text></navLabel><content src="ch_420.xhtml"/></navPoint>
 <navPoint id="420" playOrder="421"><navLabel><text>Ch 421: Ep. 79 - The Secretive Plotter, VI</text></navLabel><content src="ch_421.xhtml"/></navPoint>
 <navPoint id="421" playOrder="422"><navLabel><text>Ch 422: Ep. 79 - The Secretive Plotter, VII</text></navLabel><content src="ch_422.xhtml"/></navPoint>
 <navPoint id="422" playOrder="423"><navLabel><text>Ch 423: Ep. 80 - Our greatest ally, I</text></navLabel><content src="ch_423.xhtml"/></navPoint>
