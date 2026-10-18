@@ -502,11 +502,11 @@
 <navPoint id="492" playOrder="493"><navLabel><text>Ch 493: Ep. 94 – Awal dari Akhir, I</text></navLabel><content src="ch_493.xhtml"/></navPoint>
 <navPoint id="493" playOrder="494"><navLabel><text>Ch 494: Ep. 94 – Awal dari Akhir, II</text></navLabel><content src="ch_494.xhtml"/></navPoint>
 <navPoint id="494" playOrder="495"><navLabel><text>Ch 495: Ep. 94 – Awal dari Akhir, III</text></navLabel><content src="ch_495.xhtml"/></navPoint>
-<navPoint id="495" playOrder="496"><navLabel><text>Ch 496: Ep. 94 - Beginning of the end, IV</text></navLabel><content src="ch_496.xhtml"/></navPoint>
-<navPoint id="496" playOrder="497"><navLabel><text>Ch 497: Ep. 95 - Gaecheon/開天, I</text></navLabel><content src="ch_497.xhtml"/></navPoint>
-<navPoint id="497" playOrder="498"><navLabel><text>Ch 498: Ep. 95 - Gaecheon/開天, II</text></navLabel><content src="ch_498.xhtml"/></navPoint>
-<navPoint id="498" playOrder="499"><navLabel><text>Ch 499: Ep. 95 - Gaecheon/開天, III</text></navLabel><content src="ch_499.xhtml"/></navPoint>
-<navPoint id="499" playOrder="500"><navLabel><text>Ch 500: Ep. 95 - Gaecheon/開天, IV</text></navLabel><content src="ch_500.xhtml"/></navPoint>
+<navPoint id="495" playOrder="496"><navLabel><text>Ch 496: Ep. 94 – Awal dari Akhir, IV</text></navLabel><content src="ch_496.xhtml"/></navPoint>
+<navPoint id="496" playOrder="497"><navLabel><text>Ch 497: Ep. 95 – Pembukaan Langit (Gaecheon), I</text></navLabel><content src="ch_497.xhtml"/></navPoint>
+<navPoint id="497" playOrder="498"><navLabel><text>Ch 498: Ep. 95 – Pembukaan Langit (Gaecheon), II</text></navLabel><content src="ch_498.xhtml"/></navPoint>
+<navPoint id="498" playOrder="499"><navLabel><text>Ch 499: Ep. 95 – Pembukaan Langit (Gaecheon), III</text></navLabel><content src="ch_499.xhtml"/></navPoint>
+<navPoint id="499" playOrder="500"><navLabel><text>Ch 500: Ep. 95 – Pembukaan Langit (Gaecheon), IV</text></navLabel><content src="ch_500.xhtml"/></navPoint>
 <navPoint id="500" playOrder="501"><navLabel><text>Ch 501: Ep. 96 - Demon-like Judge of Fire, I</text></navLabel><content src="ch_501.xhtml"/></navPoint>
 <navPoint id="501" playOrder="502"><navLabel><text>Ch 502: Ep. 96 - Demon-like Judge of Fire, II</text></navLabel><content src="ch_502.xhtml"/></navPoint>
 <navPoint id="502" playOrder="503"><navLabel><text>Ch 503: Ep. 96 - Demon-like Judge of Fire, III</text></navLabel><content src="ch_503.xhtml"/></navPoint>
