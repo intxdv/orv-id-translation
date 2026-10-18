@@ -362,11 +362,11 @@
 <navPoint id="352" playOrder="353"><navLabel><text>Ch 353: Ep. 66 — Melampaui Kebajikan dan Kejahatan, III</text></navLabel><content src="ch_353.xhtml"/></navPoint>
 <navPoint id="353" playOrder="354"><navLabel><text>Ch 354: Ep. 66 — Melampaui Kebajikan dan Kejahatan, IV</text></navLabel><content src="ch_354.xhtml"/></navPoint>
 <navPoint id="354" playOrder="355"><navLabel><text>Ch 355: Ep. 66 — Melampaui Kebajikan dan Kejahatan, V</text></navLabel><content src="ch_355.xhtml"/></navPoint>
-<navPoint id="355" playOrder="356"><navLabel><text>Ch 356: Ep. 67 - Forgotten People of the Scenario, I</text></navLabel><content src="ch_356.xhtml"/></navPoint>
-<navPoint id="356" playOrder="357"><navLabel><text>Ch 357: Ep. 67 - Forgotten People of the Scenario, II</text></navLabel><content src="ch_357.xhtml"/></navPoint>
-<navPoint id="357" playOrder="358"><navLabel><text>Ch 358: Ep. 67 - Forgotten People of the Scenario, III</text></navLabel><content src="ch_358.xhtml"/></navPoint>
-<navPoint id="358" playOrder="359"><navLabel><text>Ch 359: Ep. 67 - Forgotten People of the Scenario, IV</text></navLabel><content src="ch_359.xhtml"/></navPoint>
-<navPoint id="359" playOrder="360"><navLabel><text>Ch 360: Ep. 67 - Forgotten People of the Scenario, V</text></navLabel><content src="ch_360.xhtml"/></navPoint>
+<navPoint id="355" playOrder="356"><navLabel><text>Ch 356: Ep. 67 — Orang-orang Skenario yang Terlupakan, I</text></navLabel><content src="ch_356.xhtml"/></navPoint>
+<navPoint id="356" playOrder="357"><navLabel><text>Ch 357: Ep. 67 — Orang-orang Skenario yang Terlupakan, II</text></navLabel><content src="ch_357.xhtml"/></navPoint>
+<navPoint id="357" playOrder="358"><navLabel><text>Ch 358: Ep. 67 — Orang-orang Skenario yang Terlupakan, III</text></navLabel><content src="ch_358.xhtml"/></navPoint>
+<navPoint id="358" playOrder="359"><navLabel><text>Ch 359: Ep. 67 — Orang-orang Skenario yang Terlupakan, IV</text></navLabel><content src="ch_359.xhtml"/></navPoint>
+<navPoint id="359" playOrder="360"><navLabel><text>Ch 360: Ep. 67 — Orang-orang Skenario yang Terlupakan, V</text></navLabel><content src="ch_360.xhtml"/></navPoint>
 <navPoint id="360" playOrder="361"><navLabel><text>Ch 361: Ep. 68 - Inaudible Words, I</text></navLabel><content src="ch_361.xhtml"/></navPoint>
 <navPoint id="361" playOrder="362"><navLabel><text>Ch 362: Ep. 68 - Inaudible Words, II</text></navLabel><content src="ch_362.xhtml"/></navPoint>
 <navPoint id="362" playOrder="363"><navLabel><text>Ch 363: Ep. 68 - Inaudible Words, III</text></navLabel><content src="ch_363.xhtml"/></navPoint>
