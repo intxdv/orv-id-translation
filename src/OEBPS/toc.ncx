@@ -407,11 +407,11 @@
 <navPoint id="397" playOrder="398"><navLabel><text>Ch 398: Ep. 75 — Sebuah Hati Tertentu, V</text></navLabel><content src="ch_398.xhtml"/></navPoint>
 <navPoint id="398" playOrder="399"><navLabel><text>Ch 399: Ep. 76 — Kitab Wahyu, I</text></navLabel><content src="ch_399.xhtml"/></navPoint>
 <navPoint id="399" playOrder="400"><navLabel><text>Ch 400: Ep. 76 — Kitab Wahyu, II</text></navLabel><content src="ch_400.xhtml"/></navPoint>
-<navPoint id="400" playOrder="401"><navLabel><text>Ch 401: Ep. 76 - Book of Revelation, III</text></navLabel><content src="ch_401.xhtml"/></navPoint>
-<navPoint id="401" playOrder="402"><navLabel><text>Ch 402: Ep. 76 - Book of Revelation, IV</text></navLabel><content src="ch_402.xhtml"/></navPoint>
-<navPoint id="402" playOrder="403"><navLabel><text>Ch 403: Ep. 76 - Book of Revelation, V</text></navLabel><content src="ch_403.xhtml"/></navPoint>
-<navPoint id="403" playOrder="404"><navLabel><text>Ch 404: Ep. 77 - Final Dragon, I</text></navLabel><content src="ch_404.xhtml"/></navPoint>
-<navPoint id="404" playOrder="405"><navLabel><text>Ch 405: Ep. 77 - Final Dragon, II</text></navLabel><content src="ch_405.xhtml"/></navPoint>
+<navPoint id="400" playOrder="401"><navLabel><text>Ch 401: Ep. 76 — Kitab Wahyu, III</text></navLabel><content src="ch_401.xhtml"/></navPoint>
+<navPoint id="401" playOrder="402"><navLabel><text>Ch 402: Ep. 76 — Kitab Wahyu, IV</text></navLabel><content src="ch_402.xhtml"/></navPoint>
+<navPoint id="402" playOrder="403"><navLabel><text>Ch 403: Ep. 76 — Kitab Wahyu, V</text></navLabel><content src="ch_403.xhtml"/></navPoint>
+<navPoint id="403" playOrder="404"><navLabel><text>Ch 404: Ep. 77 — Naga Terakhir, I</text></navLabel><content src="ch_404.xhtml"/></navPoint>
+<navPoint id="404" playOrder="405"><navLabel><text>Ch 405: Ep. 77 — Naga Terakhir, II</text></navLabel><content src="ch_405.xhtml"/></navPoint>
 <navPoint id="405" playOrder="406"><navLabel><text>Ch 406: Ep. 77 - Final Dragon, III</text></navLabel><content src="ch_406.xhtml"/></navPoint>
 <navPoint id="406" playOrder="407"><navLabel><text>Ch 407: Ep. 77 - Final Dragon, IV</text></navLabel><content src="ch_407.xhtml"/></navPoint>
 <navPoint id="407" playOrder="408"><navLabel><text>Ch 408: Ep. 77 - Final Dragon, V</text></navLabel><content src="ch_408.xhtml"/></navPoint>
