@@ -507,11 +507,11 @@
 <navPoint id="497" playOrder="498"><navLabel><text>Ch 498: Ep. 95 – Pembukaan Langit (Gaecheon), II</text></navLabel><content src="ch_498.xhtml"/></navPoint>
 <navPoint id="498" playOrder="499"><navLabel><text>Ch 499: Ep. 95 – Pembukaan Langit (Gaecheon), III</text></navLabel><content src="ch_499.xhtml"/></navPoint>
 <navPoint id="499" playOrder="500"><navLabel><text>Ch 500: Ep. 95 – Pembukaan Langit (Gaecheon), IV</text></navLabel><content src="ch_500.xhtml"/></navPoint>
-<navPoint id="500" playOrder="501"><navLabel><text>Ch 501: Ep. 96 - Demon-like Judge of Fire, I</text></navLabel><content src="ch_501.xhtml"/></navPoint>
-<navPoint id="501" playOrder="502"><navLabel><text>Ch 502: Ep. 96 - Demon-like Judge of Fire, II</text></navLabel><content src="ch_502.xhtml"/></navPoint>
-<navPoint id="502" playOrder="503"><navLabel><text>Ch 503: Ep. 96 - Demon-like Judge of Fire, III</text></navLabel><content src="ch_503.xhtml"/></navPoint>
-<navPoint id="503" playOrder="504"><navLabel><text>Ch 504: Ep. 97 - The star that can't be seen, I</text></navLabel><content src="ch_504.xhtml"/></navPoint>
-<navPoint id="504" playOrder="505"><navLabel><text>Ch 505: Ep. 97 - The star that can't be seen, II</text></navLabel><content src="ch_505.xhtml"/></navPoint>
+<navPoint id="500" playOrder="501"><navLabel><text>Ch 501: Ep. 96 – Hakim Api Bagaikan Iblis, I</text></navLabel><content src="ch_501.xhtml"/></navPoint>
+<navPoint id="501" playOrder="502"><navLabel><text>Ch 502: Ep. 96 – Hakim Api Bagaikan Iblis, II</text></navLabel><content src="ch_502.xhtml"/></navPoint>
+<navPoint id="502" playOrder="503"><navLabel><text>Ch 503: Ep. 96 – Hakim Api Bagaikan Iblis, III</text></navLabel><content src="ch_503.xhtml"/></navPoint>
+<navPoint id="503" playOrder="504"><navLabel><text>Ch 504: Ep. 97 – Bintang yang Tak Terlihat, I</text></navLabel><content src="ch_504.xhtml"/></navPoint>
+<navPoint id="504" playOrder="505"><navLabel><text>Ch 505: Ep. 97 – Bintang yang Tak Terlihat, II</text></navLabel><content src="ch_505.xhtml"/></navPoint>
 <navPoint id="505" playOrder="506"><navLabel><text>Ch 506: Ep. 97 - The star that can't be seen, III</text></navLabel><content src="ch_506.xhtml"/></navPoint>
 <navPoint id="506" playOrder="507"><navLabel><text>Ch 507: Ep. 97 - The star that can't be seen, IV</text></navLabel><content src="ch_507.xhtml"/></navPoint>
 <navPoint id="507" playOrder="508"><navLabel><text>Ch 508: Ep. 98 - Have you protected all that you were supposed to protect, I</text></navLabel><content src="ch_508.xhtml"/></navPoint>
