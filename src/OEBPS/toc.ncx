@@ -432,11 +432,11 @@
 <navPoint id="422" playOrder="423"><navLabel><text>Ch 423: Ep. 80 — Sekutu Terbesar Kita, I</text></navLabel><content src="ch_423.xhtml"/></navPoint>
 <navPoint id="423" playOrder="424"><navLabel><text>Ch 424: Ep. 80 — Sekutu Terbesar Kita, II</text></navLabel><content src="ch_424.xhtml"/></navPoint>
 <navPoint id="424" playOrder="425"><navLabel><text>Ch 425: Ep. 80 — Sekutu Terbesar Kita, III</text></navLabel><content src="ch_425.xhtml"/></navPoint>
-<navPoint id="425" playOrder="426"><navLabel><text>Ch 426: Ep. 80 - Our greatest ally, IV</text></navLabel><content src="ch_426.xhtml"/></navPoint>
-<navPoint id="426" playOrder="427"><navLabel><text>Ch 427: Ep. 80 - Our greatest ally, V</text></navLabel><content src="ch_427.xhtml"/></navPoint>
-<navPoint id="427" playOrder="428"><navLabel><text>Ch 428: Ep. 81 - A dumpling's reminiscence, I</text></navLabel><content src="ch_428.xhtml"/></navPoint>
-<navPoint id="428" playOrder="429"><navLabel><text>Ch 429: Ep. 81 - A dumpling's reminiscence, II</text></navLabel><content src="ch_429.xhtml"/></navPoint>
-<navPoint id="429" playOrder="430"><navLabel><text>Ch 430: Ep. 81 - A dumpling's reminiscence, III</text></navLabel><content src="ch_430.xhtml"/></navPoint>
+<navPoint id="425" playOrder="426"><navLabel><text>Ch 426: Ep. 80 — Sekutu Terbesar Kita, IV</text></navLabel><content src="ch_426.xhtml"/></navPoint>
+<navPoint id="426" playOrder="427"><navLabel><text>Ch 427: Ep. 80 — Sekutu Terbesar Kita, V</text></navLabel><content src="ch_427.xhtml"/></navPoint>
+<navPoint id="427" playOrder="428"><navLabel><text>Ch 428: Ep. 81 — Kenangan Sebuah Pangsit, I</text></navLabel><content src="ch_428.xhtml"/></navPoint>
+<navPoint id="428" playOrder="429"><navLabel><text>Ch 429: Ep. 81 — Kenangan Sebuah Pangsit, II</text></navLabel><content src="ch_429.xhtml"/></navPoint>
+<navPoint id="429" playOrder="430"><navLabel><text>Ch 430: Ep. 81 — Kenangan Sebuah Pangsit, III</text></navLabel><content src="ch_430.xhtml"/></navPoint>
 <navPoint id="430" playOrder="431"><navLabel><text>Ch 431: Ep. 81 - A dumpling's reminiscence, IV</text></navLabel><content src="ch_431.xhtml"/></navPoint>
 <navPoint id="431" playOrder="432"><navLabel><text>Ch 432: Ep. 82 - Outer God, I</text></navLabel><content src="ch_432.xhtml"/></navPoint>
 <navPoint id="432" playOrder="433"><navLabel><text>Ch 433: Ep. 82 - Outer God, II</text></navLabel><content src="ch_433.xhtml"/></navPoint>
