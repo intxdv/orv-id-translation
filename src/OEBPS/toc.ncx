@@ -457,11 +457,11 @@
 <navPoint id="447" playOrder="448"><navLabel><text>Ch 448: Ep. 84 - 1864, IV</text></navLabel><content src="ch_448.xhtml"/></navPoint>
 <navPoint id="448" playOrder="449"><navLabel><text>Ch 449: Ep. 85 - Dinding Terakhir, I</text></navLabel><content src="ch_449.xhtml"/></navPoint>
 <navPoint id="449" playOrder="450"><navLabel><text>Ch 450: Ep. 85 - Dinding Terakhir, II</text></navLabel><content src="ch_450.xhtml"/></navPoint>
-<navPoint id="450" playOrder="451"><navLabel><text>Ch 451: Ep. 85 - The Final Wall, III</text></navLabel><content src="ch_451.xhtml"/></navPoint>
-<navPoint id="451" playOrder="452"><navLabel><text>Ch 452: Ep. 85 - The Final Wall, IV</text></navLabel><content src="ch_452.xhtml"/></navPoint>
-<navPoint id="452" playOrder="453"><navLabel><text>Ch 453: Ep. 85 - The Final Wall, V</text></navLabel><content src="ch_453.xhtml"/></navPoint>
-<navPoint id="453" playOrder="454"><navLabel><text>Ch 454: Ep. 86 - The square circle, I</text></navLabel><content src="ch_454.xhtml"/></navPoint>
-<navPoint id="454" playOrder="455"><navLabel><text>Ch 455: Ep. 86 - The square circle, II</text></navLabel><content src="ch_455.xhtml"/></navPoint>
+<navPoint id="450" playOrder="451"><navLabel><text>Ch 451: Ep. 85 - Dinding Terakhir, III</text></navLabel><content src="ch_451.xhtml"/></navPoint>
+<navPoint id="451" playOrder="452"><navLabel><text>Ch 452: Ep. 85 - Dinding Terakhir, IV</text></navLabel><content src="ch_452.xhtml"/></navPoint>
+<navPoint id="452" playOrder="453"><navLabel><text>Ch 453: Ep. 85 - Dinding Terakhir, V</text></navLabel><content src="ch_453.xhtml"/></navPoint>
+<navPoint id="453" playOrder="454"><navLabel><text>Ch 454: Ep. 86 - Lingkaran Persegi, I</text></navLabel><content src="ch_454.xhtml"/></navPoint>
+<navPoint id="454" playOrder="455"><navLabel><text>Ch 455: Ep. 86 - Lingkaran Persegi, II</text></navLabel><content src="ch_455.xhtml"/></navPoint>
 <navPoint id="455" playOrder="456"><navLabel><text>Ch 456: Ep. 86 - The square circle, III</text></navLabel><content src="ch_456.xhtml"/></navPoint>
 <navPoint id="456" playOrder="457"><navLabel><text>Ch 457: Ep. 86 - The square circle, IV</text></navLabel><content src="ch_457.xhtml"/></navPoint>
 <navPoint id="457" playOrder="458"><navLabel><text>Ch 458: Ep. 86 - The square circle, V</text></navLabel><content src="ch_458.xhtml"/></navPoint>
