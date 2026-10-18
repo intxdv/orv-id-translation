@@ -487,11 +487,11 @@
 <navPoint id="477" playOrder="478"><navLabel><text>Ch 478: Ep. 91 – Satu Kisah Tunggal, II</text></navLabel><content src="ch_478.xhtml"/></navPoint>
 <navPoint id="478" playOrder="479"><navLabel><text>Ch 479: Ep. 91 – Satu Kisah Tunggal, III</text></navLabel><content src="ch_479.xhtml"/></navPoint>
 <navPoint id="479" playOrder="480"><navLabel><text>Ch 480: Ep. 91 – Satu Kisah Tunggal, IV</text></navLabel><content src="ch_480.xhtml"/></navPoint>
-<navPoint id="480" playOrder="481"><navLabel><text>Ch 481: Ep. 91 - One Single Story, V</text></navLabel><content src="ch_481.xhtml"/></navPoint>
-<navPoint id="481" playOrder="482"><navLabel><text>Ch 482: Ep. 92 - Final Scenario, I</text></navLabel><content src="ch_482.xhtml"/></navPoint>
-<navPoint id="482" playOrder="483"><navLabel><text>Ch 483: Ep. 92 - Final Scenario, II</text></navLabel><content src="ch_483.xhtml"/></navPoint>
-<navPoint id="483" playOrder="484"><navLabel><text>Ch 484: Ep. 92 - Final Scenario, III</text></navLabel><content src="ch_484.xhtml"/></navPoint>
-<navPoint id="484" playOrder="485"><navLabel><text>Ch 485: Ep. 92 - Final Scenario, IV</text></navLabel><content src="ch_485.xhtml"/></navPoint>
+<navPoint id="480" playOrder="481"><navLabel><text>Ch 481: Ep. 91 – Satu Kisah Tunggal, V</text></navLabel><content src="ch_481.xhtml"/></navPoint>
+<navPoint id="481" playOrder="482"><navLabel><text>Ch 482: Ep. 92 – Skenario Akhir, I</text></navLabel><content src="ch_482.xhtml"/></navPoint>
+<navPoint id="482" playOrder="483"><navLabel><text>Ch 483: Ep. 92 – Skenario Akhir, II</text></navLabel><content src="ch_483.xhtml"/></navPoint>
+<navPoint id="483" playOrder="484"><navLabel><text>Ch 484: Ep. 92 – Skenario Akhir, III</text></navLabel><content src="ch_484.xhtml"/></navPoint>
+<navPoint id="484" playOrder="485"><navLabel><text>Ch 485: Ep. 92 – Skenario Akhir, IV</text></navLabel><content src="ch_485.xhtml"/></navPoint>
 <navPoint id="485" playOrder="486"><navLabel><text>Ch 486: Ep. 92 - Final Scenario, V</text></navLabel><content src="ch_486.xhtml"/></navPoint>
 <navPoint id="486" playOrder="487"><navLabel><text>Ch 487: Ep. 93 - Omniscient Author's Viewpoint, I</text></navLabel><content src="ch_487.xhtml"/></navPoint>
 <navPoint id="487" playOrder="488"><navLabel><text>Ch 488: Ep. 93 - Omniscient Author's Viewpoint, II</text></navLabel><content src="ch_488.xhtml"/></navPoint>
