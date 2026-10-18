@@ -412,11 +412,11 @@
 <navPoint id="402" playOrder="403"><navLabel><text>Ch 403: Ep. 76 — Kitab Wahyu, V</text></navLabel><content src="ch_403.xhtml"/></navPoint>
 <navPoint id="403" playOrder="404"><navLabel><text>Ch 404: Ep. 77 — Naga Terakhir, I</text></navLabel><content src="ch_404.xhtml"/></navPoint>
 <navPoint id="404" playOrder="405"><navLabel><text>Ch 405: Ep. 77 — Naga Terakhir, II</text></navLabel><content src="ch_405.xhtml"/></navPoint>
-<navPoint id="405" playOrder="406"><navLabel><text>Ch 406: Ep. 77 - Final Dragon, III</text></navLabel><content src="ch_406.xhtml"/></navPoint>
-<navPoint id="406" playOrder="407"><navLabel><text>Ch 407: Ep. 77 - Final Dragon, IV</text></navLabel><content src="ch_407.xhtml"/></navPoint>
-<navPoint id="407" playOrder="408"><navLabel><text>Ch 408: Ep. 77 - Final Dragon, V</text></navLabel><content src="ch_408.xhtml"/></navPoint>
-<navPoint id="408" playOrder="409"><navLabel><text>Ch 409: Ep. 78 - Twist/轉, I</text></navLabel><content src="ch_409.xhtml"/></navPoint>
-<navPoint id="409" playOrder="410"><navLabel><text>Ch 410: Ep. 78 - Twist/轉, II</text></navLabel><content src="ch_410.xhtml"/></navPoint>
+<navPoint id="405" playOrder="406"><navLabel><text>Ch 406: Ep. 77 — Naga Terakhir, III</text></navLabel><content src="ch_406.xhtml"/></navPoint>
+<navPoint id="406" playOrder="407"><navLabel><text>Ch 407: Ep. 77 — Naga Terakhir, IV</text></navLabel><content src="ch_407.xhtml"/></navPoint>
+<navPoint id="407" playOrder="408"><navLabel><text>Ch 408: Ep. 77 — Naga Terakhir, V</text></navLabel><content src="ch_408.xhtml"/></navPoint>
+<navPoint id="408" playOrder="409"><navLabel><text>Ch 409: Ep. 78 — Twist, I</text></navLabel><content src="ch_409.xhtml"/></navPoint>
+<navPoint id="409" playOrder="410"><navLabel><text>Ch 410: Ep. 78 — Twist, II</text></navLabel><content src="ch_410.xhtml"/></navPoint>
 <navPoint id="410" playOrder="411"><navLabel><text>Ch 411: Ep. 78 - Twist/轉, III</text></navLabel><content src="ch_411.xhtml"/></navPoint>
 <navPoint id="411" playOrder="412"><navLabel><text>Ch 412: Ep. 78 - Twist/轉, IV</text></navLabel><content src="ch_412.xhtml"/></navPoint>
 <navPoint id="412" playOrder="413"><navLabel><text>Ch 413: Ep. 78 - Twist/轉, V</text></navLabel><content src="ch_413.xhtml"/></navPoint>
