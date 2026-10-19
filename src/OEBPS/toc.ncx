@@ -552,10 +552,10 @@
 <navPoint id="542" playOrder="543"><navLabel><text>Ch 543: Epilog 4 – Sudut Pandang Pembaca Serba Tahu, VIII</text></navLabel><content src="ch_543.xhtml"/></navPoint>
 <navPoint id="543" playOrder="544"><navLabel><text>Ch 544: Epilog 4 – Sudut Pandang Pembaca Serba Tahu, IX</text></navLabel><content src="ch_544.xhtml"/></navPoint>
 <navPoint id="544" playOrder="545"><navLabel><text>Ch 545: Epilog 4 – Sudut Pandang Pembaca Serba Tahu, X</text></navLabel><content src="ch_545.xhtml"/></navPoint>
-<navPoint id="545" playOrder="546"><navLabel><text>Ch 546: Epilogue 5 - The Eternity and Epilogue, I</text></navLabel><content src="ch_546.xhtml"/></navPoint>
-<navPoint id="546" playOrder="547"><navLabel><text>Ch 547: Epilogue 5 - The Eternity and Epilogue, II</text></navLabel><content src="ch_547.xhtml"/></navPoint>
-<navPoint id="547" playOrder="548"><navLabel><text>Ch 548: Epilogue 5 - The Eternity and Epilogue, III</text></navLabel><content src="ch_548.xhtml"/></navPoint>
-<navPoint id="548" playOrder="549"><navLabel><text>Ch 549: Epilogue 5 - The Eternity and Epilogue, IV</text></navLabel><content src="ch_549.xhtml"/></navPoint>
-<navPoint id="549" playOrder="550"><navLabel><text>Ch 550: Epilogue 5 - The Eternity and Epilogue, V</text></navLabel><content src="ch_550.xhtml"/></navPoint>
-<navPoint id="550" playOrder="551"><navLabel><text>Ch 551: Epilogue 5 - The Eternity and Epilogue (Complete)</text></navLabel><content src="ch_551.xhtml"/></navPoint>
+<navPoint id="545" playOrder="546"><navLabel><text>Ch 546: Epilog 5 – Keabadian dan Epilog, I</text></navLabel><content src="ch_546.xhtml"/></navPoint>
+<navPoint id="546" playOrder="547"><navLabel><text>Ch 547: Epilog 5 – Keabadian dan Epilog, II</text></navLabel><content src="ch_547.xhtml"/></navPoint>
+<navPoint id="547" playOrder="548"><navLabel><text>Ch 548: Epilog 5 – Keabadian dan Epilog, III</text></navLabel><content src="ch_548.xhtml"/></navPoint>
+<navPoint id="548" playOrder="549"><navLabel><text>Ch 549: Epilog 5 – Keabadian dan Epilog, IV</text></navLabel><content src="ch_549.xhtml"/></navPoint>
+<navPoint id="549" playOrder="550"><navLabel><text>Ch 550: Epilog 5 – Keabadian dan Epilog, V</text></navLabel><content src="ch_550.xhtml"/></navPoint>
+<navPoint id="550" playOrder="551"><navLabel><text>Ch 551: Epilog 5 – Keabadian dan Epilog, VI (Tamat)</text></navLabel><content src="ch_551.xhtml"/></navPoint>
 </navMap></ncx>
