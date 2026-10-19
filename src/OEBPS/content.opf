@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Omniscient Reader's Viewpoint [Main Story]</dc:title>
-    <dc:creator opf:role="aut">singNshong</dc:creator> 
-    <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
-    <dc:language>en</dc:language>
-    <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>03-28-2026</dc:date>
-    <dc:description>Only I know the end of this world. One day our MC finds himself stuck in the world of his favorite webnovel. What does he do to survive? It is a world struck by catastrophe and danger all around. His edge? He knows the plot of the story to end. Because he was the sole reader that stuck with it. Read his story to see how he survives!</dc:description>
+    <dc:title>Omniscient Reader's Viewpoint [Bahasa Indonesia]</dc:title>
+    <dc:creator opf:role="aut">singNshong (싱숑)</dc:creator> 
+    <dc:contributor opf:role="trl">slvgnt, Community Translators</dc:contributor> 
+    <dc:language>id</dc:language>
+    <dc:publisher>ORV Project Indonesia</dc:publisher> 
+    <dc:date>2026-10-19</dc:date>
+    <dc:description>Hanya aku yang tahu akhir dari dunia ini. Suatu hari, tokoh utama kita menemukan dirinya terjebak di dunia webnovel favoritnya. Apa yang dia lakukan untuk bertahan hidup? Ini adalah dunia yang dilanda bencana dan bahaya di mana-mana. Keunggulannya? Dia tahu alur cerita sampai akhir. Karena dia adalah satu-satunya pembaca yang bertahan hingga selesai. Baca kisahnya untuk melihat bagaimana dia bertahan hidup!</dc:description>
     <meta name="cover" content="cover-img"/>
-    <dc:subject>Korean Novel</dc:subject>
-    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Novel Korea</dc:subject>
+    <dc:subject>Fantasi</dc:subject>
     <dc:subject>Webnovel</dc:subject>
-    <dc:subject>Apocalypse</dc:subject>
-    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Main Story]</meta> 
+    <dc:subject>Apokalips</dc:subject>
+    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Bahasa Indonesia]</meta> 
     <meta property="file-as" id="author-sort">singNshong</meta>
   </metadata>
   <manifest>
