@@ -1,4 +1,4 @@
-name: Build & Publish EPUB Pre-Release
+name: Build & Publish EPUB Release
 
 on:
   push:
@@ -30,45 +30,23 @@ jobs:
         run: |
           ls -lh output/orv_id_translation.epub
 
-      - name: Create GitHub Release
+      - name: Resolve Release Notes
+        id: notes
+        run: |
+          NOTE_FILE="release-notes/${{ github.ref_name }}.md"
+          if [ -f "$NOTE_FILE" ]; then
+            echo "Menggunakan catatan rilis dari $NOTE_FILE"
+            echo "notes_path=$NOTE_FILE" >> $GITHUB_OUTPUT
+          else
+            echo "Catatan rilis khusus tidak ditemukan, menggunakan auto-generated release notes"
+            echo "notes_path=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create or Update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           name: Omniscient Reader's Viewpoint [Bahasa Indonesia] - ${{ github.ref_name }}
           files: output/orv_id_translation.epub
-          prerelease: true
+          prerelease: ${{ contains(github.ref_name, '-rc') || contains(github.ref_name, '-beta') || contains(github.ref_name, '-alpha') }}
           generate_release_notes: true
-          body: |
-            ## 🎉 Omniscient Reader's Viewpoint (ORV) — Alih Bahasa Indonesia
-            ### Pre-Release: Candidate 1 (${{ github.ref_name }})
-
-            Selamat datang di versi **Pre-Release EPUB** novel *Omniscient Reader's Viewpoint (ORV)* alih bahasa Indonesia lengkap dari **Chapter 1 hingga Chapter 551** (Prolog, Volume 1 – 10, dan Epilog 1 – 5).
-
-            ---
-
-            ### 🌟 Sorotan Pembaruan & Fitur Utama (Standarisasi 6 Pilar Mutu)
-            1. **Konvensi Hibrida Puitis**:
-               - Alih bahasa megah untuk konsep mitologi & sastra (*Konstelasi, Kisah, Kisah Raksasa, Kemampuan Khusus, Skenario, Inkarnasi, Dewa Luar, Raja Iblis Keselamatan, Dinding Keempat*).
-               - Mempertahankan istilah semesta murni dalam cetak miring (*Star Stream*, *Secretive Plotter*, *Bookmark*).
-               - Penyeragaman honorifik Korea otentik (*-ssi, -hyung, -oppa, -ah, -ya*).
-            2. **EPUB 3 Interactive Pop-up Footnote**:
-               - Kompatibel penuh dengan fitur pop-up footnote pembaca modern (misal: Moon+ Reader Pro, Apple Books, Calibre, Thorium).
-               - Dilengkapi *Intro Note* [TL] untuk istilah baru serta catatan ilustrasi resmi dan penggemar (*Catatan [Original]*).
-            3. **Navigasi & Tipografi Penuh**:
-               - Seluruh 551 judul chapter pada TOC diselaraskan ke Bahasa Indonesia.
-               - Colophon resmi penutup babak semesta pada bagian akhir (*afterword*).
-            4. **Kepatuhan Format EPUB 3 OCF**:
-               - Validasi standar packaging Open Container Format (OCF) dengan berkas mimetype nir-kompresi.
-
-            ---
-
-            ### 📥 Unduh Berkas
-            Silakan unduh berkas **`orv_id_translation.epub`** di bagian **Assets** di bawah ini.
-
-            ---
-
-            ### 💬 Umpan Balik & Pelaporan Typo
-            Jika Anda menemukan kesalahan ketik (*typo*), format, atau saran penerjemahan:
-            - Laporkan via [GitHub Issues](https://github.com/intxdv/orv-id-translation/issues)
-            - Diskusi per bab via [GitHub Discussions](https://github.com/intxdv/orv-id-translation/discussions)
-
-            *Selamat membaca dan menjelajahi kembali semesta Star Stream bersama Kim Dokja Company!*
+          body_path: ${{ steps.notes.outputs.notes_path }}
