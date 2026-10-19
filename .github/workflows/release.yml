@@ -1,0 +1,58 @@
+name: Build & Publish EPUB Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      release_notes:
+        description: 'Custom Release Notes markdown'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build EPUB 3 OCF Package
+        run: |
+          mkdir -p output
+          python tools/repack_epub.py src output/orv_id_translation.epub
+
+      - name: Verify EPUB Output
+        run: |
+          ls -lh output/orv_id_translation.epub
+
+      - name: Resolve Release Notes File
+        id: notes
+        run: |
+          NOTE_FILE="release-notes/${{ github.ref_name }}.md"
+          if [ -f "$NOTE_FILE" ]; then
+            echo "Menggunakan catatan rilis dari $NOTE_FILE"
+            echo "notes_path=$NOTE_FILE" >> $GITHUB_OUTPUT
+          else
+            echo "Catatan rilis khusus tidak ditemukan, menggunakan auto-generated release notes"
+            echo "notes_path=" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create or Update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Omniscient Reader's Viewpoint [Bahasa Indonesia] - ${{ github.ref_name }}
+          files: output/orv_id_translation.epub
+          prerelease: ${{ contains(github.ref_name, '-rc') || contains(github.ref_name, '-beta') || contains(github.ref_name, '-alpha') }}
+          generate_release_notes: true
+          body: ${{ inputs.release_notes }}
+          body_path: ${{ steps.notes.outputs.notes_path }}
