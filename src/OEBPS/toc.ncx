@@ -532,12 +532,12 @@
 <navPoint id="522" playOrder="523"><navLabel><text>Ch 523: Epilog 1 – Dunia Nol, VII</text></navLabel><content src="ch_523.xhtml"/></navPoint>
 <navPoint id="523" playOrder="524"><navLabel><text>Ch 524: Epilog 1 – Dunia Nol, VIII</text></navLabel><content src="ch_524.xhtml"/></navPoint>
 <navPoint id="524" playOrder="525"><navLabel><text>Ch 525: Epilog 1 – Dunia Nol, IX</text></navLabel><content src="ch_525.xhtml"/></navPoint>
-<navPoint id="525" playOrder="526"><navLabel><text>Ch 526: Epilogue 2 - Not found anywhere, I</text></navLabel><content src="ch_526.xhtml"/></navPoint>
-<navPoint id="526" playOrder="527"><navLabel><text>Ch 527: Epilogue 2 - Not found anywhere, II</text></navLabel><content src="ch_527.xhtml"/></navPoint>
-<navPoint id="527" playOrder="528"><navLabel><text>Ch 528: Epilogue 2 - Not found anywhere, III</text></navLabel><content src="ch_528.xhtml"/></navPoint>
-<navPoint id="528" playOrder="529"><navLabel><text>Ch 529: Epilogue 2 - Not found anywhere, IV</text></navLabel><content src="ch_529.xhtml"/></navPoint>
-<navPoint id="529" playOrder="530"><navLabel><text>Ch 530: Epilogue 2 - Not found anywhere, V</text></navLabel><content src="ch_530.xhtml"/></navPoint>
-<navPoint id="530" playOrder="531"><navLabel><text>Ch 531: Epilogue 2 - Not found anywhere, VI</text></navLabel><content src="ch_531.xhtml"/></navPoint>
+<navPoint id="525" playOrder="526"><navLabel><text>Ch 526: Epilog 2 – Tak Ditemukan di Mana Pun, I</text></navLabel><content src="ch_526.xhtml"/></navPoint>
+<navPoint id="526" playOrder="527"><navLabel><text>Ch 527: Epilog 2 – Tak Ditemukan di Mana Pun, II</text></navLabel><content src="ch_527.xhtml"/></navPoint>
+<navPoint id="527" playOrder="528"><navLabel><text>Ch 528: Epilog 2 – Tak Ditemukan di Mana Pun, III</text></navLabel><content src="ch_528.xhtml"/></navPoint>
+<navPoint id="528" playOrder="529"><navLabel><text>Ch 529: Epilog 2 – Tak Ditemukan di Mana Pun, IV</text></navLabel><content src="ch_529.xhtml"/></navPoint>
+<navPoint id="529" playOrder="530"><navLabel><text>Ch 530: Epilog 2 – Tak Ditemukan di Mana Pun, V</text></navLabel><content src="ch_530.xhtml"/></navPoint>
+<navPoint id="530" playOrder="531"><navLabel><text>Ch 531: Epilog 2 – Tak Ditemukan di Mana Pun, VI</text></navLabel><content src="ch_531.xhtml"/></navPoint>
 <navPoint id="531" playOrder="532"><navLabel><text>Ch 532: Epilogue 3 - Author's words, I</text></navLabel><content src="ch_532.xhtml"/></navPoint>
 <navPoint id="532" playOrder="533"><navLabel><text>Ch 533: Epilogue 3 - Author's words, II</text></navLabel><content src="ch_533.xhtml"/></navPoint>
 <navPoint id="533" playOrder="534"><navLabel><text>Ch 534: Epilogue 3 - Author's words, III</text></navLabel><content src="ch_534.xhtml"/></navPoint>
