@@ -512,17 +512,17 @@
 <navPoint id="502" playOrder="503"><navLabel><text>Ch 503: Ep. 96 – Hakim Api Bagaikan Iblis, III</text></navLabel><content src="ch_503.xhtml"/></navPoint>
 <navPoint id="503" playOrder="504"><navLabel><text>Ch 504: Ep. 97 – Bintang yang Tak Terlihat, I</text></navLabel><content src="ch_504.xhtml"/></navPoint>
 <navPoint id="504" playOrder="505"><navLabel><text>Ch 505: Ep. 97 – Bintang yang Tak Terlihat, II</text></navLabel><content src="ch_505.xhtml"/></navPoint>
-<navPoint id="505" playOrder="506"><navLabel><text>Ch 506: Ep. 97 - The star that can't be seen, III</text></navLabel><content src="ch_506.xhtml"/></navPoint>
-<navPoint id="506" playOrder="507"><navLabel><text>Ch 507: Ep. 97 - The star that can't be seen, IV</text></navLabel><content src="ch_507.xhtml"/></navPoint>
-<navPoint id="507" playOrder="508"><navLabel><text>Ch 508: Ep. 98 - Have you protected all that you were supposed to protect, I</text></navLabel><content src="ch_508.xhtml"/></navPoint>
-<navPoint id="508" playOrder="509"><navLabel><text>Ch 509: Ep. 98 - Have you protected all that you were supposed to protect, II</text></navLabel><content src="ch_509.xhtml"/></navPoint>
-<navPoint id="509" playOrder="510"><navLabel><text>Ch 510: Ep. 98 - Have you protected all that you were supposed to protect, III</text></navLabel><content src="ch_510.xhtml"/></navPoint>
-<navPoint id="510" playOrder="511"><navLabel><text>Ch 511: Ep. 98 - Have you protected all that you were supposed to protect, IV</text></navLabel><content src="ch_511.xhtml"/></navPoint>
-<navPoint id="511" playOrder="512"><navLabel><text>Ch 512: Ep. 99 - The Oldest Dream, I</text></navLabel><content src="ch_512.xhtml"/></navPoint>
-<navPoint id="512" playOrder="513"><navLabel><text>Ch 513: Ep. 99 - The Oldest Dream, II</text></navLabel><content src="ch_513.xhtml"/></navPoint>
-<navPoint id="513" playOrder="514"><navLabel><text>Ch 514: Ep. 99 - The Oldest Dream, III</text></navLabel><content src="ch_514.xhtml"/></navPoint>
-<navPoint id="514" playOrder="515"><navLabel><text>Ch 515: Ep. 99 - The Oldest Dream, IV</text></navLabel><content src="ch_515.xhtml"/></navPoint>
-<navPoint id="515" playOrder="516"><navLabel><text>Ch 516: Ep. 99 - The Oldest Dream, V</text></navLabel><content src="ch_516.xhtml"/></navPoint>
+<navPoint id="505" playOrder="506"><navLabel><text>Ch 506: Ep. 97 – Bintang yang Tak Terlihat, III</text></navLabel><content src="ch_506.xhtml"/></navPoint>
+<navPoint id="506" playOrder="507"><navLabel><text>Ch 507: Ep. 97 – Bintang yang Tak Terlihat, IV</text></navLabel><content src="ch_507.xhtml"/></navPoint>
+<navPoint id="507" playOrder="508"><navLabel><text>Ch 508: Ep. 98 – Sudahkah Kau Melindungi Semua yang Seharusnya Kau Lindungi, I</text></navLabel><content src="ch_508.xhtml"/></navPoint>
+<navPoint id="508" playOrder="509"><navLabel><text>Ch 509: Ep. 98 – Sudahkah Kau Melindungi Semua yang Seharusnya Kau Lindungi, II</text></navLabel><content src="ch_509.xhtml"/></navPoint>
+<navPoint id="509" playOrder="510"><navLabel><text>Ch 510: Ep. 98 – Sudahkah Kau Melindungi Semua yang Seharusnya Kau Lindungi, III</text></navLabel><content src="ch_510.xhtml"/></navPoint>
+<navPoint id="510" playOrder="511"><navLabel><text>Ch 511: Ep. 98 – Sudahkah Kau Melindungi Semua yang Seharusnya Kau Lindungi, IV</text></navLabel><content src="ch_511.xhtml"/></navPoint>
+<navPoint id="511" playOrder="512"><navLabel><text>Ch 512: Ep. 99 – Mimpi Paling Kuno, I</text></navLabel><content src="ch_512.xhtml"/></navPoint>
+<navPoint id="512" playOrder="513"><navLabel><text>Ch 513: Ep. 99 – Mimpi Paling Kuno, II</text></navLabel><content src="ch_513.xhtml"/></navPoint>
+<navPoint id="513" playOrder="514"><navLabel><text>Ch 514: Ep. 99 – Mimpi Paling Kuno, III</text></navLabel><content src="ch_514.xhtml"/></navPoint>
+<navPoint id="514" playOrder="515"><navLabel><text>Ch 515: Ep. 99 – Mimpi Paling Kuno, IV</text></navLabel><content src="ch_515.xhtml"/></navPoint>
+<navPoint id="515" playOrder="516"><navLabel><text>Ch 516: Ep. 99 – Mimpi Paling Kuno, V</text></navLabel><content src="ch_516.xhtml"/></navPoint>
 <navPoint id="516" playOrder="517"><navLabel><text>Ch 517: Epilogue 1 - The World of Zero, I</text></navLabel><content src="ch_517.xhtml"/></navPoint>
 <navPoint id="517" playOrder="518"><navLabel><text>Ch 518: Epilogue 1 - The World of Zero, II</text></navLabel><content src="ch_518.xhtml"/></navPoint>
 <navPoint id="518" playOrder="519"><navLabel><text>Ch 519: Epilogue 1 - The World of Zero, III</text></navLabel><content src="ch_519.xhtml"/></navPoint>
