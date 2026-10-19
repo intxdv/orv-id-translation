@@ -523,15 +523,15 @@
 <navPoint id="513" playOrder="514"><navLabel><text>Ch 514: Ep. 99 – Mimpi Paling Kuno, III</text></navLabel><content src="ch_514.xhtml"/></navPoint>
 <navPoint id="514" playOrder="515"><navLabel><text>Ch 515: Ep. 99 – Mimpi Paling Kuno, IV</text></navLabel><content src="ch_515.xhtml"/></navPoint>
 <navPoint id="515" playOrder="516"><navLabel><text>Ch 516: Ep. 99 – Mimpi Paling Kuno, V</text></navLabel><content src="ch_516.xhtml"/></navPoint>
-<navPoint id="516" playOrder="517"><navLabel><text>Ch 517: Epilogue 1 - The World of Zero, I</text></navLabel><content src="ch_517.xhtml"/></navPoint>
-<navPoint id="517" playOrder="518"><navLabel><text>Ch 518: Epilogue 1 - The World of Zero, II</text></navLabel><content src="ch_518.xhtml"/></navPoint>
-<navPoint id="518" playOrder="519"><navLabel><text>Ch 519: Epilogue 1 - The World of Zero, III</text></navLabel><content src="ch_519.xhtml"/></navPoint>
-<navPoint id="519" playOrder="520"><navLabel><text>Ch 520: Epilogue 1 - The World of Zero, IV</text></navLabel><content src="ch_520.xhtml"/></navPoint>
-<navPoint id="520" playOrder="521"><navLabel><text>Ch 521: Epilogue 1 - The World of Zero, V</text></navLabel><content src="ch_521.xhtml"/></navPoint>
-<navPoint id="521" playOrder="522"><navLabel><text>Ch 522: Epilogue 1 - The World of Zero, VI</text></navLabel><content src="ch_522.xhtml"/></navPoint>
-<navPoint id="522" playOrder="523"><navLabel><text>Ch 523: Epilogue 1 - The World of Zero, VII</text></navLabel><content src="ch_523.xhtml"/></navPoint>
-<navPoint id="523" playOrder="524"><navLabel><text>Ch 524: Epilogue 1 - The World of Zero, VIII</text></navLabel><content src="ch_524.xhtml"/></navPoint>
-<navPoint id="524" playOrder="525"><navLabel><text>Ch 525: Epilogue 1 - The World of Zero, IX</text></navLabel><content src="ch_525.xhtml"/></navPoint>
+<navPoint id="516" playOrder="517"><navLabel><text>Ch 517: Epilog 1 – Dunia Nol, I</text></navLabel><content src="ch_517.xhtml"/></navPoint>
+<navPoint id="517" playOrder="518"><navLabel><text>Ch 518: Epilog 1 – Dunia Nol, II</text></navLabel><content src="ch_518.xhtml"/></navPoint>
+<navPoint id="518" playOrder="519"><navLabel><text>Ch 519: Epilog 1 – Dunia Nol, III</text></navLabel><content src="ch_519.xhtml"/></navPoint>
+<navPoint id="519" playOrder="520"><navLabel><text>Ch 520: Epilog 1 – Dunia Nol, IV</text></navLabel><content src="ch_520.xhtml"/></navPoint>
+<navPoint id="520" playOrder="521"><navLabel><text>Ch 521: Epilog 1 – Dunia Nol, V</text></navLabel><content src="ch_521.xhtml"/></navPoint>
+<navPoint id="521" playOrder="522"><navLabel><text>Ch 522: Epilog 1 – Dunia Nol, VI</text></navLabel><content src="ch_522.xhtml"/></navPoint>
+<navPoint id="522" playOrder="523"><navLabel><text>Ch 523: Epilog 1 – Dunia Nol, VII</text></navLabel><content src="ch_523.xhtml"/></navPoint>
+<navPoint id="523" playOrder="524"><navLabel><text>Ch 524: Epilog 1 – Dunia Nol, VIII</text></navLabel><content src="ch_524.xhtml"/></navPoint>
+<navPoint id="524" playOrder="525"><navLabel><text>Ch 525: Epilog 1 – Dunia Nol, IX</text></navLabel><content src="ch_525.xhtml"/></navPoint>
 <navPoint id="525" playOrder="526"><navLabel><text>Ch 526: Epilogue 2 - Not found anywhere, I</text></navLabel><content src="ch_526.xhtml"/></navPoint>
 <navPoint id="526" playOrder="527"><navLabel><text>Ch 527: Epilogue 2 - Not found anywhere, II</text></navLabel><content src="ch_527.xhtml"/></navPoint>
 <navPoint id="527" playOrder="528"><navLabel><text>Ch 528: Epilogue 2 - Not found anywhere, III</text></navLabel><content src="ch_528.xhtml"/></navPoint>
