@@ -35,6 +35,18 @@ jobs:
         run: |
           ls -lh output/orv_id_translation.epub
 
+      - name: Resolve Release Notes File
+        id: notes
+        run: |
+          NOTE_FILE="release-notes/${{ github.ref_name }}.md"
+          if [ -f "$NOTE_FILE" ]; then
+            echo "Menggunakan catatan rilis dari $NOTE_FILE"
+            echo "notes_path=$NOTE_FILE" >> $GITHUB_OUTPUT
+          else
+            echo "Catatan rilis khusus tidak ditemukan, menggunakan auto-generated release notes"
+            echo "notes_path=" >> $GITHUB_OUTPUT
+          fi
+
       - name: Create or Update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -43,3 +55,4 @@ jobs:
           prerelease: ${{ contains(github.ref_name, '-rc') || contains(github.ref_name, '-beta') || contains(github.ref_name, '-alpha') }}
           generate_release_notes: true
           body: ${{ inputs.release_notes }}
+          body_path: ${{ steps.notes.outputs.notes_path }}
