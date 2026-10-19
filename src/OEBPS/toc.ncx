@@ -538,10 +538,10 @@
 <navPoint id="528" playOrder="529"><navLabel><text>Ch 529: Epilog 2 – Tak Ditemukan di Mana Pun, IV</text></navLabel><content src="ch_529.xhtml"/></navPoint>
 <navPoint id="529" playOrder="530"><navLabel><text>Ch 530: Epilog 2 – Tak Ditemukan di Mana Pun, V</text></navLabel><content src="ch_530.xhtml"/></navPoint>
 <navPoint id="530" playOrder="531"><navLabel><text>Ch 531: Epilog 2 – Tak Ditemukan di Mana Pun, VI</text></navLabel><content src="ch_531.xhtml"/></navPoint>
-<navPoint id="531" playOrder="532"><navLabel><text>Ch 532: Epilogue 3 - Author's words, I</text></navLabel><content src="ch_532.xhtml"/></navPoint>
-<navPoint id="532" playOrder="533"><navLabel><text>Ch 533: Epilogue 3 - Author's words, II</text></navLabel><content src="ch_533.xhtml"/></navPoint>
-<navPoint id="533" playOrder="534"><navLabel><text>Ch 534: Epilogue 3 - Author's words, III</text></navLabel><content src="ch_534.xhtml"/></navPoint>
-<navPoint id="534" playOrder="535"><navLabel><text>Ch 535: Epilogue 3 - Author's words, IV</text></navLabel><content src="ch_535.xhtml"/></navPoint>
+<navPoint id="531" playOrder="532"><navLabel><text>Ch 532: Epilog 3 – Sepatah Kata Penulis, I</text></navLabel><content src="ch_532.xhtml"/></navPoint>
+<navPoint id="532" playOrder="533"><navLabel><text>Ch 533: Epilog 3 – Sepatah Kata Penulis, II</text></navLabel><content src="ch_533.xhtml"/></navPoint>
+<navPoint id="533" playOrder="534"><navLabel><text>Ch 534: Epilog 3 – Sepatah Kata Penulis, III</text></navLabel><content src="ch_534.xhtml"/></navPoint>
+<navPoint id="534" playOrder="535"><navLabel><text>Ch 535: Epilog 3 – Sepatah Kata Penulis, IV</text></navLabel><content src="ch_535.xhtml"/></navPoint>
 <navPoint id="535" playOrder="536"><navLabel><text>Ch 536: Epilogue 4 - The Omniscient Reader's Viewpoint, I</text></navLabel><content src="ch_536.xhtml"/></navPoint>
 <navPoint id="536" playOrder="537"><navLabel><text>Ch 537: Epilogue 4 - The Omniscient Reader's Viewpoint, II</text></navLabel><content src="ch_537.xhtml"/></navPoint>
 <navPoint id="537" playOrder="538"><navLabel><text>Ch 538: Epilogue 4 - The Omniscient Reader's Viewpoint, III</text></navLabel><content src="ch_538.xhtml"/></navPoint>
