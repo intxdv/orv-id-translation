@@ -5,6 +5,11 @@ on:
     tags:
       - 'v*'
   workflow_dispatch:
+    inputs:
+      release_notes:
+        description: 'Custom Release Notes markdown'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -30,18 +35,6 @@ jobs:
         run: |
           ls -lh output/orv_id_translation.epub
 
-      - name: Resolve Release Notes
-        id: notes
-        run: |
-          NOTE_FILE="release-notes/${{ github.ref_name }}.md"
-          if [ -f "$NOTE_FILE" ]; then
-            echo "Menggunakan catatan rilis dari $NOTE_FILE"
-            echo "notes_path=$NOTE_FILE" >> $GITHUB_OUTPUT
-          else
-            echo "Catatan rilis khusus tidak ditemukan, menggunakan auto-generated release notes"
-            echo "notes_path=" >> $GITHUB_OUTPUT
-          fi
-
       - name: Create or Update GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -49,4 +42,4 @@ jobs:
           files: output/orv_id_translation.epub
           prerelease: ${{ contains(github.ref_name, '-rc') || contains(github.ref_name, '-beta') || contains(github.ref_name, '-alpha') }}
           generate_release_notes: true
-          body_path: ${{ steps.notes.outputs.notes_path }}
+          body: ${{ inputs.release_notes }}
