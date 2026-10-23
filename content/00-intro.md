@@ -21,7 +21,7 @@ Ini adalah karya non-profit yang dibuat oleh fans untuk fans. Hak cipta asli sep
 ---
 
 **Cek Kompatibilitas EPUB:**
-Jika kotak di bawah ini tidak terlihat, harap gunakan pembaca (reader) yang mendukung HTML5 (Disarankan: Moon+ Reader atau Calibre).
+Jika kotak di bawah ini tidak terlihat, harap gunakan pembaca (reader) yang mendukung HTML5 (Disarankan: Moon+ Reader, Calibre, atau [Readest Web/Multiplatform](https://web.readest.com/reader/)).
 
 > [!NOTE]
 > [ Skenario Utama #1 ]

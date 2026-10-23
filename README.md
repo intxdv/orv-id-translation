@@ -65,6 +65,14 @@ orv-id-translation/
 > [!IMPORTANT]
 > Proyek ini murni bersifat **non-profit** oleh penggemar untuk penggemar. Hak cipta sepenuhnya milik penulis asli. Harap dukung penulis melalui platform resmi jika memungkinkan.
 
+## 📖 Rekomendasi Aplikasi Pembaca (E-Reader)
+Untuk menikmati pengalaman membaca terbaik (termasuk kompatibilitas HTML5 dan fitur interaktif *pop-up footnote* EPUB 3):
+
+- **Android**: **Moon+ Reader Pro** (Aktifkan opsi *Pop-up footnote* pada menu *Miscellaneous*).
+- **iOS / iPadOS / macOS**: **Apple Books** (Mendukung pop-up footnote secara *native*).
+- **Windows / Linux**: **Thorium Reader** atau **Calibre** (E-book Viewer).
+- **Web & Multi-platform (Semua Perangkat)**: **Readest** ([web.readest.com/reader](https://web.readest.com/reader/)) — pembaca EPUB *open-source* modern yang dapat diakses langsung melalui peramban web tanpa instalasi, maupun dipasang di berbagai platform (Android, iOS, Windows, macOS, Linux).
+
 ## 🐛 Laporan Kesalahan
 Menemukan typo, istilah yang kurang tepat, atau masalah lain? Silakan buat laporan di:
 
