@@ -2,14 +2,23 @@
   <img src="ORV.png" width="100%" alt="ORV Banner" />
   <br> <br>
   
-  # [ OMNISCIENT READER'S VIEWPOINT ]
-  ### — Indonesian Fan-Translation —
+  # Omniscient Reader’s Viewpoint (ORV) — Terjemahan Bahasa Indonesia
+  ### Indonesian Fan Translation of ORV Web Novel — EPUB 3
 
-  [![Status: Review](https://img.shields.io/badge/Status-Review-orange?style=flat-square)](#)
+  [![Release: v1.0.0-rc1](https://img.shields.io/badge/Release-v1.0.0--rc1-blue?style=flat-square&logo=github)](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1)
+  [![Format: EPUB 3 OCF](https://img.shields.io/badge/Format-EPUB%203%20OCF-purple?style=flat-square)](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1)
   [![Language: Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=flat-square)](#)
+  [![Chapters: 1-551 Tamat](https://img.shields.io/badge/Chapters-1--551%20Tamat-success?style=flat-square)](#)
+  <br>
   [![Workflow: AI--Assisted](https://img.shields.io/badge/Workflow-AI--Assisted-8A2BE2?style=flat-square)](AI-DISCLOSURE.md)
   [![Supervision: Human--in--the--Loop](https://img.shields.io/badge/Supervision-Human--in--the--Loop-success?style=flat-square)](AI-DISCLOSURE.md)
   [![License: MIT (Tools)](https://img.shields.io/badge/License-MIT%20(Tools)-green?style=flat-square)](LICENSE)
+
+  <br> <br>
+
+  [**📥 Unduh Berkas EPUB Terbaru (v1.0.0-rc1)**](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1) &nbsp;•&nbsp; [**📖 Panduan Aplikasi Pembaca (E-Reader)**](#-rekomendasi-aplikasi-pembaca-e-reader) &nbsp;•&nbsp; [**💬 Komunitas & Pelaporan Typo**](#-laporan-kesalahan)
+
+  <br>
 
   *"Kisah ini ditujukan bagi satu orang pembaca yang terus bertahan hingga akhir."*
 </div>
@@ -17,9 +26,9 @@
 ---
 
 ## 📖 Tentang Proyek
-Selamat datang di repositori proyek translasi **Omniscient Reader's Viewpoint (ORV)**. Proyek ini adalah sebuah **mini project** yang dikerjakan secara personal untuk menerjemahkan webnovel legendaris ini ke dalam Bahasa Indonesia dengan kualitas yang detail dan tetap mempertahankan nuansa aslinya.
+Selamat datang di repositori proyek alih bahasa **Omniscient Reader's Viewpoint (ORV)** (*전지적 독자 시점*). Repositori ini menyediakan berkas terjemahan penggemar (*fan translation*) **web novel** lengkap dari **Chapter 1 hingga Chapter 551 (Tamat)** ke dalam Bahasa Indonesia dalam format standar **EPUB 3** interaktif.
 
-Proyek ini menggunakan alur kerja modern berbasis Markdown untuk memastikan fleksibilitas dalam proses penerjemahan dan kemudahan dalam pembuatan file EPUB akhir.
+Proyek ini dikerjakan secara personal untuk menghadirkan pengalaman membaca novel web ORV berbahasa Indonesia dengan kualitas sastra terbaik: mempertahankan nuansa puitis aslinya, menerapkan konvensi hibrida modern, mengintegrasikan catatan kaki interaktif (*pop-up footnote* EPUB 3), serta mematuhi supervisi ketat *Human-in-the-Loop* yang didukung perangkat kendali mutu otomatis (*automated quality control*).
 
 ## 🛠️ Tim & Kolaborasi
 - **Lead Translator**: **slvgnt—Taki**
