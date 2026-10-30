@@ -7,6 +7,9 @@
 
   [![Status: Ongoing](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)](#)
   [![Language: Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=flat-square)](#)
+  [![Workflow: AI--Assisted](https://img.shields.io/badge/Workflow-AI--Assisted-8A2BE2?style=flat-square)](AI-DISCLOSURE.md)
+  [![Supervision: Human--in--the--Loop](https://img.shields.io/badge/Supervision-Human--in--the--Loop-success?style=flat-square)](AI-DISCLOSURE.md)
+  [![License: MIT (Tools)](https://img.shields.io/badge/License-MIT%20(Tools)-green?style=flat-square)](LICENSE)
 
   *"Kisah ini ditujukan bagi satu orang pembaca yang terus bertahan hingga akhir."*
 </div>
@@ -19,10 +22,8 @@ Selamat datang di repositori proyek translasi **Omniscient Reader's Viewpoint (O
 Proyek ini menggunakan alur kerja modern berbasis Markdown untuk memastikan fleksibilitas dalam proses penerjemahan dan kemudahan dalam pembuatan file EPUB akhir.
 
 ## 🛠️ Tim & Kolaborasi
-Proyek ini dikelola dengan bantuan AI untuk memastikan efisiensi dan konsistensi istilah:
-
 - **Lead Translator**: **slvgnt—Taki**
-- **AI Assistant**: **Antigravity** (Agent Driven IDE)
+- **Alur Kerja & Engineering**: *Computer-Assisted Translation* (CAT) & *Agentic Tooling* untuk konsistensi glosarium serta kendali mutu otomatis — baca rincian transparansi di [AI-DISCLOSURE.md](AI-DISCLOSURE.md).
 
 ## 📁 Struktur Repositori
 
@@ -48,22 +49,26 @@ orv-id-translation/
 │   │   └── toc.ncx
 │   ├── metadata.yaml
 │   └── mimetype
-├── tools/                   # Skrip bantu (Python)
+├── tools/                   # Skrip bantu & kendali mutu (Python)
+│   ├── lookup_term.py
+│   ├── qc_batch.py
 │   ├── repack_epub.py
 │   └── unzip_epub.py
 ├── build/                   # Output build sementara
 ├── output/                  # File EPUB final siap dibaca
+├── AI-DISCLOSURE.md         # Deklarasi transparansi penggunaan AI (Human-in-the-Loop)
+├── LICENSE                  # Ketentuan penggunaan & lisensi alat bantu
 └── README.md
 ```
 
 ## 📜 Kredit & Disklaimer
 - **Penulis**: Sing Shong (싱숑)
 - **Ilustrasi**: Black Box (검넴)
-- **Sumber Terjemahan EN**: Komunitas penggemar internasional — [orv.pages.dev](https://orv.pages.dev)
+- **Sumber Terjemahan EN**: Komunitas penggemar internasional ([ORV Community Translation Project](https://discord.gg/CZdNvKaNNr))
 - **Discord Komunitas EN**: [discord.gg/CZdNvKaNNr](https://discord.gg/CZdNvKaNNr)
 
 > [!IMPORTANT]
-> Proyek ini murni bersifat **non-profit** oleh penggemar untuk penggemar. Hak cipta sepenuhnya milik penulis asli. Harap dukung penulis melalui platform resmi jika memungkinkan.
+> Proyek ini murni bersifat **non-profit** oleh penggemar untuk penggemar. Hak cipta sepenuhnya milik penulis asli. Harap dukung penulis melalui platform resmi jika memungkinkan. Rincian ketentuan lisensi dapat dilihat di berkas [LICENSE](LICENSE).
 
 ## 📖 Rekomendasi Aplikasi Pembaca (E-Reader)
 Untuk menikmati pengalaman membaca terbaik (termasuk kompatibilitas HTML5 dan fitur interaktif *pop-up footnote* EPUB 3):

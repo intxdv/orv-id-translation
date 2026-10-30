@@ -1,0 +1,44 @@
+# Terms of Use & Licensing
+
+This repository contains two distinct categories of materials governed by different terms:
+
+---
+
+## 1. Literary Work & Translation (Non-Commercial Fan Project)
+
+The intellectual property of the web novel **"Omniscient Reader's Viewpoint" (전지적 독자 시점)**, including all original characters, worldbuilding, and plotlines, belongs exclusively to:
+- **Author**: Sing Shong (싱숑)
+- **Official Illustrator**: Black Box (검넴)
+- **Original Publishers**: Munpia, Naver Webtoon Corp.
+
+This Indonesian translation is an unofficial, non-commercial fan translation created purely out of appreciation for the work and aimed at introducing the story to Indonesian readers.
+
+### Terms for Readers:
+- **Strictly Non-Profit**: This work is distributed free of charge. **Commercial sale, monetization, or distribution for profit is strictly prohibited.**
+- **Support the Official Release**: Readers are strongly encouraged to support the creators by purchasing the official web novel and webtoon on authorized platforms (Munpia, Naver Series, Webtoon).
+- **Fair Use / Attribution**: If citing or referencing this translation, please provide proper attribution to the original author (Sing Shong) and this fan translation project.
+
+---
+
+## 2. Automation Tools & Build Scripts (MIT License)
+
+Copyright (c) 2026 intxdv & Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+*(Applies exclusively to Python scripts and tooling located in the `tools/` directory)*
