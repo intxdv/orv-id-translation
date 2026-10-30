@@ -5,8 +5,7 @@
   # Omniscient Reader’s Viewpoint (ORV) — Terjemahan Bahasa Indonesia
   ### Indonesian Fan Translation of ORV Web Novel — EPUB 3
 
-  [![Release: v1.0.0-rc1](https://img.shields.io/badge/Release-v1.0.0--rc1-blue?style=flat-square&logo=github)](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1)
-  [![Format: EPUB 3 OCF](https://img.shields.io/badge/Format-EPUB%203%20OCF-purple?style=flat-square)](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1)
+  [![Format: EPUB 3 OCF](https://img.shields.io/badge/Format-EPUB%203%20OCF-purple?style=flat-square)](https://github.com/intxdv/orv-id-translation/releases)
   [![Language: Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=flat-square)](#)
   [![Chapters: 1-551 Tamat](https://img.shields.io/badge/Chapters-1--551%20Tamat-success?style=flat-square)](#)
   <br>
@@ -16,7 +15,7 @@
 
   <br> <br>
 
-  [**📥 Unduh Berkas EPUB Terbaru (v1.0.0-rc1)**](https://github.com/intxdv/orv-id-translation/releases/tag/v1.0.0-rc1) &nbsp;•&nbsp; [**📖 Panduan Aplikasi Pembaca (E-Reader)**](#-rekomendasi-aplikasi-pembaca-e-reader) &nbsp;•&nbsp; [**💬 Komunitas & Pelaporan Typo**](#-laporan-kesalahan)
+  [**📥 Unduh Berkas EPUB Terbaru**](https://github.com/intxdv/orv-id-translation/releases) &nbsp;•&nbsp; [**📖 Panduan Aplikasi Pembaca (E-Reader)**](#-rekomendasi-aplikasi-pembaca-e-reader) &nbsp;•&nbsp; [**💬 Komunitas & Pelaporan Typo**](#-laporan-kesalahan)
 
   <br>
 
