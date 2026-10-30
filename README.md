@@ -5,7 +5,7 @@
   # [ OMNISCIENT READER'S VIEWPOINT ]
   ### — Indonesian Fan-Translation —
 
-  [![Status: Ongoing](https://img.shields.io/badge/Status-Ongoing-blue?style=flat-square)](#)
+  [![Status: Review](https://img.shields.io/badge/Status-Review-orange?style=flat-square)](#)
   [![Language: Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=flat-square)](#)
   [![Workflow: AI--Assisted](https://img.shields.io/badge/Workflow-AI--Assisted-8A2BE2?style=flat-square)](AI-DISCLOSURE.md)
   [![Supervision: Human--in--the--Loop](https://img.shields.io/badge/Supervision-Human--in--the--Loop-success?style=flat-square)](AI-DISCLOSURE.md)
