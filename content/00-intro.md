@@ -8,7 +8,7 @@ Proyek ini adalah alih bahasa penggemar (*fan translation*) dari web novel legen
 
 **Tim Proyek Indonesia:**
 - **Translator**: **slvgnt—Taki**
-- **Status**: *Fase Review*
+- **Status**: *Review*
 
 **Kredit Karya Asli:**
 - **Penulis**: Sing Shong (싱숑)
