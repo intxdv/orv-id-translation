@@ -13,7 +13,7 @@ Proyek ini adalah alih bahasa penggemar (*fan translation*) dari web novel legen
 **Kredit Karya Asli:**
 - **Penulis**: Sing Shong (싱숑)
 - **Ilustrator**: Black Box 검넴 ([@1L9l2Aa8UCL0IGJ](https://twitter.com/1L9l2Aa8UCL0IGJ))
-- **Sumber Bahasa Inggris**: Berdasarkan fan-translation komunitas ([ORV Community Translation Project](https://discord.gg/CZdNvKaNNr))
+- **Sumber Bahasa Inggris**: Berdasarkan fan-translation komunitas ([orv.pages.dev](https://orv.pages.dev/stories/orv/))
 
 **Disklaimer:**
 Ini adalah karya non-profit yang dibuat oleh fans untuk fans. Hak cipta asli sepenuhnya milik penulis. Harap tetap dukung penulis asli melalui platform resmi jika memungkinkan.

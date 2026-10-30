@@ -64,7 +64,7 @@ orv-id-translation/
 ## 📜 Kredit & Disklaimer
 - **Penulis**: Sing Shong (싱숑)
 - **Ilustrasi**: Black Box (검넴)
-- **Sumber Terjemahan EN**: Komunitas penggemar internasional ([ORV Community Translation Project](https://discord.gg/CZdNvKaNNr))
+- **Sumber Terjemahan EN**: Komunitas penggemar internasional ([orv.pages.dev](https://orv.pages.dev/stories/orv/))
 - **Discord Komunitas EN**: [discord.gg/CZdNvKaNNr](https://discord.gg/CZdNvKaNNr)
 
 > [!IMPORTANT]
