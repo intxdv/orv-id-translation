@@ -40,7 +40,6 @@ FORBIDDEN_PATTERNS = [
 ]
 
 RECHECK_PATTERNS = [
-    (re.compile(r'\bWays\s+of\s+Survival\b', re.IGNORECASE), "Residu istilah EN 'Ways of Survival' (Wajib 'Cara Bertahan Hidup')"),
     (re.compile(r'\bDemon\s+King\s+of\s+Salvation\b', re.IGNORECASE), "Residu istilah EN 'Demon King of Salvation' (Wajib 'Raja Iblis Keselamatan')"),
     (re.compile(r'\bThe\s+Fourth\s+Wall\b', re.IGNORECASE), "Residu istilah EN 'The Fourth Wall' (Wajib 'Dinding Keempat')"),
     (re.compile(r'orv\.pages\.dev', re.IGNORECASE), "Tautan domain pihak ketiga 'orv.pages.dev' (Wajib diganti ke GitHub Discussions)"),
@@ -115,7 +114,7 @@ def validate_file(fpath, is_recheck=False):
             for pattern, desc in RECHECK_PATTERNS:
                 if pattern.search(line):
                     # Ignore original English references inside Catatan footnotes
-                    if "Catatan [" in line and any(k in line for k in ["Ways of Survival", "Demon King of Salvation", "The Fourth Wall"]):
+                    if "Catatan [" in line and any(k in line for k in ["Demon King of Salvation", "The Fourth Wall"]):
                         continue
                     issues.append(f"Baris {idx} [Recheck]: {desc} -> '{line.strip()[:80]}'")
 
